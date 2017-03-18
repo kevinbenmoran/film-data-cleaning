@@ -158,7 +158,7 @@ arrange(profit, desc(multiplier))
 top_10_multiplier <- arrange(profit, desc(multiplier))[1:10,]
 top_10_difference <- arrange(profit, desc(difference))[1:10,]
 
-ggplot(top_10_multiplier, aes(x = factor(title), y = multiplier, fill = title)) +
+diff_plot <- ggplot(top_10_multiplier, aes(x = factor(title), y = multiplier, fill = title)) +
   geom_col() +
   coord_flip() +
   guides(fill = FALSE) +
@@ -169,7 +169,7 @@ ggplot(top_10_multiplier, aes(x = factor(title), y = multiplier, fill = title)) 
         title = element_text(size=14,face="bold")) +
   theme(plot.margin=unit(c(0.5,1,0.5,0.5),"cm"))
 
-ggplot(top_10_difference, aes(x = factor(title), y = difference, fill = title)) +
+multiplier_plot <- ggplot(top_10_difference, aes(x = factor(title), y = difference, fill = title)) +
   geom_col() +
   coord_flip() +
   guides(fill = FALSE) +
@@ -179,3 +179,6 @@ ggplot(top_10_difference, aes(x = factor(title), y = difference, fill = title)) 
   theme(axis.text=element_text(size=12),
         title = element_text(size=14,face="bold")) +
   theme(plot.margin=unit(c(0.5,1,0.5,0.5),"cm"))
+
+ggsave("difference.png", plot = diff_plot)
+ggsave("multiplier.png", plot = multiplier_plot)
