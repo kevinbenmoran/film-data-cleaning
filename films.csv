@@ -106,7 +106,7 @@
 105,"Nothing But a Man",1964,"USA",95,"Black and White","English","Not Rated",12438,160000
 106,"The Fall of the Roman Empire",1964,"USA",172,"Color","English","Approved",,19000000
 107,"The Train",1964,"France",133,"Black and White","English","Unrated",,6700000
-108,"Une Femme Mariée",1964,"France",94,"Black and White","French",,,120000
+108,"Une Femme MariÃ©e",1964,"France",94,"Black and White","French",,,120000
 109,"Doctor Zhivago",1965,"USA",200,"Color","English","PG-13",111722000,11000000
 110,"Major Dundee",1965,"USA",152,"Color","English","Approved",14873,3800000
 111,"Pierrot le Fou",1965,"France",110,"Color","French","Not Rated",,300000
@@ -368,10 +368,10 @@
 367,"Videodrome",1983,"Canada",89,"Color","English","R",,5952000
 368,"WarGames",1983,"USA",114,"Color","English","PG",79568000,12000000
 369,"Yentl",1983,"UK",132,"Color","English","PG",30400000,12000000
-370,"A Nightmare on Elm Street",1984,"USA",101,"Color","English","X",26505000,1800000
+370,"Amadeus",1984,"USA",180,"Color","English","R",51600000,18000000
 371,"A Nightmare on Elm Street",1984,"USA",101,"Color","English","X",26505000,1800000
-372,"A Passage to India",1984,"UK",164,"Color","English","PG",26400000,16000000
-373,"Amadeus",1984,"USA",180,"Color","English","R",51600000,18000000
+372,"A Nightmare on Elm Street",1984,"USA",101,"Color","English","X",26505000,1800000
+373,"A Passage to India",1984,"UK",164,"Color","English","PG",26400000,16000000
 374,"Beverly Hills Cop",1984,"USA",105,"Color","English","R",234760500,14000000
 375,"Body Double",1984,"USA",114,"Color","English","R",,10000000
 376,"C.H.U.D.",1984,"USA",96,"Color","English","R",,1250000
@@ -428,7 +428,7 @@
 427,"The Return of the Living Dead",1985,"USA",108,"Color","English","R",,4000000
 428,"Witness",1985,"USA",112,"Color","English","R",65500000,12000000
 429,"Young Sherlock Holmes",1985,"USA",109,"Color","English","PG-13",4250320,18000000
-430,"9½ Weeks",1986,"USA",112,"Color","English","R",6734844,17000000
+430,"9Â½ Weeks",1986,"USA",112,"Color","English","R",6734844,17000000
 431,"Aliens",1986,"USA",154,"Color","English","R",85200000,18500000
 432,"April Fool's Day",1986,"USA",89,"Color","English","R",12947763,5000000
 433,"Big Trouble in Little China",1986,"USA",99,"Color","English","PG-13",11100000,25000000
@@ -455,8 +455,8 @@
 454,"Top Gun",1986,"USA",110,"Color","English","PG",176781728,15000000
 455,"Witchboard",1986,"UK",98,"Color","English","R",7369373,2000000
 456,"3 Men and a Baby",1987,"USA",102,"Color","English","PG",167780960,11000000
-457,"A Nightmare on Elm Street 3: Dream Warriors",1987,"USA",88,"Color","English","X",44793200,4500000
-458,"American Ninja 2: The Confrontation",1987,"USA",90,"Color","English","R",4000000,350000
+457,"American Ninja 2: The Confrontation",1987,"USA",90,"Color","English","R",4000000,350000
+458,"A Nightmare on Elm Street 3: Dream Warriors",1987,"USA",88,"Color","English","X",44793200,4500000
 459,"Beverly Hills Cop II",1987,"USA",100,"Color","English","R",153665036,28000000
 460,"Creepshow 2",1987,"USA",85,"Color","English","R",14000000,3500000
 461,"Cry Freedom",1987,"UK",147,"Color","English","PG",5899797,29000000
@@ -486,9 +486,9 @@
 485,"The Running Man",1987,"USA",101,"Color","English","R",38122105,27000000
 486,"The Untouchables",1987,"USA",119,"Color","English","R",76270454,25000000
 487,"Wall Street",1987,"USA",126,"Color","English","R",43848100,15000000
-488,"A Nightmare on Elm Street 4: The Dream Master",1988,"USA",99,"Color","English","R",49369900,7000000
-489,"Action Jackson",1988,"USA",96,"Color","English","R",20257000,7000000
-490,"Akira",1988,"Japan",124,"Color","Japanese","R",439162,1100000000
+488,"Action Jackson",1988,"USA",96,"Color","English","R",20257000,7000000
+489,"Akira",1988,"Japan",124,"Color","Japanese","R",439162,1100000000
+490,"A Nightmare on Elm Street 4: The Dream Master",1988,"USA",99,"Color","English","R",49369900,7000000
 491,"Beetlejuice",1988,"USA",92,"Color","English","PG",73326666,15000000
 492,"Big",1988,"USA",130,"Color","English","PG",114968774,18000000
 493,"Bloodsport",1988,"USA",92,"Color","English","R",11806119,1100000
@@ -607,13 +607,13 @@
 606,"The Addams Family",1991,"USA",99,"Color","English","PG-13",113502246,38000000
 607,"The Doors",1991,"USA",140,"Color","English","R",35183792,38000000
 608,"The Fisher King",1991,"USA",137,"Color","English","R",41895491,24000000
-609,"The Naked Gun 2½: The Smell of Fear",1991,"USA",85,"Color","English","PG-13",86930411,23000000
+609,"The Naked Gun 2Â½: The Smell of Fear",1991,"USA",85,"Color","English","PG-13",86930411,23000000
 610,"The Prince of Tides",1991,"USA",132,"Color","English","R",74787599,30000000
 611,"The Silence of the Lambs",1991,"USA",138,"Color","English","R",130727000,19000000
 612,"White Fang",1991,"USA",107,"Color","English","PG",34793160,14000000
 613,"A Few Good Men",1992,"USA",138,"Color","English","R",141340178,40000000
-614,"A League of Their Own",1992,"USA",128,"Black and White","English","PG",107458785,40000000
-615,"Aladdin",1992,"USA",90,"Color","English","G",217350219,28000000
+614,"Aladdin",1992,"USA",90,"Color","English","G",217350219,28000000
+615,"A League of Their Own",1992,"USA",128,"Black and White","English","PG",107458785,40000000
 616,"Alien 3",1992,"USA",145,"Color","English","R",55473600,50000000
 617,"Army of Darkness",1992,"USA",88,"Color","English","R",11501093,13000000
 618,"Batman Returns",1992,"USA",126,"Color","English","PG-13",162831698,80000000
@@ -694,8 +694,8 @@
 693,"What's Eating Gilbert Grape",1993,"USA",118,"Color","English","PG-13",9170214,11000000
 694,"What's Love Got to Do with It",1993,"USA",118,"Color","English","R",39100956,
 695,"3 Ninjas Kick Back",1994,"USA",93,"Color","English","PG",11784000,20000000
-696,"A Low Down Dirty Shame",1994,"USA",100,"Color","English","R",29392418,10000000
-697,"Ace Ventura: Pet Detective",1994,"USA",78,"Color","English","PG-13",72217000,12000000
+696,"Ace Ventura: Pet Detective",1994,"USA",78,"Color","English","PG-13",72217000,12000000
+697,"A Low Down Dirty Shame",1994,"USA",100,"Color","English","R",29392418,10000000
 698,"Baby's Day Out",1994,"USA",99,"Color","English","PG",16671505,50000000
 699,"Beverly Hills Cop III",1994,"USA",104,"Color","English","R",42610000,55000000
 700,"Bullets Over Broadway",1994,"USA",98,"Color","English","R",13383737,20000000
@@ -724,7 +724,7 @@
 723,"Pulp Fiction",1994,"USA",178,"Color","English","R",107930000,8000000
 724,"Rapa Nui",1994,"USA",107,"Color","English","R",305070,20000000
 725,"Renaissance Man",1994,"USA",128,"Color","English","PG-13",24332324,40000000
-726,"Ri¢hie Ri¢h",1994,"USA",95,"Color","English","PG",38087756,40000000
+726,"RiÂ¢hie RiÂ¢h",1994,"USA",95,"Color","English","PG",38087756,40000000
 727,"Serial Mom",1994,"USA",95,"Color","English","R",7881335,13000000
 728,"Speed",1994,"USA",116,"Color","English","R",121248145,25000000
 729,"Star Trek: Generations",1994,"USA",118,"Color","English","PG",75668868,35000000
@@ -737,12 +737,12 @@
 736,"The Legend of Drunken Master",1994,"Hong Kong",102,"Color","Cantonese","R",11546543,2000000
 737,"The Lion King",1994,"USA",73,"Color","English","G",422783777,45000000
 738,"The Mask",1994,"USA",114,"Color","English","PG-13",119938730,18000000
-739,"The River Wild",1994,"USA",111,"Color","English","PG-13",46815748,45000000
-740,"The Santa Clause",1994,"USA",97,"Color","English","PG",144833357,22000000
-741,"The Shadow",1994,"USA",93,"Color","English","PG-13",32055248,25000000
-742,"The Shawshank Redemption",1994,"USA",142,"Color","English","R",28341469,25000000
-743,"The Specialist",1994,"Peru",110,"Color","English","R",57362581,45000000
-744,"There Goes My Baby",1994,"USA",99,"Color","English","R",125169,10500000
+739,"There Goes My Baby",1994,"USA",99,"Color","English","R",125169,10500000
+740,"The River Wild",1994,"USA",111,"Color","English","PG-13",46815748,45000000
+741,"The Santa Clause",1994,"USA",97,"Color","English","PG",144833357,22000000
+742,"The Shadow",1994,"USA",93,"Color","English","PG-13",32055248,25000000
+743,"The Shawshank Redemption",1994,"USA",142,"Color","English","R",28341469,25000000
+744,"The Specialist",1994,"Peru",110,"Color","English","R",57362581,45000000
 745,"Timecop",1994,"Canada",99,"Color","English","R",44450000,27000000
 746,"True Lies",1994,"USA",141,"Color","English","R",146282411,115000000
 747,"Wolf",1994,"USA",125,"Color","English","R",65012000,70000000
@@ -817,9 +817,9 @@
 816,"Virtuosity",1995,"USA",106,"Color","English","R",24048000,30000000
 817,"Waterworld",1995,"USA",176,"Color","English","PG-13",88246220,175000000
 818,"Welcome to the Dollhouse",1995,"USA",88,"Color","English","R",4771000,800000
-819,"A Thin Line Between Love and Hate",1996,"USA",108,"Color","English","R",34746109,8000000
-820,"A Time to Kill",1996,"USA",149,"Color","English","R",108706165,40000000
-821,"Albino Alligator",1996,"USA",97,"Color","English","R",326308,5000000
+819,"Albino Alligator",1996,"USA",97,"Color","English","R",326308,5000000
+820,"A Thin Line Between Love and Hate",1996,"USA",108,"Color","English","R",34746109,8000000
+821,"A Time to Kill",1996,"USA",149,"Color","English","R",108706165,40000000
 822,"Basquiat",1996,"USA",108,"Color","English","R",2961991,3300000
 823,"Beavis and Butt-Head Do America",1996,"USA",81,"Color","English","PG-13",63071133,12000000
 824,"Blood and Wine",1996,"USA",101,"Color","English","R",1075288,22000000
@@ -918,16 +918,16 @@
 917,"White Squall",1996,"USA",129,"Color","English","PG-13",10300000,38000000
 918,"24 7: Twenty Four Seven",1997,"UK",96,"Black and White","English","R",,
 919,"8 Heads in a Duffel Bag",1997,"USA",95,"Color","English","R",3559990,3000000
-920,"A Simple Wish",1997,"USA",89,"Color","English","PG",8119205,28000000
-921,"Absolute Power",1997,"USA",121,"Color","English","R",50007168,50000000
-922,"Air Bud",1997,"USA",98,"Color","English","PG",24629916,3000000
-923,"Air Force One",1997,"USA",124,"Color","English","R",172620724,85000000
-924,"Alien: Resurrection",1997,"USA",116,"Color","English","R",47748610,75000000
-925,"Amistad",1997,"USA",155,"Color","English","R",44175394,36000000
+920,"Absolute Power",1997,"USA",121,"Color","English","R",50007168,50000000
+921,"Air Bud",1997,"USA",98,"Color","English","PG",24629916,3000000
+922,"Air Force One",1997,"USA",124,"Color","English","R",172620724,85000000
+923,"Alien: Resurrection",1997,"USA",116,"Color","English","R",47748610,75000000
+924,"Amistad",1997,"USA",155,"Color","English","R",44175394,36000000
+925,"Anaconda",1997,"USA",89,"Color","English","PG-13",65557989,45000000
 926,"An Alan Smithee Film: Burn Hollywood Burn",1997,"USA",86,"Color","English","R",15447,10000000
-927,"Anaconda",1997,"USA",89,"Color","English","PG-13",65557989,45000000
-928,"Anastasia",1997,"USA",94,"Color","English","G",58297830,50000000
-929,"As Good as It Gets",1997,"USA",139,"Color","English","PG-13",147637474,50000000
+927,"Anastasia",1997,"USA",94,"Color","English","G",58297830,50000000
+928,"As Good as It Gets",1997,"USA",139,"Color","English","PG-13",147637474,50000000
+929,"A Simple Wish",1997,"USA",89,"Color","English","PG",8119205,28000000
 930,"Austin Powers: International Man of Mystery",1997,"USA",68,"Color","English","PG-13",53868030,17000000
 931,"Batman & Robin",1997,"USA",125,"Color","English","PG-13",107285004,125000000
 932,"Boogie Nights",1997,"USA",155,"Color","English","R",26384919,15000000
@@ -945,17 +945,17 @@
 944,"Cube",1997,"Canada",90,"Color","English","R",489220,365000
 945,"Dante's Peak",1997,"USA",108,"Color","English","PG-13",67155742,116000000
 946,"Deconstructing Harry",1997,"USA",96,"Color","English","R",10569071,20000000
-947,"Déjà Vu",1997,"USA",117,"Color","English","PG-13",821997,
+947,"DÃ©jÃ  Vu",1997,"USA",117,"Color","English","PG-13",821997,
 948,"Donnie Brasco",1997,"USA",147,"Color","English","R",41954997,35000000
 949,"Dream with the Fishes",1997,"USA",97,"Color","English","R",464655,1000000
-950,"Eve's Bayou",1997,"USA",109,"Color","English","R",14821531,6000000
-951,"Event Horizon",1997,"UK",130,"Color","English","R",26616590,60000000
+950,"Event Horizon",1997,"UK",130,"Color","English","R",26616590,60000000
+951,"Eve's Bayou",1997,"USA",109,"Color","English","R",14821531,6000000
 952,"Face/Off",1997,"USA",138,"Color","English","R",112225777,80000000
 953,"First Love, Last Rites",1997,"USA",94,"Color","English","R",40542,300000
 954,"Flubber",1997,"USA",90,"Color","English","PG",92969824,80000000
-955,"G.I. Jane",1997,"USA",125,"Color","English","R",48154732,50000000
-956,"Gattaca",1997,"USA",106,"Color","English","PG-13",12339633,36000000
-957,"George of the Jungle",1997,"USA",92,"Color","English","PG",105263257,55000000
+955,"Gattaca",1997,"USA",106,"Color","English","PG-13",12339633,36000000
+956,"George of the Jungle",1997,"USA",92,"Color","English","PG",105263257,55000000
+957,"G.I. Jane",1997,"USA",125,"Color","English","R",48154732,50000000
 958,"Good Will Hunting",1997,"USA",126,"Color","English","R",138339411,10000000
 959,"Grosse Pointe Blank",1997,"USA",107,"Color","English","R",28014536,15000000
 960,"Hav Plenty",1997,"USA",84,"Color","English","R",2301777,650000
@@ -1038,12 +1038,12 @@
 1037,"54",1998,"USA",121,"Color","English","R",16574731,13000000
 1038,"A Bug's Life",1998,"USA",95,"Color","English","G",162792677,120000000
 1039,"A Civil Action",1998,"USA",115,"Color","English","PG-13",56702901,60000000
-1040,"A Night at the Roxbury",1998,"USA",82,"Color","English","PG-13",30324946,17000000
-1041,"A Simple Plan",1998,"UK",121,"Color","English","R",16311763,17000000
-1042,"American History X",1998,"USA",101,"Black and White","English","R",6712241,7500000
-1043,"Among Giants",1998,"UK",93,"Color","English","R",64359,2500000
-1044,"Antz",1998,"USA",83,"Color","English","PG",90646554,105000000
-1045,"Armageddon",1998,"USA",153,"Color","English","PG-13",201573391,140000000
+1040,"American History X",1998,"USA",101,"Black and White","English","R",6712241,7500000
+1041,"Among Giants",1998,"UK",93,"Color","English","R",64359,2500000
+1042,"A Night at the Roxbury",1998,"USA",82,"Color","English","PG-13",30324946,17000000
+1043,"Antz",1998,"USA",83,"Color","English","PG",90646554,105000000
+1044,"Armageddon",1998,"USA",153,"Color","English","PG-13",201573391,140000000
+1045,"A Simple Plan",1998,"UK",121,"Color","English","R",16311763,17000000
 1046,"Babe: Pig in the City",1998,"Australia",97,"Color","English","G",18318000,80000000
 1047,"Barney's Great Adventure",1998,"Canada",76,"Color","English","G",11144518,15000000
 1048,"Beloved",1998,"USA",172,"Color","English","R",22843047,55000000
@@ -1082,8 +1082,8 @@
 1081,"Hope Floats",1998,"USA",114,"Color","English","PG-13",60033780,30000000
 1082,"How Stella Got Her Groove Back",1998,"USA",124,"Color","English","R",37672350,20000000
 1083,"I Got the Hook Up",1998,"USA",93,"Color","English","R",10305534,3500000
-1084,"I Still Know What You Did Last Summer",1998,"USA",100,"Color","English","R",39989008,24000000
-1085,"Illuminata",1998,"Spain",119,"Color","English","R",836641,
+1084,"Illuminata",1998,"Spain",119,"Color","English","R",836641,
+1085,"I Still Know What You Did Last Summer",1998,"USA",100,"Color","English","R",39989008,24000000
 1086,"Knock Off",1998,"Aruba",91,"Color","English","R",10076136,35000000
 1087,"La otra conquista",1998,"Mexico",106,"Color","Spanish","R",886410,3500000
 1088,"Les couloirs du temps: Les visiteurs II",1998,"France",118,"Color","French",,146072,140000000
@@ -1114,8 +1114,8 @@
 1113,"Saving Private Ryan",1998,"USA",169,"Color","English","R",216119491,70000000
 1114,"Shakespeare in Love",1998,"USA",123,"Color","English","R",100241322,25000000
 1115,"Simon Birch",1998,"USA",114,"Color","English","PG",18252684,30000000
-1116,"Six-String Samurai",1998,"USA",91,"Color","English","PG-13",124494,2000000
-1117,"Six Days Seven Nights",1998,"USA",98,"Color","English","PG-13",74329966,70000000
+1116,"Six Days Seven Nights",1998,"USA",98,"Color","English","PG-13",74329966,70000000
+1117,"Six-String Samurai",1998,"USA",91,"Color","English","PG-13",124494,2000000
 1118,"Slam",1998,"USA",100,"Color","English","R",982214,1000000
 1119,"Sliding Doors",1998,"UK",99,"Color","English","R",11883495,9000000
 1120,"Slums of Beverly Hills",1998,"USA",91,"Color","English","R",5480318,5000000
@@ -1149,14 +1149,14 @@
 1148,"The Prince of Egypt",1998,"USA",99,"Color","English","PG",101217900,70000000
 1149,"The Red Violin",1998,"Canada",130,"Color","French","R",9473382,10000000
 1150,"The Replacement Killers",1998,"USA",96,"Color","English","R",18967571,30000000
-1151,"The Rugrats Movie",1998,"USA",83,"Color","English","G",100491683,24000000
-1152,"The Siege",1998,"USA",116,"Color","English","R",40932372,70000000
-1153,"The Thin Red Line",1998,"USA",215,"Color","English","R",36385763,52000000
-1154,"The Truman Show",1998,"USA",103,"Color","English","PG",125603360,60000000
-1155,"The Velocity of Gary",1998,"USA",100,"Color","English","R",,4000000
-1156,"The Waterboy",1998,"USA",90,"Black and White","English","PG-13",161487252,20000000
-1157,"The X Files",1998,"USA",121,"Color","English","PG-13",83892374,66000000
-1158,"There's Something About Mary",1998,"USA",107,"Color","English","R",176483808,23000000
+1151,"There's Something About Mary",1998,"USA",107,"Color","English","R",176483808,23000000
+1152,"The Rugrats Movie",1998,"USA",83,"Color","English","G",100491683,24000000
+1153,"The Siege",1998,"USA",116,"Color","English","R",40932372,70000000
+1154,"The Thin Red Line",1998,"USA",215,"Color","English","R",36385763,52000000
+1155,"The Truman Show",1998,"USA",103,"Color","English","PG",125603360,60000000
+1156,"The Velocity of Gary",1998,"USA",100,"Color","English","R",,4000000
+1157,"The Waterboy",1998,"USA",90,"Black and White","English","PG-13",161487252,20000000
+1158,"The X Files",1998,"USA",121,"Color","English","PG-13",83892374,66000000
 1159,"Urban Legend",1998,"USA",99,"Color","English","R",38048637,14000000
 1160,"Vampires",1998,"USA",104,"Color","English","R",20241395,20000000
 1161,"Velvet Goldmine",1998,"UK",124,"Color","English","R",1043487,
@@ -1172,20 +1172,20 @@
 1171,"200 Cigarettes",1999,"USA",101,"Color","English","R",6851636,6000000
 1172,"8MM",1999,"Germany",123,"Color","English","R",36283504,40000000
 1173,"A Dog of Flanders",1999,"USA",100,"Color","English","PG",2148212,7000000
-1174,"A Room for Romeo Brass",1999,"UK",90,"Color","English","R",18434,
-1175,"A Walk on the Moon",1999,"USA",107,"Color","English","R",4741987,14000000
-1176,"Aimee & Jaguar",1999,"Germany",125,"Color","German",,927107,15000000
-1177,"American Beauty",1999,"USA",122,"Color","English","R",130058047,15000000
-1178,"American Pie",1999,"USA",95,"Color","English","R",101736215,11000000
+1174,"Aimee & Jaguar",1999,"Germany",125,"Color","German",,927107,15000000
+1175,"American Beauty",1999,"USA",122,"Color","English","R",130058047,15000000
+1176,"American Pie",1999,"USA",95,"Color","English","R",101736215,11000000
+1177,"Analyze This",1999,"USA",103,"Color","English","R",106694016,30000000
+1178,"Angela's Ashes",1999,"USA",145,"Color","English","R",13038660,25000000
 1179,"An Ideal Husband",1999,"UK",97,"Color","English","PG-13",18535191,14000000
-1180,"Analyze This",1999,"USA",103,"Color","English","R",106694016,30000000
-1181,"Angela's Ashes",1999,"USA",145,"Color","English","R",13038660,25000000
-1182,"Anna and the King",1999,"USA",148,"Color","English","PG-13",39251128,75000000
-1183,"Any Given Sunday",1999,"USA",156,"Color","English","R",75530832,55000000
-1184,"Anywhere But Here",1999,"USA",114,"Color","English","PG-13",18653615,23000000
-1185,"Arlington Road",1999,"USA",117,"Color","English","R",24362501,21500000
-1186,"At First Sight",1999,"USA",128,"Black and White","English","PG-13",22326247,60000000
-1187,"Austin Powers: The Spy Who Shagged Me",1999,"USA",95,"Color","English","PG-13",205399422,33000000
+1180,"Anna and the King",1999,"USA",148,"Color","English","PG-13",39251128,75000000
+1181,"Any Given Sunday",1999,"USA",156,"Color","English","R",75530832,55000000
+1182,"Anywhere But Here",1999,"USA",114,"Color","English","PG-13",18653615,23000000
+1183,"Arlington Road",1999,"USA",117,"Color","English","R",24362501,21500000
+1184,"A Room for Romeo Brass",1999,"UK",90,"Color","English","R",18434,
+1185,"At First Sight",1999,"USA",128,"Black and White","English","PG-13",22326247,60000000
+1186,"Austin Powers: The Spy Who Shagged Me",1999,"USA",95,"Color","English","PG-13",205399422,33000000
+1187,"A Walk on the Moon",1999,"USA",107,"Color","English","R",4741987,14000000
 1188,"Baby Geniuses",1999,"USA",97,"Color","English","PG",27141959,18000000
 1189,"Bats",1999,"USA",91,"Color","English","PG-13",10149779,6500000
 1190,"Being John Malkovich",1999,"USA",112,"Color","English","R",22858926,13000000
@@ -1233,17 +1233,17 @@
 1232,"Galaxy Quest",1999,"USA",102,"Color","English","PG",71423726,45000000
 1233,"Ghost Dog: The Way of the Samurai",1999,"France",116,"Color","English","R",3300230,
 1234,"Girl, Interrupted",1999,"USA",127,"Color","English","R",28871190,24000000
-1235,"Go",1999,"USA",102,"Color","English","R",16842303,6500000
-1236,"Godzilla 2000",1999,"Japan",99,"Color","Japanese","PG",10037390,1000000000
+1235,"Godzilla 2000",1999,"Japan",99,"Color","Japanese","PG",10037390,1000000000
+1236,"Go",1999,"USA",102,"Color","English","R",16842303,6500000
 1237,"Happy, Texas",1999,"USA",98,"Color","English","PG-13",1943649,1700000
 1238,"Held Up",1999,"USA",89,"Color","English","PG-13",4692814,8000000
 1239,"House on Haunted Hill",1999,"USA",93,"Color","English","R",40846082,19000000
 1240,"Human Traffic",1999,"UK",99,"Color","English","R",104257,2200000
 1241,"Idle Hands",1999,"USA",92,"Color","English","R",4002955,20000000
 1242,"In Dreams",1999,"USA",100,"Color","English","R",11900000,30000000
-1243,"In Too Deep",1999,"USA",95,"Color","English","R",14003141,7000000
-1244,"Inspector Gadget",1999,"USA",110,"Color","English","PG",97360069,75000000
-1245,"Instinct",1999,"USA",126,"Color","English","R",34098563,55000000
+1243,"Inspector Gadget",1999,"USA",110,"Color","English","PG",97360069,75000000
+1244,"Instinct",1999,"USA",126,"Color","English","R",34098563,55000000
+1245,"In Too Deep",1999,"USA",95,"Color","English","R",14003141,7000000
 1246,"Jakob the Liar",1999,"France",120,"Color","English","PG-13",4956401,15000000
 1247,"Jawbreaker",1999,"USA",87,"Color","English","R",3071947,3500000
 1248,"Jesus' Son",1999,"USA",107,"Color","English","R",1282084,2500000
@@ -1260,8 +1260,8 @@
 1259,"Mumford",1999,"USA",112,"Black and White","English","R",4554569,28000000
 1260,"Muppets from Space",1999,"USA",87,"Color","English","G",16290976,24000000
 1261,"My Favorite Martian",1999,"USA",94,"Color","English","PG",36830057,65000000
-1262,"Mystery Men",1999,"USA",121,"Color","English","PG-13",29655590,65000000
-1263,"Mystery, Alaska",1999,"Canada",119,"Color","English","R",8888143,28000000
+1262,"Mystery, Alaska",1999,"Canada",119,"Color","English","R",8888143,28000000
+1263,"Mystery Men",1999,"USA",121,"Color","English","PG-13",29655590,65000000
 1264,"Notting Hill",1999,"UK",124,"Color","English","PG-13",116006080,42000000
 1265,"Office Space",1999,"USA",89,"Color","English","R",10824921,10000000
 1266,"One Man's Hero",1999,"Spain",121,"Color","English","R",229311,11350000
@@ -1344,8 +1344,8 @@
 1343,"Almost Famous",2000,"USA",152,"Color","English","R",32522352,60000000
 1344,"American Psycho",2000,"USA",102,"Color","English","R",15047419,7000000
 1345,"Amores Perros",2000,"Mexico",115,"Color","Spanish","R",5383834,2000000
-1346,"An Everlasting Piece",2000,"USA",103,"Color","English","R",75078,14000000
-1347,"Anatomy",2000,"Germany",103,"Color","German","R",5725,8400000
+1346,"Anatomy",2000,"Germany",103,"Color","German","R",5725,8400000
+1347,"An Everlasting Piece",2000,"USA",103,"Color","English","R",75078,14000000
 1348,"Autumn in New York",2000,"USA",103,"Color","English","PG-13",37752931,40000000
 1349,"Bamboozled",2000,"USA",135,"Color","English","R",2185266,10000000
 1350,"Battlefield Earth",2000,"USA",119,"Color","English","PG-13",21471685,44000000
@@ -1407,15 +1407,15 @@
 1406,"Love & Basketball",2000,"USA",124,"Color","English","PG-13",27441122,15000000
 1407,"Lucky Numbers",2000,"France",105,"Color","English","R",10014234,65000000
 1408,"Luminarias",2000,"USA",100,"Color","English","R",428535,1000000
-1409,"Me, Myself & Irene",2000,"USA",116,"Color","English","R",90567722,51000000
-1410,"Meet the Parents",2000,"USA",108,"Color","English","PG-13",166225040,55000000
-1411,"Memento",2000,"USA",113,"Black and White","English","R",25530884,9000000
+1409,"Meet the Parents",2000,"USA",108,"Color","English","PG-13",166225040,55000000
+1410,"Memento",2000,"USA",113,"Black and White","English","R",25530884,9000000
+1411,"Me, Myself & Irene",2000,"USA",116,"Color","English","R",90567722,51000000
 1412,"Men of Honor",2000,"USA",129,"Color","English","R",48814909,32000000
 1413,"Mercy Streets",2000,"USA",106,"Color","English","PG-13",171988,600000
 1414,"Michael Jordan to the Max",2000,"USA",46,"Color","English",,18642318,
 1415,"Miss Congeniality",2000,"USA",109,"Color","English","PG-13",106807667,45000000
-1416,"Mission to Mars",2000,"USA",114,"Color","English","PG",60874615,90000000
-1417,"Mission: Impossible II",2000,"USA",123,"Color","English","PG-13",215397307,125000000
+1416,"Mission: Impossible II",2000,"USA",123,"Color","English","PG-13",215397307,125000000
+1417,"Mission to Mars",2000,"USA",114,"Color","English","PG",60874615,90000000
 1418,"My Dog Skip",2000,"USA",95,"Color","English","PG",34099640,5000000
 1419,"Next Friday",2000,"USA",98,"Color","English","R",57176582,9500000
 1420,"Nine Queens",2000,"Argentina",114,"Color","Spanish","R",1221261,1500000
@@ -1425,7 +1425,7 @@
 1424,"Pandaemonium",2000,"UK",124,"Color","English","PG-13",,15000000
 1425,"Pay It Forward",2000,"USA",123,"Color","English","PG-13",33508922,40000000
 1426,"Pitch Black",2000,"USA",112,"Color","English","R",39235088,23000000
-1427,"Pokémon 3: The Movie",2000,"Japan",93,"Color","Japanese","G",,16000000
+1427,"PokÃ©mon 3: The Movie",2000,"Japan",93,"Color","Japanese","G",,16000000
 1428,"Pollock",2000,"USA",122,"Color","English","R",8596914,6000000
 1429,"Proof of Life",2000,"USA",135,"Color","English","R",32598931,65000000
 1430,"Psycho Beach Party",2000,"Australia",85,"Color","English","Unrated",265107,1500000
@@ -1494,13 +1494,13 @@
 1493,"Traffic",2000,"USA",190,"Color","English","R",124107476,48000000
 1494,"U-571",2000,"France",116,"Color","English","PG-13",77086030,62000000
 1495,"Unbreakable",2000,"USA",106,"Color","English","PG-13",94999143,75000000
-1496,"Urban Legends: Final Cut",2000,"USA",97,"Color","English","R",21468807,14000000
-1497,"Urbania",2000,"USA",106,"Color","English","R",1027119,225000
+1496,"Urbania",2000,"USA",106,"Color","English","R",1027119,225000
+1497,"Urban Legends: Final Cut",2000,"USA",97,"Color","English","R",21468807,14000000
 1498,"Vertical Limit",2000,"USA",124,"Color","English","PG-13",68473360,75000000
-1499,"What Lies Beneath",2000,"USA",130,"Color","English","PG-13",155370362,100000000
-1500,"What Planet Are You From?",2000,"USA",87,"Color","English","R",6291602,50000000
-1501,"What Women Want",2000,"USA",127,"Color","English","PG-13",182805123,70000000
-1502,"Whatever It Takes",2000,"USA",94,"Color","English","PG-13",8735529,15000000
+1499,"Whatever It Takes",2000,"USA",94,"Color","English","PG-13",8735529,15000000
+1500,"What Lies Beneath",2000,"USA",130,"Color","English","PG-13",155370362,100000000
+1501,"What Planet Are You From?",2000,"USA",87,"Color","English","R",6291602,50000000
+1502,"What Women Want",2000,"USA",127,"Color","English","PG-13",182805123,70000000
 1503,"Where the Heart Is",2000,"USA",120,"Color","English","PG-13",33771174,15000000
 1504,"Whipped",2000,"USA",82,"Color","English","R",4142507,3000000
 1505,"Woman on Top",2000,"USA",92,"Color","English","R",5018450,8000000
@@ -1510,17 +1510,17 @@
 1509,"15 Minutes",2001,"USA",120,"Color","English","R",24375436,42000000
 1510,"3000 Miles to Graceland",2001,"USA",125,"Color","English","R",15738632,42000000
 1511,"A Beautiful Mind",2001,"USA",135,"Color","English","PG-13",170708996,58000000
-1512,"A Knight's Tale",2001,"USA",144,"Color","English","PG-13",56083966,65000000
-1513,"A.I. Artificial Intelligence",2001,"USA",146,"Color","English","PG-13",78616689,100000000
-1514,"Ali",2001,"USA",165,"Black and White","English","R",58183966,107000000
-1515,"Alias Betty",2001,"France",103,"Color","French",,206400,50000000
+1512,"A.I. Artificial Intelligence",2001,"USA",146,"Color","English","PG-13",78616689,100000000
+1513,"A Knight's Tale",2001,"USA",144,"Color","English","PG-13",56083966,65000000
+1514,"Alias Betty",2001,"France",103,"Color","French",,206400,50000000
+1515,"Ali",2001,"USA",165,"Black and White","English","R",58183966,107000000
 1516,"All the Queen's Men",2001,"Germany",105,"Color","English","PG-13",22723,25000000
 1517,"Along Came a Spider",2001,"USA",104,"Color","English","R",74058698,60000000
-1518,"Amélie",2001,"France",122,"Black and White","French","R",33201661,77000000
-1519,"America's Sweethearts",2001,"USA",102,"Color","English","PG-13",93607673,48000000
-1520,"American Desi",2001,"USA",100,"Color","English","Unrated",902835,250000
-1521,"American Outlaws",2001,"USA",94,"Color","English","PG-13",13264986,35000000
-1522,"American Pie 2",2001,"USA",108,"Color","English","R",145096820,30000000
+1518,"AmÃ©lie",2001,"France",122,"Black and White","French","R",33201661,77000000
+1519,"American Desi",2001,"USA",100,"Color","English","Unrated",902835,250000
+1520,"American Outlaws",2001,"USA",94,"Color","English","PG-13",13264986,35000000
+1521,"American Pie 2",2001,"USA",108,"Color","English","R",145096820,30000000
+1522,"America's Sweethearts",2001,"USA",102,"Color","English","PG-13",93607673,48000000
 1523,"Angel Eyes",2001,"USA",102,"Color","English","R",24044532,38000000
 1524,"Antitrust",2001,"USA",109,"Color","English","PG-13",10965209,30000000
 1525,"Atlantis: The Lost Empire",2001,"USA",95,"Color","English","PG",84037039,120000000
@@ -1544,8 +1544,8 @@
 1543,"Crocodile Dundee in Los Angeles",2001,"Australia",92,"Color","English","PG",25590119,21150000
 1544,"Dogtown and Z-Boys",2001,"USA",91,"Black and White","English","PG-13",1293295,
 1545,"Domestic Disturbance",2001,"USA",89,"Color","English","PG-13",45207112,53000000
-1546,"Don't Say a Word",2001,"USA",113,"Color","English","R",54997476,50000000
-1547,"Donnie Darko",2001,"USA",133,"Color","English","R",727883,4500000
+1546,"Donnie Darko",2001,"USA",133,"Color","English","R",727883,4500000
+1547,"Don't Say a Word",2001,"USA",113,"Color","English","R",54997476,50000000
 1548,"Double Take",2001,"USA",88,"Color","English","PG-13",20218,24000000
 1549,"Down and Out with the Dolls",2001,"USA",88,"Color","English","R",58936,1200000
 1550,"Down to Earth",2001,"USA",87,"Color","English","PG-13",64172251,30000000
@@ -1561,8 +1561,8 @@
 1560,"From Hell",2001,"USA",122,"Color","English","R",31598308,35000000
 1561,"From Hell",2001,"USA",122,"Color","English","R",31598308,35000000
 1562,"Get Over It",2001,"USA",87,"Color","English","PG-13",11560259,22000000
-1563,"Ghost World",2001,"USA",111,"Color","English","R",6200756,7000000
-1564,"Ghosts of Mars",2001,"USA",98,"Color","English","R",8434601,28000000
+1563,"Ghosts of Mars",2001,"USA",98,"Color","English","R",8434601,28000000
+1564,"Ghost World",2001,"USA",111,"Color","English","R",6200756,7000000
 1565,"Glitter",2001,"USA",104,"Color","English","PG-13",4273372,22000000
 1566,"Gosford Park",2001,"UK",131,"Color","English","R",41300105,19800000
 1567,"Hardball",2001,"USA",106,"Color","English","PG-13",40219708,21000000
@@ -1588,15 +1588,15 @@
 1587,"Joy Ride",2001,"USA",97,"Color","English","R",21973182,23000000
 1588,"Jurassic Park III",2001,"USA",92,"Color","English","PG-13",181166115,93000000
 1589,"Just Visiting",2001,"France",84,"Color","English","PG-13",4777007,40000000
-1590,"K-PAX",2001,"USA",120,"Color","English","PG-13",50173190,48000000
-1591,"Kate & Leopold",2001,"USA",123,"Color","English","PG-13",47095453,48000000
+1590,"Kate & Leopold",2001,"USA",123,"Color","English","PG-13",47095453,48000000
+1591,"Kissing Jessica Stein",2001,"USA",97,"Color","English","R",7022940,1000000
 1592,"Kiss of the Dragon",2001,"France",98,"Color","English","R",36833473,25000000
-1593,"Kissing Jessica Stein",2001,"USA",97,"Color","English","R",7022940,1000000
-1594,"Knockaround Guys",2001,"USA",92,"Color","English","R",11632420,
-1595,"L.I.E.",2001,"USA",97,"Color","English","NC-17",1141829,700000
-1596,"Lara Croft: Tomb Raider",2001,"USA",100,"Color","English","PG-13",131144183,115000000
-1597,"Last Orders",2001,"UK",109,"Color","English","R",2326407,12000000
-1598,"Legally Blonde",2001,"USA",96,"Color","English","PG-13",95001351,18000000
+1593,"Knockaround Guys",2001,"USA",92,"Color","English","R",11632420,
+1594,"K-PAX",2001,"USA",120,"Color","English","PG-13",50173190,48000000
+1595,"Lara Croft: Tomb Raider",2001,"USA",100,"Color","English","PG-13",131144183,115000000
+1596,"Last Orders",2001,"UK",109,"Color","English","R",2326407,12000000
+1597,"Legally Blonde",2001,"USA",96,"Color","English","PG-13",95001351,18000000
+1598,"L.I.E.",2001,"USA",97,"Color","English","NC-17",1141829,700000
 1599,"Life as a House",2001,"USA",125,"Color","English","R",15561627,18000000
 1600,"Lovely & Amazing",2001,"USA",91,"Color","English","R",4186931,250000
 1601,"Lucky Break",2001,"UK",107,"Color","English","PG-13",54606,6000000
@@ -1615,13 +1615,13 @@
 1614,"Not Another Teen Movie",2001,"USA",99,"Color","English","R",37882551,16000000
 1615,"Novocaine",2001,"USA",95,"Color","English","R",2025238,6000000
 1616,"Nowhere in Africa",2001,"Germany",141,"Color","English","R",6173485,7000000
-1617,"O",2001,"USA",95,"Color","English","R",16017403,5000000
-1618,"O",2001,"USA",95,"Color","English","R",16017403,5000000
-1619,"Ocean's Eleven",2001,"USA",116,"Color","English","PG-13",183405771,85000000
-1620,"On the Line",2001,"USA",85,"Color","English","PG",4356743,16000000
-1621,"Original Sin",2001,"France",118,"Color","English","R",16252765,42000000
-1622,"Osmosis Jones",2001,"USA",95,"Color","English","PG",13596911,70000000
-1623,"Out Cold",2001,"USA",89,"Color","English","PG-13",13903262,11000000
+1617,"Ocean's Eleven",2001,"USA",116,"Color","English","PG-13",183405771,85000000
+1618,"On the Line",2001,"USA",85,"Color","English","PG",4356743,16000000
+1619,"Original Sin",2001,"France",118,"Color","English","R",16252765,42000000
+1620,"Osmosis Jones",2001,"USA",95,"Color","English","PG",13596911,70000000
+1621,"Out Cold",2001,"USA",89,"Color","English","PG-13",13903262,11000000
+1622,"O",2001,"USA",95,"Color","English","R",16017403,5000000
+1623,"O",2001,"USA",95,"Color","English","R",16017403,5000000
 1624,"Pearl Harbor",2001,"USA",184,"Black and White","English","PG-13",198539855,140000000
 1625,"Planet of the Apes",2001,"USA",119,"Color","English","PG-13",180011740,100000000
 1626,"Planet of the Apes",2001,"USA",119,"Color","English","PG-13",180011740,100000000
@@ -1693,26 +1693,26 @@
 1692,"Wasabi",2001,"France",94,"Color","French","R",81525,15300000
 1693,"What's the Worst That Could Happen?",2001,"USA",94,"Color","English","PG-13",32095318,45000000
 1694,"Winged Migration",2001,"France",81,"Color","English","G",10762178,160000000
-1695,"Y Tu Mamá También",2001,"Mexico",106,"Color","Spanish","R",13622333,2000000
+1695,"Y Tu MamÃ¡ TambiÃ©n",2001,"Mexico",106,"Color","Spanish","R",13622333,2000000
 1696,"Zoolander",2001,"Germany",90,"Color","English","PG-13",45162741,28000000
 1697,"25th Hour",2002,"USA",108,"Color","English","R",13060843,15000000
 1698,"28 Days Later...",2002,"UK",113,"Color","English","R",45063889,8000000
 1699,"40 Days and 40 Nights",2002,"USA",96,"Color","English","R",37939782,17000000
 1700,"8 Mile",2002,"USA",110,"Color","English","R",116724075,41000000
 1701,"8 Women",2002,"France",111,"Color","French","R",3076425,8000000
-1702,"A Walk to Remember",2002,"USA",101,"Color","English","PG",41227069,11000000
-1703,"Abandon",2002,"USA",99,"Color","English","PG-13",10719367,25000000
-1704,"About a Boy",2002,"UK",101,"Color","English","PG-13",40566655,30000000
-1705,"About Schmidt",2002,"USA",125,"Color","English","R",65010106,30000000
-1706,"Adaptation.",2002,"USA",81,"Color","English","R",22245861,19000000
-1707,"All About the Benjamins",2002,"USA",95,"Color","English","R",25482931,14000000
-1708,"All or Nothing",2002,"UK",121,"Color","English","R",112935,9000000
-1709,"Amen.",2002,"France",132,"Color","English","Unrated",274299,103000000
-1710,"Analyze That",2002,"USA",96,"Color","English","R",32122249,60000000
-1711,"Antwone Fisher",2002,"USA",117,"Color","English","PG-13",21078145,12500000
-1712,"Ararat",2002,"Canada",115,"Color","English","R",1554566,
-1713,"Austin Powers in Goldmember",2002,"USA",94,"Color","English","PG-13",213079163,63000000
-1714,"Auto Focus",2002,"USA",105,"Color","English","R",2062066,7000000
+1702,"Abandon",2002,"USA",99,"Color","English","PG-13",10719367,25000000
+1703,"About a Boy",2002,"UK",101,"Color","English","PG-13",40566655,30000000
+1704,"About Schmidt",2002,"USA",125,"Color","English","R",65010106,30000000
+1705,"Adaptation.",2002,"USA",81,"Color","English","R",22245861,19000000
+1706,"All About the Benjamins",2002,"USA",95,"Color","English","R",25482931,14000000
+1707,"All or Nothing",2002,"UK",121,"Color","English","R",112935,9000000
+1708,"Amen.",2002,"France",132,"Color","English","Unrated",274299,103000000
+1709,"Analyze That",2002,"USA",96,"Color","English","R",32122249,60000000
+1710,"Antwone Fisher",2002,"USA",117,"Color","English","PG-13",21078145,12500000
+1711,"Ararat",2002,"Canada",115,"Color","English","R",1554566,
+1712,"Austin Powers in Goldmember",2002,"USA",94,"Color","English","PG-13",213079163,63000000
+1713,"Auto Focus",2002,"USA",105,"Color","English","R",2062066,7000000
+1714,"A Walk to Remember",2002,"USA",101,"Color","English","PG",41227069,11000000
 1715,"Bad Company",2002,"USA",116,"Color","English","PG-13",30157016,70000000
 1716,"Ballistic: Ecks vs. Sever",2002,"USA",91,"Color","English","R",14294842,70000000
 1717,"Barbershop",2002,"USA",102,"Color","English","PG-13",75074950,12000000
@@ -1764,8 +1764,8 @@
 1763,"Far from Heaven",2002,"USA",107,"Color","English","PG-13",15854988,13500000
 1764,"Feardotcom",2002,"UK",101,"Color","English","R",13208023,42000000
 1765,"Femme Fatale",2002,"France",114,"Color","English","R",6592103,35000000
-1766,"Frida",2002,"USA",123,"Black and White","English","R",25776062,12000000
-1767,"Friday After Next",2002,"USA",85,"Color","English","R",32983713,20000000
+1766,"Friday After Next",2002,"USA",85,"Color","English","R",32983713,20000000
+1767,"Frida",2002,"USA",123,"Black and White","English","R",25776062,12000000
 1768,"Full Frontal",2002,"USA",101,"Color","English","R",2506446,2000000
 1769,"Funny Ha Ha",2002,"USA",85,"Color","English",,,
 1770,"Gangs of New York",2002,"USA",216,"Color","English","R",77679638,100000000
@@ -1781,12 +1781,12 @@
 1780,"High Crimes",2002,"USA",115,"Color","English","PG-13",41543207,42000000
 1781,"Highway",2002,"USA",97,"Color","English","R",,14000000
 1782,"Hollywood Ending",2002,"USA",112,"Color","English","PG-13",4839383,16000000
-1783,"I Spy",2002,"USA",97,"Color","English","PG-13",33105600,70000000
-1784,"Ice Age",2002,"USA",103,"Color","English","PG",176387405,59000000
-1785,"Igby Goes Down",2002,"USA",99,"Color","English","R",4681503,9000000
-1786,"Insomnia",2002,"USA",118,"Color","English","R",67263182,46000000
-1787,"Interview with the Assassin",2002,"USA",88,"Color","English","R",47329,750000
-1788,"Irreversible",2002,"France",99,"Color","French","Not Rated",753501,
+1783,"Ice Age",2002,"USA",103,"Color","English","PG",176387405,59000000
+1784,"Igby Goes Down",2002,"USA",99,"Color","English","R",4681503,9000000
+1785,"Insomnia",2002,"USA",118,"Color","English","R",67263182,46000000
+1786,"Interview with the Assassin",2002,"USA",88,"Color","English","R",47329,750000
+1787,"Irreversible",2002,"France",99,"Color","French","Not Rated",753501,
+1788,"I Spy",2002,"USA",97,"Color","English","PG-13",33105600,70000000
 1789,"Jackass: The Movie",2002,"USA",87,"Color","English","R",64267897,5000000
 1790,"John Q",2002,"USA",116,"Color","English","PG-13",71026631,36000000
 1791,"Jonah: A VeggieTales Movie",2002,"USA",82,"Color","English","G",25571351,14000000
@@ -1898,23 +1898,23 @@
 1897,"Undisputed",2002,"USA",94,"Black and White","English","R",12398628,20000000
 1898,"Unfaithful",2002,"USA",124,"Color","English","R",52752475,50000000
 1899,"Van Wilder: Party Liaison",2002,"Germany",94,"Color","English","R",21005329,6000000
-1900,"We Were Soldiers",2002,"USA",124,"Color","English","R",78120196,75000000
-1901,"Welcome to Collinwood",2002,"USA",86,"Color","English","R",333976,12000000
+1900,"Welcome to Collinwood",2002,"USA",86,"Color","English","R",333976,12000000
+1901,"We Were Soldiers",2002,"USA",124,"Color","English","R",78120196,75000000
 1902,"Whale Rider",2002,"New Zealand",101,"Color","English","PG-13",20772796,6000000
 1903,"White Oleander",2002,"USA",109,"Color","English","PG-13",16346122,16000000
 1904,"Windtalkers",2002,"USA",153,"Color","English","R",40911830,115000000
 1905,"xXx",2002,"USA",132,"Color","English","PG-13",141204016,70000000
 1906,"11:14",2003,"USA",85,"Color","English","R",,6000000
-1907,"2 Fast 2 Furious",2003,"USA",107,"Color","English","PG-13",127083765,76000000
-1908,"21 Grams",2003,"USA",124,"Color","English","R",16248701,20000000
-1909,"A Guy Thing",2003,"USA",101,"Color","English","PG-13",15408822,20000000
-1910,"A Man Apart",2003,"USA",109,"Color","English","R",26183197,36000000
-1911,"A Mighty Wind",2003,"USA",91,"Color","English","PG-13",17508936,
-1912,"Agent Cody Banks",2003,"USA",102,"Color","English","PG",47285499,26000000
-1913,"Alex & Emma",2003,"USA",96,"Color","English","PG-13",14208384,30000000
-1914,"All the Real Girls",2003,"USA",108,"Color","English","R",548712,2500000
-1915,"American Splendor",2003,"USA",101,"Color","English","R",6003587,
-1916,"American Wedding",2003,"USA",74,"Color","English","R",104354205,55000000
+1907,"21 Grams",2003,"USA",124,"Color","English","R",16248701,20000000
+1908,"2 Fast 2 Furious",2003,"USA",107,"Color","English","PG-13",127083765,76000000
+1909,"Agent Cody Banks",2003,"USA",102,"Color","English","PG",47285499,26000000
+1910,"A Guy Thing",2003,"USA",101,"Color","English","PG-13",15408822,20000000
+1911,"Alex & Emma",2003,"USA",96,"Color","English","PG-13",14208384,30000000
+1912,"All the Real Girls",2003,"USA",108,"Color","English","R",548712,2500000
+1913,"A Man Apart",2003,"USA",109,"Color","English","R",26183197,36000000
+1914,"American Splendor",2003,"USA",101,"Color","English","R",6003587,
+1915,"American Wedding",2003,"USA",74,"Color","English","R",104354205,55000000
+1916,"A Mighty Wind",2003,"USA",91,"Color","English","PG-13",17508936,
 1917,"Anything Else",2003,"USA",108,"Color","English","R",3203044,18000000
 1918,"Bad Boys II",2003,"USA",147,"Color","English","R",138396624,130000000
 1919,"Bad Santa",2003,"USA",98,"Color","English","R",60057639,18000000
@@ -1964,8 +1964,8 @@
 1963,"How to Deal",2003,"USA",101,"Color","English","PG-13",14108518,16000000
 1964,"How to Lose a Guy in 10 Days",2003,"USA",116,"Color","English","PG-13",105807520,50000000
 1965,"Hulk",2003,"USA",138,"Color","English","PG-13",132122995,137000000
-1966,"I Love Your Work",2003,"USA",111,"Color","English","R",2580,1650000
-1967,"Identity",2003,"USA",91,"Color","English","R",51475962,30000000
+1966,"Identity",2003,"USA",91,"Color","English","R",51475962,30000000
+1967,"I Love Your Work",2003,"USA",111,"Color","English","R",2580,1650000
 1968,"In the Cut",2003,"Australia",113,"Color","English","R",4717455,12000000
 1969,"Intolerable Cruelty",2003,"USA",100,"Color","English","PG-13",35096190,60000000
 1970,"Jeepers Creepers II",2003,"USA",104,"Color","English","R",35143332,17000000
@@ -1992,8 +1992,8 @@
 1991,"Mystic River",2003,"USA",138,"Color","English","R",90135191,25000000
 1992,"Northfork",2003,"USA",103,"Color","English","PG-13",1420578,1900000
 1993,"Nothing",2003,"Canada",90,"Color","English","R",,
-1994,"Old School",2003,"USA",88,"Color","English","R",74608545,24000000
-1995,"Oldboy",2003,"South Korea",120,"Color","Korean","R",2181290,3000000
+1994,"Oldboy",2003,"South Korea",120,"Color","Korean","R",2181290,3000000
+1995,"Old School",2003,"USA",88,"Color","English","R",74608545,24000000
 1996,"Once Upon a Time in Mexico",2003,"USA",102,"Color","English","R",55845943,29000000
 1997,"Open Range",2003,"USA",139,"Color","English","R",58328680,22000000
 1998,"Open Water",2003,"USA",79,"Color","English","R",30500882,500000
@@ -2007,21 +2007,21 @@
 2006,"Radio",2003,"USA",109,"Color","English","PG",52277485,35000000
 2007,"Remember Me, My Love",2003,"Italy",125,"Color","Italian","R",223878,5000000
 2008,"Rugrats Go Wild",2003,"USA",80,"Color","English","PG",39399750,25000000
-2009,"S.W.A.T.",2003,"USA",117,"Color","English","PG-13",116643346,80000000
-2010,"Saints and Soldiers",2003,"USA",90,"Color","English","PG-13",1310270,780000
-2011,"Scary Movie 3",2003,"USA",84,"Color","English","PG-13",110000082,48000000
-2012,"School of Rock",2003,"USA",108,"Color","English","PG-13",81257845,35000000
-2013,"Seabiscuit",2003,"USA",140,"Black and White","English","PG-13",120147445,87000000
-2014,"Secondhand Lions",2003,"USA",111,"Color","English","PG",41407470,30000000
-2015,"Shade",2003,"USA",101,"Color","English","R",10696,6800000
-2016,"Shanghai Knights",2003,"USA",114,"Color","English","PG-13",60470220,50000000
-2017,"Shattered Glass",2003,"USA",99,"Color","English","PG-13",2207975,6000000
-2018,"Silmido",2003,"South Korea",135,"Color","Korean",,,8000000
-2019,"Sinbad: Legend of the Seven Seas",2003,"USA",85,"Color","English","PG",26288320,60000000
-2020,"Something's Gotta Give",2003,"USA",128,"Color","English","PG-13",124590960,80000000
-2021,"Spy Kids 3-D: Game Over",2003,"USA",84,"Color","English","PG",111760631,38000000
-2022,"Stuck on You",2003,"USA",118,"Color","English","PG-13",33828318,55000000
-2023,"Sur le seuil",2003,"Canada",99,"Color","French",,,3200000
+2009,"Saints and Soldiers",2003,"USA",90,"Color","English","PG-13",1310270,780000
+2010,"Scary Movie 3",2003,"USA",84,"Color","English","PG-13",110000082,48000000
+2011,"School of Rock",2003,"USA",108,"Color","English","PG-13",81257845,35000000
+2012,"Seabiscuit",2003,"USA",140,"Black and White","English","PG-13",120147445,87000000
+2013,"Secondhand Lions",2003,"USA",111,"Color","English","PG",41407470,30000000
+2014,"Shade",2003,"USA",101,"Color","English","R",10696,6800000
+2015,"Shanghai Knights",2003,"USA",114,"Color","English","PG-13",60470220,50000000
+2016,"Shattered Glass",2003,"USA",99,"Color","English","PG-13",2207975,6000000
+2017,"Silmido",2003,"South Korea",135,"Color","Korean",,,8000000
+2018,"Sinbad: Legend of the Seven Seas",2003,"USA",85,"Color","English","PG",26288320,60000000
+2019,"Something's Gotta Give",2003,"USA",128,"Color","English","PG-13",124590960,80000000
+2020,"Spy Kids 3-D: Game Over",2003,"USA",84,"Color","English","PG",111760631,38000000
+2021,"Stuck on You",2003,"USA",118,"Color","English","PG-13",33828318,55000000
+2022,"Sur le seuil",2003,"Canada",99,"Color","French",,,3200000
+2023,"S.W.A.T.",2003,"USA",117,"Color","English","PG-13",116643346,80000000
 2024,"Swimming Pool",2003,"France",102,"Color","English","R",10105505,
 2025,"Tarnation",2003,"USA",88,"Color","English","Unrated",592014,218
 2026,"Tears of the Sun",2003,"USA",142,"Color","English","R",43426961,70000000
@@ -2049,9 +2049,9 @@
 2048,"The Medallion",2003,"Hong Kong",108,"Color","English","PG-13",22108977,41000000
 2049,"The Mudge Boy",2003,"USA",94,"Color","English","R",,800000
 2050,"The Order",2003,"USA",102,"Color","English","R",7659747,38000000
-2051,"The R.M.",2003,"USA",101,"Color","English","PG",1111615,500000
-2052,"The Real Cancun",2003,"USA",96,"Color","English","R",3713002,8000000
-2053,"The Return",2003,"Russia",99,"Color","Russian","Unrated",502028,
+2051,"The Real Cancun",2003,"USA",96,"Color","English","R",3713002,8000000
+2052,"The Return",2003,"Russia",99,"Color","Russian","Unrated",502028,
+2053,"The R.M.",2003,"USA",101,"Color","English","PG",1111615,500000
 2054,"The Rundown",2003,"USA",104,"Color","English","PG-13",47592825,85000000
 2055,"The Singing Detective",2003,"USA",109,"Color","English","R",336456,8000000
 2056,"The Statement",2003,"Canada",120,"Black and White","English","R",763044,23000000
@@ -2077,20 +2077,20 @@
 2076,"2046",2004,"Hong Kong",129,"Black and White","Cantonese","R",261481,12000000
 2077,"50 First Dates",2004,"USA",99,"Color","English","PG-13",120776832,75000000
 2078,"A Cinderella Story",2004,"USA",95,"Color","English","PG",51431160,20000000
-2079,"A Home at the End of the World",2004,"USA",97,"Color","English","R",1029017,6500000
-2080,"A Very Long Engagement",2004,"France",133,"Color","French","R",6167817,47000000
-2081,"After the Sunset",2004,"USA",97,"Color","English","PG-13",28328132,58000000
-2082,"Against the Ropes",2004,"USA",110,"Color","English","PG-13",5881504,39000000
-2083,"Agent Cody Banks 2: Destination London",2004,"USA",100,"Color","English","PG",23222861,26000000
-2084,"Alexander",2004,"Germany",206,"Color","English","R",34293771,155000000
-2085,"Alfie",2004,"UK",103,"Color","English","R",13395939,60000000
-2086,"Along Came Polly",2004,"USA",90,"Color","English","PG-13",87856565,42000000
+2079,"After the Sunset",2004,"USA",97,"Color","English","PG-13",28328132,58000000
+2080,"Against the Ropes",2004,"USA",110,"Color","English","PG-13",5881504,39000000
+2081,"Agent Cody Banks 2: Destination London",2004,"USA",100,"Color","English","PG",23222861,26000000
+2082,"A Home at the End of the World",2004,"USA",97,"Color","English","R",1029017,6500000
+2083,"Alexander",2004,"Germany",206,"Color","English","R",34293771,155000000
+2084,"Alfie",2004,"UK",103,"Color","English","R",13395939,60000000
+2085,"Along Came Polly",2004,"USA",90,"Color","English","PG-13",87856565,42000000
+2086,"Anacondas: The Hunt for the Blood Orchid",2004,"USA",97,"Color","English","PG-13",31526393,25000000
 2087,"An American Girl Holiday",2004,"USA",86,"Color","English",,,200000
-2088,"Anacondas: The Hunt for the Blood Orchid",2004,"USA",97,"Color","English","PG-13",31526393,25000000
-2089,"Anchorman: The Legend of Ron Burgundy",2004,"USA",98,"Color","English","PG-13",84136909,26000000
+2088,"Anchorman: The Legend of Ron Burgundy",2004,"USA",98,"Color","English","PG-13",84136909,26000000
+2089,"Around the World in 80 Days",2004,"USA",120,"Color","English","PG",24004159,110000000
 2090,"Around the World in 80 Days",2004,"USA",120,"Color","English","PG",24004159,110000000
-2091,"Around the World in 80 Days",2004,"USA",120,"Color","English","PG",24004159,110000000
-2092,"As It Is in Heaven",2004,"Sweden",133,"Color","Swedish",,9910,25000000
+2091,"As It Is in Heaven",2004,"Sweden",133,"Color","Swedish",,9910,25000000
+2092,"A Very Long Engagement",2004,"France",133,"Color","French","R",6167817,47000000
 2093,"AVP: Alien vs. Predator",2004,"USA",109,"Color","English","PG-13",80281096,60000000
 2094,"Barbershop 2: Back in Business",2004,"USA",106,"Black and White","English","PG-13",64955956,18000000
 2095,"Before Sunset",2004,"USA",80,"Color","English","R",5792822,2700000
@@ -2117,14 +2117,14 @@
 2116,"Connie and Carla",2004,"USA",108,"Color","English","PG-13",8054280,20000000
 2117,"Crash",2004,"Germany",115,"Color","English","R",54557348,6500000
 2118,"Crash",2004,"Germany",115,"Color","English","R",54557348,6500000
-2119,"D.E.B.S.",2004,"USA",91,"Color","English","PG-13",96793,3500000
+2119,"Dawn of the Dead",2004,"USA",110,"Color","English","R",58885635,26000000
 2120,"Dawn of the Dead",2004,"USA",110,"Color","English","R",58885635,26000000
-2121,"Dawn of the Dead",2004,"USA",110,"Color","English","R",58885635,26000000
-2122,"De-Lovely",2004,"USA",125,"Black and White","English","PG-13",13337299,20000000
-2123,"Dead Man's Shoes",2004,"UK",90,"Black and White","English",,6013,695393
-2124,"Dear Frankie",2004,"UK",105,"Color","English","PG-13",1340891,
-2125,"Dear Wendy",2004,"Italy",102,"Color","English","Unrated",23106,50000000
-2126,"Decoys",2004,"Canada",95,"Color","English","R",,5000000
+2121,"Dead Man's Shoes",2004,"UK",90,"Black and White","English",,6013,695393
+2122,"Dear Frankie",2004,"UK",105,"Color","English","PG-13",1340891,
+2123,"Dear Wendy",2004,"Italy",102,"Color","English","Unrated",23106,50000000
+2124,"D.E.B.S.",2004,"USA",91,"Color","English","PG-13",96793,3500000
+2125,"Decoys",2004,"Canada",95,"Color","English","R",,5000000
+2126,"De-Lovely",2004,"USA",125,"Black and White","English","PG-13",13337299,20000000
 2127,"District B13",2004,"France",84,"Color","French","R",1197786,12000000
 2128,"Dodgeball: A True Underdog Story",2004,"USA",92,"Black and White","English","PG-13",114324072,20000000
 2129,"Dodgeball: A True Underdog Story",2004,"USA",92,"Black and White","English","PG-13",114324072,20000000
@@ -2157,10 +2157,10 @@
 2156,"House of Flying Daggers",2004,"China",119,"Color","Mandarin","PG-13",11041228,100000000
 2157,"Howl's Moving Castle",2004,"Japan",119,"Color","Japanese","PG",4710455,24000000
 2158,"I Heart Huckabees",2004,"USA",107,"Color","English","R",12784713,22000000
-2159,"I, Robot",2004,"USA",115,"Color","English","PG-13",144795350,120000000
-2160,"Imaginary Heroes",2004,"USA",111,"Color","English","R",228524,4000000
+2159,"Imaginary Heroes",2004,"USA",111,"Color","English","R",228524,4000000
+2160,"Incident at Loch Ness",2004,"UK",94,"Color","English","PG-13",36830,1400000
 2161,"In Good Company",2004,"USA",109,"Color","English","PG-13",45489752,26000000
-2162,"Incident at Loch Ness",2004,"UK",94,"Color","English","PG-13",36830,1400000
+2162,"I, Robot",2004,"USA",115,"Color","English","PG-13",144795350,120000000
 2163,"It's All Gone Pete Tong",2004,"UK",90,"Color","English","R",120620,
 2164,"Jersey Girl",2004,"USA",102,"Color","English","PG-13",25266129,35000000
 2165,"Johnson Family Vacation",2004,"USA",97,"Color","English","PG-13",31179516,12000000
@@ -2223,8 +2223,8 @@
 2222,"Starsky & Hutch",2004,"USA",101,"Color","English","PG-13",88200225,60000000
 2223,"Steamboy",2004,"Japan",103,"Color","Japanese","PG-13",410388,2127519898
 2224,"Summer Storm",2004,"Germany",98,"Color","German","R",95016,2700000
-2225,"Super Size Me",2004,"USA",100,"Color","English","PG",11529368,65000
-2226,"Superbabies: Baby Geniuses 2",2004,"Germany",88,"Color","English","PG",9109322,20000000
+2225,"Superbabies: Baby Geniuses 2",2004,"Germany",88,"Color","English","PG",9109322,20000000
+2226,"Super Size Me",2004,"USA",100,"Color","English","PG",11529368,65000
 2227,"Suspect Zero",2004,"USA",99,"Color","English","R",8712564,27000000
 2228,"Tae Guk Gi: The Brotherhood of War",2004,"South Korea",148,"Color","Korean","R",1110186,12800000
 2229,"Teacher's Pet",2004,"USA",74,"Color","English","PG",6491350,10000000
@@ -2288,19 +2288,19 @@
 2287,"Yes",2004,"UK",100,"Color","English","R",396035,1000000
 2288,"You Got Served",2004,"USA",95,"Color","English","PG-13",40066497,8000000
 2289,"51 Birch Street",2005,"Germany",90,"Color","English","Unrated",84689,
-2290,"A History of Violence",2005,"USA",96,"Color","English","R",31493782,32000000
-2291,"A Lot Like Love",2005,"USA",107,"Color","English","PG-13",21835784,30000000
-2292,"A Sound of Thunder",2005,"UK",102,"Color","English","PG-13",1891821,52000000
-2293,"Æon Flux",2005,"USA",93,"Color","English","PG-13",25857987,62000000
-2294,"Alone in the Dark",2005,"Canada",94,"Color","English","R",5132655,20000000
-2295,"An American Haunting",2005,"UK",91,"Color","English","PG-13",16298046,14000000
-2296,"An Unfinished Life",2005,"USA",108,"Color","English","PG-13",8535575,30000000
-2297,"Are We There Yet?",2005,"USA",95,"Color","English","PG",82301521,32000000
+2290,"Ã†on Flux",2005,"USA",93,"Color","English","PG-13",25857987,62000000
+2291,"A History of Violence",2005,"USA",96,"Color","English","R",31493782,32000000
+2292,"Alone in the Dark",2005,"Canada",94,"Color","English","R",5132655,20000000
+2293,"A Lot Like Love",2005,"USA",107,"Color","English","PG-13",21835784,30000000
+2294,"An American Haunting",2005,"UK",91,"Color","English","PG-13",16298046,14000000
+2295,"An Unfinished Life",2005,"USA",108,"Color","English","PG-13",8535575,30000000
+2296,"Are We There Yet?",2005,"USA",95,"Color","English","PG",82301521,32000000
+2297,"A Sound of Thunder",2005,"UK",102,"Color","English","PG-13",1891821,52000000
 2298,"Assault on Precinct 13",2005,"USA",109,"Color","English","R",19976073,20000000
 2299,"Batman Begins",2005,"USA",128,"Color","English","PG-13",205343774,150000000
-2300,"Be Cool",2005,"USA",118,"Color","English","PG-13",55808744,53000000
-2301,"Beauty Shop",2005,"USA",105,"Color","English","PG-13",36310118,
-2302,"Because of Winn-Dixie",2005,"USA",106,"Color","English","PG",32645546,14000000
+2300,"Beauty Shop",2005,"USA",105,"Color","English","PG-13",36310118,
+2301,"Because of Winn-Dixie",2005,"USA",106,"Color","English","PG",32645546,14000000
+2302,"Be Cool",2005,"USA",118,"Color","English","PG-13",55808744,53000000
 2303,"BloodRayne",2005,"USA",92,"Color","English","R",1550000,25000000
 2304,"Boogeyman",2005,"USA",89,"Color","English","PG-13",46363118,20000000
 2305,"Boynton Beach Club",2005,"USA",105,"Color","English","R",3123749,1500000
@@ -2369,11 +2369,11 @@
 2368,"Joyeux Noel",2005,"France",116,"Color","French","PG-13",1050445,22000000
 2369,"Just Like Heaven",2005,"USA",95,"Color","English","PG-13",48291624,58000000
 2370,"Kicking & Screaming",2005,"USA",95,"Color","English","PG",52580895,45000000
-2371,"King's Ransom",2005,"USA",95,"Color","English","PG-13",4006906,15000000
+2371,"Kingdom of Heaven",2005,"USA",194,"Color","English","R",47396698,130000000
 2372,"King Kong",2005,"New Zealand",201,"Color","English","PG-13",218051260,207000000
 2373,"King Kong",2005,"New Zealand",201,"Color","English","PG-13",218051260,207000000
 2374,"King Kong",2005,"New Zealand",201,"Color","English","PG-13",218051260,207000000
-2375,"Kingdom of Heaven",2005,"USA",194,"Color","English","R",47396698,130000000
+2375,"King's Ransom",2005,"USA",95,"Color","English","PG-13",4006906,15000000
 2376,"Kiss Kiss Bang Bang",2005,"USA",103,"Color","English","R",4235837,15000000
 2377,"Lady Vengeance",2005,"South Korea",112,"Color","Korean","R",211667,4200000000
 2378,"Land of the Dead",2005,"Canada",97,"Black and White","English","R",20433940,15000000
@@ -2381,10 +2381,10 @@
 2380,"Lonesome Jim",2005,"USA",91,"Color","English","R",154077,500000
 2381,"Lord of War",2005,"USA",122,"Color","English","R",24127895,50000000
 2382,"Lords of Dogtown",2005,"USA",107,"Color","English","PG-13",11008432,25000000
-2383,"Mad Hot Ballroom",2005,"USA",105,"Color","English","PG",8044906,
-2384,"Madagascar",2005,"USA",86,"Color","English","PG",193136719,75000000
-2385,"Man of the House",2005,"USA",100,"Color","English","PG-13",19118247,40000000
-2386,"Manderlay",2005,"Denmark",139,"Color","English","Not Rated",74205,14200000
+2383,"Madagascar",2005,"USA",86,"Color","English","PG",193136719,75000000
+2384,"Mad Hot Ballroom",2005,"USA",105,"Color","English","PG",8044906,
+2385,"Manderlay",2005,"Denmark",139,"Color","English","Not Rated",74205,14200000
+2386,"Man of the House",2005,"USA",100,"Color","English","PG-13",19118247,40000000
 2387,"March of the Penguins",2005,"France",80,"Color","French","G",77413017,8000000
 2388,"Match Point",2005,"UK",119,"Color","English","R",23089926,15000000
 2389,"Me and You and Everyone We Know",2005,"USA",91,"Color","English","R",3885134,2000000
@@ -2448,8 +2448,8 @@
 2447,"The Exorcism of Emily Rose",2005,"USA",122,"Color","English","PG-13",75072454,20000000
 2448,"The Family Stone",2005,"USA",103,"Color","English","PG-13",6061759,17000000
 2449,"The Game of Their Lives",2005,"USA",101,"Color","English","PG",375474,20000000
-2450,"The Great Raid",2005,"USA",132,"Black and White","Filipino","R",10166502,80000000
-2451,"The Greatest Game Ever Played",2005,"USA",120,"Color","English","PG",15331289,
+2450,"The Greatest Game Ever Played",2005,"USA",120,"Color","English","PG",15331289,
+2451,"The Great Raid",2005,"USA",132,"Black and White","Filipino","R",10166502,80000000
 2452,"The Helix... Loaded",2005,"USA",97,"Color","English","R",,1000000
 2453,"The Hitchhiker's Guide to the Galaxy",2005,"USA",109,"Color","English","PG",51019112,50000000
 2454,"The Interpreter",2005,"UK",128,"Color","Aboriginal","PG-13",72515360,80000000
@@ -2495,12 +2495,12 @@
 2494,"Underclassman",2005,"USA",95,"Color","English","PG-13",5654777,25000000
 2495,"Undiscovered",2005,"Germany",97,"Color","English","PG-13",1046166,9000000
 2496,"Unleashed",2005,"France",103,"Color","English","R",24520892,45000000
-2497,"V for Vendetta",2005,"USA",132,"Color","English","R",70496802,54000000
-2498,"Valiant",2005,"UK",76,"Color","English","G",19447478,35000000
+2497,"Valiant",2005,"UK",76,"Color","English","G",19447478,35000000
+2498,"V for Vendetta",2005,"USA",132,"Color","English","R",70496802,54000000
 2499,"Wah-Wah",2005,"UK",97,"Color","English","R",233103,7000000
 2500,"Waiting...",2005,"USA",94,"Color","English","R",16101109,3000000
-2501,"Wal-Mart: The High Cost of Low Price",2005,"USA",20,"Color","English","Not Rated",,1500000
-2502,"Walk the Line",2005,"USA",153,"Color","English","PG-13",119518352,28000000
+2501,"Walk the Line",2005,"USA",153,"Color","English","PG-13",119518352,28000000
+2502,"Wal-Mart: The High Cost of Low Price",2005,"USA",20,"Color","English","Not Rated",,1500000
 2503,"War of the Worlds",2005,"USA",116,"Color","English","PG-13",234277056,132000000
 2504,"Water",2005,"Canada",117,"Color","Hindi","PG-13",3222857,
 2505,"Where the Truth Lies",2005,"Canada",107,"Color","English","R",871527,25000000
@@ -2512,25 +2512,25 @@
 2511,"16 Blocks",2006,"Germany",102,"Color","English","PG-13",36883539,52000000
 2512,"300",2006,"USA",117,"Color","English","R",210592590,65000000
 2513,"A Good Year",2006,"USA",117,"Color","English","PG-13",7458269,35000000
-2514,"A Prairie Home Companion",2006,"USA",105,"Color","English","PG-13",20338609,10000000
-2515,"A Scanner Darkly",2006,"USA",100,"Color","English","R",5480996,8700000
-2516,"Akeelah and the Bee",2006,"USA",112,"Color","English","PG",18811135,
-2517,"Alex Rider: Operation Stormbreaker",2006,"Germany",93,"Color","English","PG",652526,40000000
-2518,"All the Boys Love Mandy Lane",2006,"USA",90,"Color","English","R",,750000
-2519,"All the King's Men",2006,"Germany",128,"Black and White","English","PG-13",7221458,55000000
-2520,"Alone with Her",2006,"USA",78,"Black and White","English","Not Rated",10018,1000000
-2521,"American Dreamz",2006,"USA",107,"Color","English","PG-13",7156725,19000000
-2522,"An Inconvenient Truth",2006,"USA",96,"Color","English","PG",23808111,
-2523,"Apocalypto",2006,"USA",139,"Color","Maya","R",50859889,40000000
-2524,"Aquamarine",2006,"USA",104,"Color","English","PG",18595716,12000000
-2525,"Arthur and the Invisibles",2006,"France",94,"Color","English","PG",15131330,86000000
+2514,"Akeelah and the Bee",2006,"USA",112,"Color","English","PG",18811135,
+2515,"Alex Rider: Operation Stormbreaker",2006,"Germany",93,"Color","English","PG",652526,40000000
+2516,"All the Boys Love Mandy Lane",2006,"USA",90,"Color","English","R",,750000
+2517,"All the King's Men",2006,"Germany",128,"Black and White","English","PG-13",7221458,55000000
+2518,"Alone with Her",2006,"USA",78,"Black and White","English","Not Rated",10018,1000000
+2519,"American Dreamz",2006,"USA",107,"Color","English","PG-13",7156725,19000000
+2520,"An Inconvenient Truth",2006,"USA",96,"Color","English","PG",23808111,
+2521,"Apocalypto",2006,"USA",139,"Color","Maya","R",50859889,40000000
+2522,"A Prairie Home Companion",2006,"USA",105,"Color","English","PG-13",20338609,10000000
+2523,"Aquamarine",2006,"USA",104,"Color","English","PG",18595716,12000000
+2524,"Arthur and the Invisibles",2006,"France",94,"Color","English","PG",15131330,86000000
+2525,"A Scanner Darkly",2006,"USA",100,"Color","English","R",5480996,8700000
 2526,"ATL",2006,"USA",105,"Color","English","PG-13",21160089,
 2527,"Babel",2006,"France",143,"Color","English","R",34300771,25000000
 2528,"Bandidas",2006,"France",93,"Color","English","PG-13",,32000000
 2529,"Barnyard",2006,"Germany",90,"Color","English","PG",72601713,51000000
 2530,"Basic Instinct 2",2006,"UK",116,"Color","English","R",5851188,70000000
-2531,"Beer League",2006,"USA",86,"Color","English","R",475000,2800000
-2532,"Beerfest",2006,"USA",110,"Color","English","R",19179969,17500000
+2531,"Beerfest",2006,"USA",110,"Color","English","R",19179969,17500000
+2532,"Beer League",2006,"USA",86,"Color","English","R",475000,2800000
 2533,"Bella",2006,"USA",91,"Color","English","PG-13",8108247,3300000
 2534,"Big Momma's House 2",2006,"USA",99,"Color","English","PG-13",70163652,40000000
 2535,"Black Book",2006,"Netherlands",145,"Color","Dutch","R",4398392,21000000
@@ -2592,16 +2592,16 @@
 2591,"Happy Feet",2006,"USA",108,"Color","English","PG",197992827,100000000
 2592,"Hatchet",2006,"USA",93,"Color","English","R",,1500000
 2593,"Hoot",2006,"USA",91,"Color","English","PG",8080116,15000000
-2594,"I Served the King of England",2006,"Czech Republic",113,"Color","Czech","R",617228,84450000
-2595,"I Want Someone to Eat Cheese With",2006,"USA",80,"Color","English","R",194568,1500000
-2596,"Ice Age: The Meltdown",2006,"USA",115,"Color","English","PG",195329763,80000000
-2597,"Idiocracy",2006,"USA",84,"Color","English","R",438653,
-2598,"Idlewild",2006,"USA",121,"Color","English","R",12549485,15000000
-2599,"In Her Line of Fire",2006,"Germany",88,"Color","English","R",721,1000000
-2600,"Infamous",2006,"USA",118,"Color","English","R",1150403,13000000
-2601,"Inside Man",2006,"USA",129,"Color","English","R",88504640,45000000
-2602,"Ira & Abby",2006,"USA",101,"Color","English","R",220234,3500000
-2603,"Iraq for Sale: The War Profiteers",2006,"USA",75,"Color","English",,,750000
+2594,"Ice Age: The Meltdown",2006,"USA",115,"Color","English","PG",195329763,80000000
+2595,"Idiocracy",2006,"USA",84,"Color","English","R",438653,
+2596,"Idlewild",2006,"USA",121,"Color","English","R",12549485,15000000
+2597,"Infamous",2006,"USA",118,"Color","English","R",1150403,13000000
+2598,"In Her Line of Fire",2006,"Germany",88,"Color","English","R",721,1000000
+2599,"Inside Man",2006,"USA",129,"Color","English","R",88504640,45000000
+2600,"Ira & Abby",2006,"USA",101,"Color","English","R",220234,3500000
+2601,"Iraq for Sale: The War Profiteers",2006,"USA",75,"Color","English",,,750000
+2602,"I Served the King of England",2006,"Czech Republic",113,"Color","Czech","R",617228,84450000
+2603,"I Want Someone to Eat Cheese With",2006,"USA",80,"Color","English","R",194568,1500000
 2604,"Jackass Number Two",2006,"USA",92,"Color","English","R",72755517,
 2605,"Jimmy and Judy",2006,"USA",99,"Color","English","R",,1000000
 2606,"Jindabyne",2006,"Australia",118,"Color","English","R",399879,15000000
@@ -2619,8 +2619,8 @@
 2618,"Letters from Iwo Jima",2006,"USA",141,"Color","Japanese","R",13753931,19000000
 2619,"Little Big Top",2006,"USA",83,"Color","English",,,240000
 2620,"Little Children",2006,"USA",137,"Color","English","R",5459824,26000000
-2621,"Little Miss Sunshine",2006,"USA",101,"Color","English","R",59889948,8000000
-2622,"Littleman",2006,"USA",98,"Color","English","PG-13",58255287,64000000
+2621,"Littleman",2006,"USA",98,"Color","English","PG-13",58255287,64000000
+2622,"Little Miss Sunshine",2006,"USA",101,"Color","English","R",59889948,8000000
 2623,"London to Brighton",2006,"UK",85,"Color","English","R",,500000
 2624,"Love's Abiding Joy",2006,"USA",87,"Color",,"PG",252726,3000000
 2625,"Loving Annabelle",2006,"USA",76,"Color","English","Not Rated",,1000000
@@ -2629,8 +2629,8 @@
 2628,"Madea's Family Reunion",2006,"USA",107,"Color","English","PG-13",63231524,6000000
 2629,"Man of the Year",2006,"USA",115,"Color","English","PG-13",37442180,20000000
 2630,"Marie Antoinette",2006,"USA",123,"Color","English","PG-13",15962471,40000000
-2631,"Miss Potter",2006,"UK",88,"Color","English","PG",2975649,30000000
-2632,"Mission: Impossible III",2006,"USA",124,"Color","English","PG-13",133382309,150000000
+2631,"Mission: Impossible III",2006,"USA",124,"Color","English","PG-13",133382309,150000000
+2632,"Miss Potter",2006,"UK",88,"Color","English","PG",2975649,30000000
 2633,"Monster House",2006,"USA",91,"Color","English","PG",73661010,75000000
 2634,"My Super Ex-Girlfriend",2006,"USA",95,"Color","English","PG-13",22526144,30000000
 2635,"Nacho Libre",2006,"Germany",92,"Color","English","PG",80197993,32000000
@@ -2653,7 +2653,7 @@
 2652,"Poseidon",2006,"USA",98,"Color","English","PG-13",60655503,160000000
 2653,"Poultrygeist: Night of the Chicken Dead",2006,"USA",103,"Color","English","Unrated",23000,500000
 2654,"Pulse",2006,"USA",90,"Color","English","PG-13",20259297,20000000
-2655,"Quinceañera",2006,"USA",90,"Color","Spanish","R",1689999,400000
+2655,"QuinceaÃ±era",2006,"USA",90,"Color","Spanish","R",1689999,400000
 2656,"Rang De Basanti",2006,"India",157,"Color","Hindi","Not Rated",2197331,
 2657,"Renaissance",2006,"France",105,"Color","English","R",63260,14000000
 2658,"Rescue Dawn",2006,"USA",120,"Color","English","PG-13",5484375,10000000
@@ -2666,8 +2666,8 @@
 2665,"Scoop",2006,"UK",96,"Color","English","PG-13",10515579,4000000
 2666,"Scott Walker: 30 Century Man",2006,"UK",95,"Color","English",,,500000
 2667,"Severance",2006,"UK",90,"Color","English","R",136432,5000000
-2668,"She's the Man",2006,"USA",105,"Color","English","PG-13",33687630,20000000
-2669,"Sherrybaby",2006,"USA",96,"Color","English","R",198407,2000000
+2668,"Sherrybaby",2006,"USA",96,"Color","English","R",198407,2000000
+2669,"She's the Man",2006,"USA",105,"Color","English","PG-13",33687630,20000000
 2670,"Shortbus",2006,"USA",101,"Color","English","Unrated",1984378,2000000
 2671,"Silent Hill",2006,"Canada",132,"Color","English","R",46982632,50000000
 2672,"Slither",2006,"Canada",95,"Color","English","R",7774730,15500000
@@ -2746,122 +2746,122 @@
 2745,"X-Men: The Last Stand",2006,"Canada",104,"Color","English","PG-13",234360014,210000000
 2746,"You, Me and Dupree",2006,"USA",110,"Color","English","PG-13",75604320,54000000
 2747,"Zoom",2006,"USA",83,"Color","English","PG",11631245,35000000
-2748,"[Rec]",2007,"Spain",78,"Color","Spanish","R",,1500000
-2749,"1408",2007,"USA",114,"Color","English","PG-13",71975611,25000000
-2750,"28 Weeks Later",2007,"UK",100,"Color","English","R",28637507,15000000
+2748,"1408",2007,"USA",114,"Color","English","PG-13",71975611,25000000
+2749,"28 Weeks Later",2007,"UK",100,"Color","English","R",28637507,15000000
+2750,"30 Days of Night",2007,"USA",113,"Color","English","R",39568996,32000000
 2751,"3:10 to Yuma",2007,"USA",122,"Color","English","R",53574088,55000000
-2752,"30 Days of Night",2007,"USA",113,"Color","English","R",39568996,32000000
-2753,"4 Months, 3 Weeks and 2 Days",2007,"Romania",113,"Color","Romanian","Not Rated",1185783,590000
-2754,"88 Minutes",2007,"USA",108,"Color","English","R",16930884,30000000
-2755,"A Dog's Breakfast",2007,"Canada",88,"Color","English",,,120000
+2752,"4 Months, 3 Weeks and 2 Days",2007,"Romania",113,"Color","Romanian","Not Rated",1185783,590000
+2753,"88 Minutes",2007,"USA",108,"Color","English","R",16930884,30000000
+2754,"Across the Universe",2007,"USA",133,"Color","English","PG-13",24343673,45000000
+2755,"Across the Universe",2007,"USA",133,"Color","English","PG-13",24343673,45000000
 2756,"A Dog's Breakfast",2007,"Canada",88,"Color","English",,,120000
-2757,"A Mighty Heart",2007,"USA",108,"Color","English","R",9172810,16000000
-2758,"Across the Universe",2007,"USA",133,"Color","English","PG-13",24343673,45000000
-2759,"Across the Universe",2007,"USA",133,"Color","English","PG-13",24343673,45000000
-2760,"Aliens vs. Predator: Requiem",2007,"USA",102,"Color","English","R",41797066,40000000
-2761,"All Hat",2007,"Canada",89,"Color","English","R",,5000000
-2762,"Alvin and the Chipmunks",2007,"USA",92,"Color","English","PG",217326336,60000000
-2763,"American Gangster",2007,"USA",176,"Color","English","R",130127620,100000000
-2764,"And Then Came Love",2007,"USA",90,"Color","English",,,989000
-2765,"Aqua Teen Hunger Force Colon Movie Film for Theaters",2007,"USA",86,"Color","English","R",5518918,750000
+2757,"A Dog's Breakfast",2007,"Canada",88,"Color","English",,,120000
+2758,"Aliens vs. Predator: Requiem",2007,"USA",102,"Color","English","R",41797066,40000000
+2759,"All Hat",2007,"Canada",89,"Color","English","R",,5000000
+2760,"Alvin and the Chipmunks",2007,"USA",92,"Color","English","PG",217326336,60000000
+2761,"American Gangster",2007,"USA",176,"Color","English","R",130127620,100000000
+2762,"A Mighty Heart",2007,"USA",108,"Color","English","R",9172810,16000000
+2763,"And Then Came Love",2007,"USA",90,"Color","English",,,989000
+2764,"Aqua Teen Hunger Force Colon Movie Film for Theaters",2007,"USA",86,"Color","English","R",5518918,750000
+2765,"Arnolds Park",2007,"USA",103,"Color","English","PG-13",23616,600000
 2766,"Arn: The Knight Templar",2007,"Sweden",270,"Color","Swedish",,,25000000
-2767,"Arnolds Park",2007,"USA",103,"Color","English","PG-13",23616,600000
-2768,"Atonement",2007,"UK",123,"Color","English","R",50921738,30000000
-2769,"August Rush",2007,"USA",114,"Color","English","PG",31655091,30000000
-2770,"Awake",2007,"USA",84,"Color","English","R",14373825,8600000
-2771,"Because I Said So",2007,"USA",102,"Color","English","PG-13",42640890,
-2772,"Becoming Jane",2007,"UK",120,"Color","English","PG",18663911,16500000
-2773,"Bee Movie",2007,"USA",91,"Color","English","PG",126597121,150000000
-2774,"Beowulf",2007,"USA",115,"Color","English","PG-13",82161969,150000000
-2775,"Blades of Glory",2007,"USA",93,"Color","English","PG-13",118153533,61000000
-2776,"Blonde Ambition",2007,"USA",93,"Color","English","PG-13",5561,10000000
-2777,"Blood and Chocolate",2007,"USA",98,"Color","English","PG-13",3525161,
-2778,"Brick Lane",2007,"UK",101,"Color","English","PG-13",1094998,
-2779,"Bridge to Terabithia",2007,"USA",96,"Color","English","PG",82234139,17000000
-2780,"Brooklyn Rules",2007,"USA",99,"Color","English","R",398420,8000000
-2781,"Caramel",2007,"France",95,"Color","Arabic","PG",1060591,1300000
-2782,"Certifiably Jonathan",2007,"USA",85,"Color","English",,7826,1200000
-2783,"Charlie Bartlett",2007,"USA",97,"Color","English","R",3950294,12000000
-2784,"Charlie Wilson's War",2007,"USA",102,"Color","English","R",66636385,75000000
-2785,"Closure",2007,"UK",80,"Color","English","R",,1800000
-2786,"Code Name: The Cleaner",2007,"USA",91,"Color","English","PG-13",8104069,20000000
-2787,"Control",2007,"UK",122,"Black and White","English","R",871577,4500000
-2788,"Daddy Day Camp",2007,"USA",89,"Color","English","PG",13235267,6000000
+2767,"Atonement",2007,"UK",123,"Color","English","R",50921738,30000000
+2768,"August Rush",2007,"USA",114,"Color","English","PG",31655091,30000000
+2769,"Awake",2007,"USA",84,"Color","English","R",14373825,8600000
+2770,"Because I Said So",2007,"USA",102,"Color","English","PG-13",42640890,
+2771,"Becoming Jane",2007,"UK",120,"Color","English","PG",18663911,16500000
+2772,"Bee Movie",2007,"USA",91,"Color","English","PG",126597121,150000000
+2773,"Beowulf",2007,"USA",115,"Color","English","PG-13",82161969,150000000
+2774,"Blades of Glory",2007,"USA",93,"Color","English","PG-13",118153533,61000000
+2775,"Blonde Ambition",2007,"USA",93,"Color","English","PG-13",5561,10000000
+2776,"Blood and Chocolate",2007,"USA",98,"Color","English","PG-13",3525161,
+2777,"Brick Lane",2007,"UK",101,"Color","English","PG-13",1094998,
+2778,"Bridge to Terabithia",2007,"USA",96,"Color","English","PG",82234139,17000000
+2779,"Brooklyn Rules",2007,"USA",99,"Color","English","R",398420,8000000
+2780,"Caramel",2007,"France",95,"Color","Arabic","PG",1060591,1300000
+2781,"Certifiably Jonathan",2007,"USA",85,"Color","English",,7826,1200000
+2782,"Charlie Bartlett",2007,"USA",97,"Color","English","R",3950294,12000000
+2783,"Charlie Wilson's War",2007,"USA",102,"Color","English","R",66636385,75000000
+2784,"Closure",2007,"UK",80,"Color","English","R",,1800000
+2785,"Code Name: The Cleaner",2007,"USA",91,"Color","English","PG-13",8104069,20000000
+2786,"Control",2007,"UK",122,"Black and White","English","R",871577,4500000
+2787,"Daddy Day Camp",2007,"USA",89,"Color","English","PG",13235267,6000000
+2788,"Death at a Funeral",2007,"USA",87,"Color","English","R",8579684,9000000
 2789,"Death at a Funeral",2007,"USA",87,"Color","English","R",8579684,9000000
-2790,"Death at a Funeral",2007,"USA",87,"Color","English","R",8579684,9000000
-2791,"Death Sentence",2007,"USA",111,"Color","English","R",9525276,20000000
-2792,"Diary of the Dead",2007,"USA",95,"Color","English","R",952620,2000000
+2790,"Death Sentence",2007,"USA",111,"Color","English","R",9525276,20000000
+2791,"Diary of the Dead",2007,"USA",95,"Color","English","R",952620,2000000
+2792,"Disturbia",2007,"USA",105,"Color","English","PG-13",80050171,20000000
 2793,"Disturbia",2007,"USA",105,"Color","English","PG-13",80050171,20000000
-2794,"Disturbia",2007,"USA",105,"Color","English","PG-13",80050171,20000000
-2795,"Dragon Wars: D-War",2007,"South Korea",107,"Color","English","PG-13",10956379,35000000
-2796,"Eastern Promises",2007,"USA",96,"Color","English","R",17114882,25000000
-2797,"Elite Squad",2007,"Brazil",115,"Color","Portuguese","R",8060,4000000
-2798,"Elizabeth: The Golden Age",2007,"UK",114,"Color","English","PG-13",16264475,55000000
-2799,"Enchanted",2007,"USA",107,"Color","English","PG",127706877,85000000
-2800,"Epic Movie",2007,"USA",93,"Color","English","PG-13",39737645,20000000
-2801,"Evan Almighty",2007,"USA",96,"Color","English","PG",100289690,175000000
-2802,"Fantastic 4: Rise of the Silver Surfer",2007,"USA",92,"Color","English","PG",131920333,130000000
-2803,"Finishing the Game: The Search for a New Bruce Lee",2007,"USA",84,"Color","English","Not Rated",52850,500000
-2804,"Freedom Writers",2007,"Germany",123,"Color","English","PG-13",36581633,21000000
-2805,"Funny Games",2007,"USA",111,"Color","English","R",1294640,15000000
-2806,"Gandhi, My Father",2007,"India",136,"Color","Hindi",,240425,
-2807,"Georgia Rule",2007,"USA",113,"Color","English","R",18882880,20000000
-2808,"Ghost Rider",2007,"USA",123,"Color","English","PG-13",115802596,110000000
-2809,"Good Luck Chuck",2007,"USA",101,"Color","English","R",35000629,25000000
-2810,"Gracie",2007,"USA",95,"Color","English","PG-13",2955039,9000000
-2811,"Grindhouse",2007,"USA",189,"Color","English","R",25031037,53000000
-2812,"Hairspray",2007,"USA",117,"Color","English","PG",118823091,75000000
-2813,"Hannibal Rising",2007,"UK",131,"Color","English","R",27667947,50000000
-2814,"Harry Potter and the Order of the Phoenix",2007,"UK",138,"Color","English","PG-13",292000866,150000000
-2815,"Hitman",2007,"France",94,"Color","English","R",39687528,24000000
-2816,"Hostel: Part II",2007,"USA",94,"Color","English","R",17544812,10000000
-2817,"Hot Fuzz",2007,"UK",121,"Color","English","R",23618786,8000000
-2818,"Hot Rod",2007,"USA",88,"Color","English","PG-13",13920741,
-2819,"How She Move",2007,"Canada",94,"Color","English","PG-13",7070459,
+2794,"Dragon Wars: D-War",2007,"South Korea",107,"Color","English","PG-13",10956379,35000000
+2795,"Eastern Promises",2007,"USA",96,"Color","English","R",17114882,25000000
+2796,"Elite Squad",2007,"Brazil",115,"Color","Portuguese","R",8060,4000000
+2797,"Elizabeth: The Golden Age",2007,"UK",114,"Color","English","PG-13",16264475,55000000
+2798,"Enchanted",2007,"USA",107,"Color","English","PG",127706877,85000000
+2799,"Epic Movie",2007,"USA",93,"Color","English","PG-13",39737645,20000000
+2800,"Evan Almighty",2007,"USA",96,"Color","English","PG",100289690,175000000
+2801,"Fantastic 4: Rise of the Silver Surfer",2007,"USA",92,"Color","English","PG",131920333,130000000
+2802,"Finishing the Game: The Search for a New Bruce Lee",2007,"USA",84,"Color","English","Not Rated",52850,500000
+2803,"Freedom Writers",2007,"Germany",123,"Color","English","PG-13",36581633,21000000
+2804,"Funny Games",2007,"USA",111,"Color","English","R",1294640,15000000
+2805,"Gandhi, My Father",2007,"India",136,"Color","Hindi",,240425,
+2806,"Georgia Rule",2007,"USA",113,"Color","English","R",18882880,20000000
+2807,"Ghost Rider",2007,"USA",123,"Color","English","PG-13",115802596,110000000
+2808,"Good Luck Chuck",2007,"USA",101,"Color","English","R",35000629,25000000
+2809,"Gracie",2007,"USA",95,"Color","English","PG-13",2955039,9000000
+2810,"Grindhouse",2007,"USA",189,"Color","English","R",25031037,53000000
+2811,"Hairspray",2007,"USA",117,"Color","English","PG",118823091,75000000
+2812,"Hannibal Rising",2007,"UK",131,"Color","English","R",27667947,50000000
+2813,"Harry Potter and the Order of the Phoenix",2007,"UK",138,"Color","English","PG-13",292000866,150000000
+2814,"Hitman",2007,"France",94,"Color","English","R",39687528,24000000
+2815,"Hostel: Part II",2007,"USA",94,"Color","English","R",17544812,10000000
+2816,"Hot Fuzz",2007,"UK",121,"Color","English","R",23618786,8000000
+2817,"Hot Rod",2007,"USA",88,"Color","English","PG-13",13920741,
+2818,"How She Move",2007,"Canada",94,"Color","English","PG-13",7070459,
+2819,"I Am Legend",2007,"USA",104,"Color","English","PG-13",256386216,150000000
 2820,"I'm Not There.",2007,"USA",135,"Black and White","English","R",4001121,20000000
-2821,"I Am Legend",2007,"USA",104,"Color","English","PG-13",256386216,150000000
-2822,"I Think I Love My Wife",2007,"USA",94,"Color","English","R",12550242,
-2823,"In the Land of Women",2007,"USA",97,"Color","English","PG-13",11043445,10000000
-2824,"In the Name of the King: A Dungeon Siege Tale",2007,"Germany",156,"Color","English","PG-13",4535117,60000000
-2825,"In the Shadow of the Moon",2007,"UK",100,"Black and White","English","PG",1134049,2000000
-2826,"In the Valley of Elah",2007,"USA",121,"Color","English","R",6777589,
-2827,"Into the Wild",2007,"USA",148,"Color","English","R",18352454,15000000
-2828,"Jack Brooks: Monster Slayer",2007,"Canada",90,"Color","English","R",,2500000
-2829,"Jesus People",2007,"USA",35,"Color","English",,,
+2821,"In the Land of Women",2007,"USA",97,"Color","English","PG-13",11043445,10000000
+2822,"In the Name of the King: A Dungeon Siege Tale",2007,"Germany",156,"Color","English","PG-13",4535117,60000000
+2823,"In the Shadow of the Moon",2007,"UK",100,"Black and White","English","PG",1134049,2000000
+2824,"In the Valley of Elah",2007,"USA",121,"Color","English","R",6777589,
+2825,"Into the Wild",2007,"USA",148,"Color","English","R",18352454,15000000
+2826,"I Think I Love My Wife",2007,"USA",94,"Color","English","R",12550242,
+2827,"Jack Brooks: Monster Slayer",2007,"Canada",90,"Color","English","R",,2500000
+2828,"Jesus People",2007,"USA",35,"Color","English",,,
+2829,"Juno",2007,"USA",96,"Color","English","PG-13",143492840,7500000
 2830,"Juno",2007,"USA",96,"Color","English","PG-13",143492840,7500000
-2831,"Juno",2007,"USA",96,"Color","English","PG-13",143492840,7500000
-2832,"Kiss the Bride",2007,"USA",100,"Color","English","R",31937,500000
-2833,"Knocked Up",2007,"USA",133,"Color","English","R",148734225,30000000
-2834,"Lars and the Real Girl",2007,"USA",106,"Color","English","PG-13",5949693,12000000
-2835,"License to Wed",2007,"USA",91,"Color","English","PG-13",43792641,35000000
-2836,"Lions for Lambs",2007,"USA",92,"Color","English","R",14998070,35000000
-2837,"Live Free or Die Hard",2007,"USA",129,"Color","English","PG-13",134520804,110000000
-2838,"Love in the Time of Cholera",2007,"USA",139,"Color","English","R",4584886,45000000
-2839,"Lucky You",2007,"USA",124,"Color","English","PG-13",5755286,55000000
-2840,"Married Life",2007,"USA",91,"Color","English","PG-13",1506998,12000000
-2841,"Martian Child",2007,"USA",106,"Color","English","PG",7486906,27000000
-2842,"Michael Clayton",2007,"USA",119,"Color","English","R",49024969,25000000
-2843,"Molière",2007,"France",120,"Color","French","PG-13",634277,16000000
-2844,"Mongol: The Rise of Genghis Khan",2007,"Russia",126,"Color","Mongolian","R",5701643,20000000
-2845,"Mr. Bean's Holiday",2007,"UK",90,"Color","English","PG",32553210,25000000
-2846,"Music and Lyrics",2007,"USA",95,"Color","English","PG-13",50562555,
-2847,"My Blueberry Nights",2007,"Hong Kong",95,"Color","English","PG-13",866778,10000000
-2848,"My Name Is Bruce",2007,"USA",84,"Color","English","R",173066,1500000
-2849,"Namastey London",2007,"India",128,"Color","Hindi",,1207007,
-2850,"Nancy Drew",2007,"USA",99,"Color","English","PG",25584685,20000000
-2851,"No Country for Old Men",2007,"USA",122,"Color","English","R",74273505,25000000
-2852,"No End in Sight",2007,"USA",102,"Color","English",,1430185,2000000
-2853,"No Reservations",2007,"USA",104,"Color","English","PG",43097652,28000000
-2854,"Ocean's Thirteen",2007,"USA",122,"Color","English","PG-13",117144465,85000000
-2855,"Once",2007,"Ireland",85,"Color","English","R",9437933,180000
-2856,"P.S. I Love You",2007,"USA",126,"Color","English","PG-13",53680848,30000000
-2857,"Paranormal Activity",2007,"USA",84,"Color","English","R",107917283,15000
-2858,"Partition",2007,"Canada",116,"Color","English","R",,10000000
-2859,"Persepolis",2007,"France",89,"Color","French","PG-13",4443403,7300000
-2860,"Pirates of the Caribbean: At World's End",2007,"USA",169,"Color","English","PG-13",309404152,300000000
-2861,"Premonition",2007,"USA",96,"Color","English","PG-13",47852604,20000000
-2862,"Purple Violets",2007,"USA",103,"Color","English",,,4000000
-2863,"Ratatouille",2007,"USA",111,"Color","English","G",206435493,150000000
+2831,"Kiss the Bride",2007,"USA",100,"Color","English","R",31937,500000
+2832,"Knocked Up",2007,"USA",133,"Color","English","R",148734225,30000000
+2833,"Lars and the Real Girl",2007,"USA",106,"Color","English","PG-13",5949693,12000000
+2834,"License to Wed",2007,"USA",91,"Color","English","PG-13",43792641,35000000
+2835,"Lions for Lambs",2007,"USA",92,"Color","English","R",14998070,35000000
+2836,"Live Free or Die Hard",2007,"USA",129,"Color","English","PG-13",134520804,110000000
+2837,"Love in the Time of Cholera",2007,"USA",139,"Color","English","R",4584886,45000000
+2838,"Lucky You",2007,"USA",124,"Color","English","PG-13",5755286,55000000
+2839,"Married Life",2007,"USA",91,"Color","English","PG-13",1506998,12000000
+2840,"Martian Child",2007,"USA",106,"Color","English","PG",7486906,27000000
+2841,"Michael Clayton",2007,"USA",119,"Color","English","R",49024969,25000000
+2842,"MoliÃ¨re",2007,"France",120,"Color","French","PG-13",634277,16000000
+2843,"Mongol: The Rise of Genghis Khan",2007,"Russia",126,"Color","Mongolian","R",5701643,20000000
+2844,"Mr. Bean's Holiday",2007,"UK",90,"Color","English","PG",32553210,25000000
+2845,"Music and Lyrics",2007,"USA",95,"Color","English","PG-13",50562555,
+2846,"My Blueberry Nights",2007,"Hong Kong",95,"Color","English","PG-13",866778,10000000
+2847,"My Name Is Bruce",2007,"USA",84,"Color","English","R",173066,1500000
+2848,"Namastey London",2007,"India",128,"Color","Hindi",,1207007,
+2849,"Nancy Drew",2007,"USA",99,"Color","English","PG",25584685,20000000
+2850,"No Country for Old Men",2007,"USA",122,"Color","English","R",74273505,25000000
+2851,"No End in Sight",2007,"USA",102,"Color","English",,1430185,2000000
+2852,"No Reservations",2007,"USA",104,"Color","English","PG",43097652,28000000
+2853,"Ocean's Thirteen",2007,"USA",122,"Color","English","PG-13",117144465,85000000
+2854,"Once",2007,"Ireland",85,"Color","English","R",9437933,180000
+2855,"Paranormal Activity",2007,"USA",84,"Color","English","R",107917283,15000
+2856,"Partition",2007,"Canada",116,"Color","English","R",,10000000
+2857,"Persepolis",2007,"France",89,"Color","French","PG-13",4443403,7300000
+2858,"Pirates of the Caribbean: At World's End",2007,"USA",169,"Color","English","PG-13",309404152,300000000
+2859,"Premonition",2007,"USA",96,"Color","English","PG-13",47852604,20000000
+2860,"P.S. I Love You",2007,"USA",126,"Color","English","PG-13",53680848,30000000
+2861,"Purple Violets",2007,"USA",103,"Color","English",,,4000000
+2862,"Ratatouille",2007,"USA",111,"Color","English","G",206435493,150000000
+2863,"[Rec]",2007,"Spain",78,"Color","Spanish","R",,1500000
 2864,"Redacted",2007,"USA",90,"Color","English","R",65087,5000000
 2865,"Reign Over Me",2007,"USA",124,"Color","English","R",19661987,20000000
 2866,"Rendition",2007,"USA",122,"Color","English","R",9664316,27500000
@@ -2883,9 +2883,9 @@
 2882,"Snow Angels",2007,"USA",107,"Color","English","R",402820,
 2883,"Spider-Man 3",2007,"USA",156,"Color","English","PG-13",336530303,258000000
 2884,"Spider-Man 3",2007,"USA",156,"Color","English","PG-13",336530303,258000000
-2885,"St. Trinian's",2007,"UK",100,"Color","English","PG-13",,13500000
-2886,"Stardust",2007,"UK",127,"Color","English","PG-13",38345403,70000000
-2887,"Stomp the Yard",2007,"USA",109,"Color","English","PG-13",61356221,14000000
+2885,"Stardust",2007,"UK",127,"Color","English","PG-13",38345403,70000000
+2886,"Stomp the Yard",2007,"USA",109,"Color","English","PG-13",61356221,14000000
+2887,"St. Trinian's",2007,"UK",100,"Color","English","PG-13",,13500000
 2888,"Sublime",2007,"USA",113,"Color","English","R",,1800000
 2889,"Sunshine",2007,"UK",107,"Color","English","R",3675072,26000000
 2890,"Superbad",2007,"USA",119,"Color","English","R",121463226,20000000
@@ -2921,12 +2921,12 @@
 2920,"The Number 23",2007,"USA",98,"Color","English","R",35063732,32000000
 2921,"The Orphanage",2007,"Spain",105,"Color","Spanish","R",7159147,3400000
 2922,"The Reaping",2007,"USA",99,"Color","English","R",25117498,40000000
-2923,"The Savages",2007,"USA",114,"Color","English","R",6610326,
-2924,"The Simpsons Movie",2007,"USA",87,"Color","English","PG-13",183132370,75000000
-2925,"The Ten",2007,"USA",96,"Color","English","R",766487,5250000
-2926,"The Touch",2007,"USA",7,"Color","English",,,13000
-2927,"The Warlords",2007,"Hong Kong",113,"Color","Mandarin","R",128978,40000000
-2928,"There Will Be Blood",2007,"USA",158,"Color","English","R",40218903,25000000
+2923,"There Will Be Blood",2007,"USA",158,"Color","English","R",40218903,25000000
+2924,"The Savages",2007,"USA",114,"Color","English","R",6610326,
+2925,"The Simpsons Movie",2007,"USA",87,"Color","English","PG-13",183132370,75000000
+2926,"The Ten",2007,"USA",96,"Color","English","R",766487,5250000
+2927,"The Touch",2007,"USA",7,"Color","English",,,13000
+2928,"The Warlords",2007,"Hong Kong",113,"Color","Mandarin","R",128978,40000000
 2929,"Things We Lost in the Fire",2007,"USA",118,"Color","English","R",2849142,16000000
 2930,"This Christmas",2007,"USA",117,"Color","English","PG-13",49121934,13000000
 2931,"Timber Falls",2007,"USA",100,"Color","English","R",,2600000
@@ -2956,13 +2956,13 @@
 2955,"Appaloosa",2008,"USA",115,"Color","English","R",20207003,
 2956,"Asterix at the Olympic Games",2008,"France",116,"Color","French",,,78000000
 2957,"Australia",2008,"Australia",165,"Color","English","PG-13",49551662,130000000
-2958,"Baby Mama",2008,"USA",99,"Color","English","PG-13",60269340,30000000
-2959,"Babylon A.D.",2008,"France",101,"Color","English","PG-13",22531698,70000000
+2958,"Babylon A.D.",2008,"France",101,"Color","English","PG-13",22531698,70000000
+2959,"Baby Mama",2008,"USA",99,"Color","English","PG-13",60269340,30000000
 2960,"Baghead",2008,"USA",84,"Color","English","R",140016,
 2961,"Bangkok Dangerous",2008,"USA",99,"Color","English","R",15279680,40000000
 2962,"Bathory: Countess of Blood",2008,"Slovakia",141,"Color","English","R",,
-2963,"Be Kind Rewind",2008,"UK",102,"Color","English","PG-13",11169531,20000000
-2964,"Bedtime Stories",2008,"USA",99,"Color","English","PG",109993847,80000000
+2963,"Bedtime Stories",2008,"USA",99,"Color","English","PG",109993847,80000000
+2964,"Be Kind Rewind",2008,"UK",102,"Color","English","PG-13",11169531,20000000
 2965,"Beverly Hills Chihuahua",2008,"USA",91,"Color","English","PG",94497271,20000000
 2966,"Blindness",2008,"Canada",121,"Color","English","R",3073392,25000000
 2967,"Body of Lies",2008,"USA",128,"Color","English","R",39380442,70000000
@@ -3032,9 +3032,9 @@
 3031,"Lakeview Terrace",2008,"USA",110,"Color","English","PG-13",39263506,22000000
 3032,"Leatherheads",2008,"USA",114,"Color","English","PG-13",31199215,58000000
 3033,"Lovely, Still",2008,"USA",90,"Color","English","PG",124720,5000000
-3034,"Mad Money",2008,"USA",104,"Color","English","PG-13",20668843,22000000
-3035,"Madagascar: Escape 2 Africa",2008,"USA",89,"Color","English","PG",179982968,150000000
-3036,"Made of Honor",2008,"USA",101,"Color","English","PG-13",46012734,40000000
+3034,"Madagascar: Escape 2 Africa",2008,"USA",89,"Color","English","PG",179982968,150000000
+3035,"Made of Honor",2008,"USA",101,"Color","English","PG-13",46012734,40000000
+3036,"Mad Money",2008,"USA",104,"Color","English","PG-13",20668843,22000000
 3037,"Mamma Mia!",2008,"USA",108,"Color","English","PG-13",143704210,52000000
 3038,"Man on Wire",2008,"UK",90,"Color","English","PG-13",2957978,1000000
 3039,"Marley & Me",2008,"USA",115,"Color","English","PG",143151473,60000000
@@ -3064,8 +3064,8 @@
 3063,"Quantum of Solace",2008,"UK",106,"Color","English","PG-13",168368427,200000000
 3064,"Quarantine",2008,"USA",89,"Color","English","R",31691811,12000000
 3065,"Rachel Getting Married",2008,"USA",113,"Color","English","R",12796277,
-3066,"Red Cliff",2008,"China",150,"Color","Mandarin","R",626809,553632000
-3067,"Redbelt",2008,"USA",99,"Color","English","R",2344847,7000000
+3066,"Redbelt",2008,"USA",99,"Color","English","R",2344847,7000000
+3067,"Red Cliff",2008,"China",150,"Color","Mandarin","R",626809,553632000
 3068,"Religulous",2008,"USA",101,"Color","English","R",12995673,2500000
 3069,"Repo! The Genetic Opera",2008,"USA",150,"Color","English","R",140244,8500000
 3070,"Revolutionary Road",2008,"USA",119,"Color","English","R",22877808,35000000
@@ -3158,181 +3158,181 @@
 3157,"Valkyrie",2008,"USA",121,"Color","English","PG-13",83077470,75000000
 3158,"Vantage Point",2008,"USA",90,"Color","English","PG-13",72266306,40000000
 3159,"Vicky Cristina Barcelona",2008,"Spain",96,"Color","English","PG-13",23213577,15500000
-3160,"W.",2008,"USA",129,"Color","English","PG-13",25517500,25100000
-3161,"WALL·E",2008,"USA",98,"Color","English","G",223806889,180000000
-3162,"Waltz with Bashir",2008,"Israel",90,"Color","Hebrew","R",2283276,1500000
-3163,"Wanted",2008,"USA",110,"Color","English","R",134568845,75000000
-3164,"War, Inc.",2008,"USA",107,"Color","English","R",578527,10000000
-3165,"Welcome Home, Roscoe Jenkins",2008,"USA",114,"Color","English","PG-13",42168445,35000000
-3166,"Welcome to the Sticks",2008,"France",106,"Color","French",,,11000000
-3167,"Wendy and Lucy",2008,"USA",80,"Color","English","R",856942,200000
-3168,"What Happens in Vegas",2008,"USA",101,"Color","English","PG-13",80276912,35000000
-3169,"What Just Happened",2008,"USA",104,"Color","English","R",1089365,25000000
-3170,"Winter in Wartime",2008,"Netherlands",103,"Color","Dutch","R",542860,4000000
-3171,"Witless Protection",2008,"USA",97,"Color","English","PG-13",4131640,7500000
+3160,"WALLÂ·E",2008,"USA",98,"Color","English","G",223806889,180000000
+3161,"Waltz with Bashir",2008,"Israel",90,"Color","Hebrew","R",2283276,1500000
+3162,"Wanted",2008,"USA",110,"Color","English","R",134568845,75000000
+3163,"War, Inc.",2008,"USA",107,"Color","English","R",578527,10000000
+3164,"Welcome Home, Roscoe Jenkins",2008,"USA",114,"Color","English","PG-13",42168445,35000000
+3165,"Welcome to the Sticks",2008,"France",106,"Color","French",,,11000000
+3166,"Wendy and Lucy",2008,"USA",80,"Color","English","R",856942,200000
+3167,"What Happens in Vegas",2008,"USA",101,"Color","English","PG-13",80276912,35000000
+3168,"What Just Happened",2008,"USA",104,"Color","English","R",1089365,25000000
+3169,"Winter in Wartime",2008,"Netherlands",103,"Color","Dutch","R",542860,4000000
+3170,"Witless Protection",2008,"USA",97,"Color","English","PG-13",4131640,7500000
+3171,"W.",2008,"USA",129,"Color","English","PG-13",25517500,25100000
 3172,"Yes Man",2008,"USA",104,"Color","English","PG-13",97680195,70000000
 3173,"Yesterday Was a Lie",2008,"USA",89,"Black and White","English","PG",,2500000
 3174,"You Don't Mess with the Zohan",2008,"USA",113,"Color","English","PG-13",100018837,90000000
 3175,"Zack and Miri Make a Porno",2008,"USA",101,"Color","English","R",31452765,24000000
-3176,"[Rec] 2",2009,"Spain",85,"Color","Spanish","R",27024,5600000
-3177,"12 Rounds",2009,"USA",108,"Color","English","PG-13",12232937,22000000
-3178,"16 to Life",2009,"USA",89,"Color","English",,,1000000
-3179,"17 Again",2009,"USA",102,"Color","English","PG-13",64149837,20000000
+3176,"12 Rounds",2009,"USA",108,"Color","English","PG-13",12232937,22000000
+3177,"16 to Life",2009,"USA",89,"Color","English",,,1000000
+3178,"17 Again",2009,"USA",102,"Color","English","PG-13",64149837,20000000
+3179,"2012",2009,"USA",158,"Color","English","PG-13",166112167,200000000
 3180,"2:13",2009,"USA",96,"Color","English",,,3500000
-3181,"2012",2009,"USA",158,"Color","English","PG-13",166112167,200000000
-3182,"500 Days of Summer",2009,"USA",95,"Color","English","PG-13",32391374,7500000
-3183,"9",2009,"USA",79,"Color","English","PG-13",31743332,30000000
-3184,"A Christmas Carol",2009,"USA",96,"Color","English","PG",137850096,200000000
-3185,"A Perfect Getaway",2009,"USA",108,"Color","English","R",15483540,14000000
-3186,"A Serious Man",2009,"USA",106,"Color","English","R",9190525,7000000
-3187,"A Shine of Rainbows",2009,"Canada",101,"Color","English","PG",,6000000
-3188,"A Single Man",2009,"USA",99,"Color","English","R",9166863,7000000
-3189,"A Woman, a Gun and a Noodle Shop",2009,"China",95,"Color","Mandarin","R",190666,
-3190,"A Woman, a Gun and a Noodle Shop",2009,"China",95,"Color","Mandarin","R",190666,
-3191,"Adam",2009,"USA",99,"Color","English","PG-13",2277396,
-3192,"Adventureland",2009,"USA",107,"Color","English","R",16025394,
-3193,"After.Life",2009,"USA",104,"Color","English","R",108229,4500000
-3194,"Agora",2009,"Spain",141,"Color","English","R",617840,70000000
-3195,"Ajami",2009,"Germany",124,"Color","Arabic",,621240,
-3196,"Aliens in the Attic",2009,"USA",86,"Color","English","PG",25200412,45000000
-3197,"All About Steve",2009,"USA",99,"Color","English","PG-13",33860010,15000000
-3198,"Alvin and the Chipmunks: The Squeakquel",2009,"USA",88,"Color","English","PG",219613391,75000000
-3199,"An Education",2009,"UK",100,"Color","English","PG-13",12574715,4500000
-3200,"Angels & Demons",2009,"USA",146,"Color","English","PG-13",133375846,150000000
-3201,"Armored",2009,"USA",88,"Color","English","PG-13",15988876,27000000
-3202,"Astro Boy",2009,"Hong Kong",94,"Color","English","PG",19548064,65000000
-3203,"Avatar",2009,"USA",178,"Color","English","PG-13",760505847,237000000
-3204,"Away We Go",2009,"USA",98,"Color","English","R",9430988,17000000
-3205,"B-Girl",2009,"USA",88,"Color","English","PG-13",,
-3206,"Bad Lieutenant: Port of Call New Orleans",2009,"USA",122,"Color","English","R",1697956,20000000
-3207,"Bandslam",2009,"USA",111,"Color","English","PG",5205343,20000000
-3208,"Black Water Transit",2009,"USA",,"Color","English",,,23000000
-3209,"Bled",2009,"USA",95,"Color","English","R",,750000
-3210,"Bodyguards and Assassins",2009,"China",139,"Color","Mandarin",,,23000000
-3211,"Bran Nue Dae",2009,"Australia",88,"Color","English","PG-13",110029,6500000
-3212,"Breaking Upwards",2009,"USA",88,"Color","English",,76382,15000
-3213,"Bride Wars",2009,"USA",89,"Color","English","PG",58715510,30000000
-3214,"Bright Star",2009,"UK",119,"Color","English","PG",4440055,8500000
-3215,"Brooklyn's Finest",2009,"USA",132,"Color","English","R",27154426,17000000
+3181,"500 Days of Summer",2009,"USA",95,"Color","English","PG-13",32391374,7500000
+3182,"9",2009,"USA",79,"Color","English","PG-13",31743332,30000000
+3183,"A Christmas Carol",2009,"USA",96,"Color","English","PG",137850096,200000000
+3184,"Adam",2009,"USA",99,"Color","English","PG-13",2277396,
+3185,"Adventureland",2009,"USA",107,"Color","English","R",16025394,
+3186,"After.Life",2009,"USA",104,"Color","English","R",108229,4500000
+3187,"Agora",2009,"Spain",141,"Color","English","R",617840,70000000
+3188,"Ajami",2009,"Germany",124,"Color","Arabic",,621240,
+3189,"Aliens in the Attic",2009,"USA",86,"Color","English","PG",25200412,45000000
+3190,"All About Steve",2009,"USA",99,"Color","English","PG-13",33860010,15000000
+3191,"Alvin and the Chipmunks: The Squeakquel",2009,"USA",88,"Color","English","PG",219613391,75000000
+3192,"An Education",2009,"UK",100,"Color","English","PG-13",12574715,4500000
+3193,"Angels & Demons",2009,"USA",146,"Color","English","PG-13",133375846,150000000
+3194,"A Perfect Getaway",2009,"USA",108,"Color","English","R",15483540,14000000
+3195,"Armored",2009,"USA",88,"Color","English","PG-13",15988876,27000000
+3196,"A Serious Man",2009,"USA",106,"Color","English","R",9190525,7000000
+3197,"A Shine of Rainbows",2009,"Canada",101,"Color","English","PG",,6000000
+3198,"A Single Man",2009,"USA",99,"Color","English","R",9166863,7000000
+3199,"Astro Boy",2009,"Hong Kong",94,"Color","English","PG",19548064,65000000
+3200,"Avatar",2009,"USA",178,"Color","English","PG-13",760505847,237000000
+3201,"Away We Go",2009,"USA",98,"Color","English","R",9430988,17000000
+3202,"A Woman, a Gun and a Noodle Shop",2009,"China",95,"Color","Mandarin","R",190666,
+3203,"A Woman, a Gun and a Noodle Shop",2009,"China",95,"Color","Mandarin","R",190666,
+3204,"Bad Lieutenant: Port of Call New Orleans",2009,"USA",122,"Color","English","R",1697956,20000000
+3205,"Bandslam",2009,"USA",111,"Color","English","PG",5205343,20000000
+3206,"B-Girl",2009,"USA",88,"Color","English","PG-13",,
+3207,"Black Water Transit",2009,"USA",,"Color","English",,,23000000
+3208,"Bled",2009,"USA",95,"Color","English","R",,750000
+3209,"Bodyguards and Assassins",2009,"China",139,"Color","Mandarin",,,23000000
+3210,"Bran Nue Dae",2009,"Australia",88,"Color","English","PG-13",110029,6500000
+3211,"Breaking Upwards",2009,"USA",88,"Color","English",,76382,15000
+3212,"Bride Wars",2009,"USA",89,"Color","English","PG",58715510,30000000
+3213,"Bright Star",2009,"UK",119,"Color","English","PG",4440055,8500000
+3214,"Brooklyn's Finest",2009,"USA",132,"Color","English","R",27154426,17000000
+3215,"Brothers",2009,"USA",105,"Color","English","R",28501651,26000000
 3216,"Brothers",2009,"USA",105,"Color","English","R",28501651,26000000
-3217,"Brothers",2009,"USA",105,"Color","English","R",28501651,26000000
-3218,"Brüno",2009,"USA",81,"Color","English","R",59992760,42000000
-3219,"Capitalism: A Love Story",2009,"USA",105,"Color","English","R",14359793,
-3220,"Cargo",2009,"Switzerland",112,"Color","German",,,4500000
-3221,"Carriers",2009,"USA",84,"Color","English","PG-13",90820,
-3222,"Case 39",2009,"USA",109,"Color","English","R",13248477,27000000
-3223,"Chain Letter",2009,"USA",88,"Color","English","R",143000,5000000
-3224,"Chéri",2009,"UK",100,"Color","English","R",2708188,23000000
-3225,"Chicago Overcoat",2009,"USA",94,"Color","English","R",,3000000
-3226,"Chloe",2009,"USA",96,"Color","English","R",3074838,11000000
-3227,"Cirque du Freak: The Vampire's Assistant",2009,"USA",109,"Color","English","PG-13",13838130,40000000
-3228,"City Island",2009,"USA",104,"Color","English","PG-13",6670712,6000000
-3229,"City of Life and Death",2009,"China",132,"Black and White","Mandarin","R",119922,12000000
-3230,"Cloudy with a Chance of Meatballs",2009,"USA",90,"Color","English","PG",124870275,100000000
-3231,"Coco Before Chanel",2009,"France",111,"Color","French","PG-13",6109075,19430000
-3232,"Coraline",2009,"USA",100,"Black and White","English","PG",75280058,60000000
-3233,"Couples Retreat",2009,"USA",113,"Color","English","PG-13",109176215,60000000
-3234,"Crank: High Voltage",2009,"USA",96,"Color","English","R",13630226,20000000
-3235,"Crazy Heart",2009,"USA",112,"Color","English","R",39462438,7000000
-3236,"Crying with Laughter",2009,"UK",93,"Color","English",,,
-3237,"Dance Flick",2009,"USA",88,"Color","English","PG-13",25615792,25000000
-3238,"Daybreakers",2009,"Australia",98,"Color","English","R",29975979,20000000
-3239,"Dead Like Me: Life After Death",2009,"USA",87,"Color","English","R",,5000000
-3240,"Dead Snow",2009,"Norway",91,"Color","Norwegian","Not Rated",41709,800000
-3241,"Defendor",2009,"Canada",95,"Color","English","R",37606,3500000
-3242,"Did You Hear About the Morgans?",2009,"USA",103,"Color","English","PG-13",29580087,58000000
-3243,"District 9",2009,"South Africa",112,"Color","English","R",115646235,30000000
-3244,"Dogtooth",2009,"Greece",94,"Color","Greek","Unrated",110197,
-3245,"Don McKay",2009,"USA",87,"Color","English","R",,
-3246,"Down for Life",2009,"USA",92,"Color","English","R",,
-3247,"Down Terrace",2009,"UK",93,"Color","English","R",9609,
-3248,"Drag Me to Hell",2009,"USA",99,"Color","English","PG-13",42057340,30000000
-3249,"Dragonball: Evolution",2009,"USA",100,"Color","English","PG",9353573,45000000
-3250,"Duplicity",2009,"USA",125,"Color","English","PG-13",40559930,60000000
-3251,"Enter the Void",2009,"France",161,"Color","English","Not Rated",336467,13000000
-3252,"Everybody's Fine",2009,"USA",99,"Color","English","PG-13",8855646,21000000
-3253,"Exam",2009,"UK",101,"Color","English","Not Rated",,
-3254,"Extract",2009,"USA",92,"Color","English","R",10814185,8000000
-3255,"Fame",2009,"USA",123,"Color","English","PG",22452209,18000000
-3256,"Fantastic Mr. Fox",2009,"USA",87,"Color","English","PG",20999103,40000000
-3257,"Fish Tank",2009,"UK",123,"Color","English","Not Rated",373060,
-3258,"Flying By",2009,"USA",90,"Color","English","PG-13",,
-3259,"Forget Me Not",2009,"USA",103,"Color","English","R",,1300000
-3260,"Four Single Fathers",2009,"Italy",100,"Color","Italian",,,3000000
-3261,"Frat Party",2009,"USA",90,"Color","English","R",,1000000
-3262,"Funny People",2009,"USA",153,"Color","English","R",51814190,75000000
-3263,"G-Force",2009,"USA",88,"Color","English","PG",119420252,150000000
-3264,"G.I. Joe: The Rise of Cobra",2009,"USA",118,"Color","English","PG-13",150167630,175000000
-3265,"Gamer",2009,"USA",95,"Color","English","R",20488579,50000000
-3266,"Gentlemen Broncos",2009,"USA",89,"Color","English","PG-13",113155,
-3267,"Get Low",2009,"USA",100,"Color","English","PG-13",9176553,7500000
-3268,"Hachi: A Dog's Tale",2009,"USA",93,"Color","English","G",,16000000
+3217,"BrÃ¼no",2009,"USA",81,"Color","English","R",59992760,42000000
+3218,"Capitalism: A Love Story",2009,"USA",105,"Color","English","R",14359793,
+3219,"Cargo",2009,"Switzerland",112,"Color","German",,,4500000
+3220,"Carriers",2009,"USA",84,"Color","English","PG-13",90820,
+3221,"Case 39",2009,"USA",109,"Color","English","R",13248477,27000000
+3222,"Chain Letter",2009,"USA",88,"Color","English","R",143000,5000000
+3223,"ChÃ©ri",2009,"UK",100,"Color","English","R",2708188,23000000
+3224,"Chicago Overcoat",2009,"USA",94,"Color","English","R",,3000000
+3225,"Chloe",2009,"USA",96,"Color","English","R",3074838,11000000
+3226,"Cirque du Freak: The Vampire's Assistant",2009,"USA",109,"Color","English","PG-13",13838130,40000000
+3227,"City Island",2009,"USA",104,"Color","English","PG-13",6670712,6000000
+3228,"City of Life and Death",2009,"China",132,"Black and White","Mandarin","R",119922,12000000
+3229,"Cloudy with a Chance of Meatballs",2009,"USA",90,"Color","English","PG",124870275,100000000
+3230,"Coco Before Chanel",2009,"France",111,"Color","French","PG-13",6109075,19430000
+3231,"Coraline",2009,"USA",100,"Black and White","English","PG",75280058,60000000
+3232,"Couples Retreat",2009,"USA",113,"Color","English","PG-13",109176215,60000000
+3233,"Crank: High Voltage",2009,"USA",96,"Color","English","R",13630226,20000000
+3234,"Crazy Heart",2009,"USA",112,"Color","English","R",39462438,7000000
+3235,"Crying with Laughter",2009,"UK",93,"Color","English",,,
+3236,"Dance Flick",2009,"USA",88,"Color","English","PG-13",25615792,25000000
+3237,"Daybreakers",2009,"Australia",98,"Color","English","R",29975979,20000000
+3238,"Dead Like Me: Life After Death",2009,"USA",87,"Color","English","R",,5000000
+3239,"Dead Snow",2009,"Norway",91,"Color","Norwegian","Not Rated",41709,800000
+3240,"Defendor",2009,"Canada",95,"Color","English","R",37606,3500000
+3241,"Did You Hear About the Morgans?",2009,"USA",103,"Color","English","PG-13",29580087,58000000
+3242,"District 9",2009,"South Africa",112,"Color","English","R",115646235,30000000
+3243,"Dogtooth",2009,"Greece",94,"Color","Greek","Unrated",110197,
+3244,"Don McKay",2009,"USA",87,"Color","English","R",,
+3245,"Down for Life",2009,"USA",92,"Color","English","R",,
+3246,"Down Terrace",2009,"UK",93,"Color","English","R",9609,
+3247,"Drag Me to Hell",2009,"USA",99,"Color","English","PG-13",42057340,30000000
+3248,"Dragonball: Evolution",2009,"USA",100,"Color","English","PG",9353573,45000000
+3249,"Duplicity",2009,"USA",125,"Color","English","PG-13",40559930,60000000
+3250,"Enter the Void",2009,"France",161,"Color","English","Not Rated",336467,13000000
+3251,"Everybody's Fine",2009,"USA",99,"Color","English","PG-13",8855646,21000000
+3252,"Exam",2009,"UK",101,"Color","English","Not Rated",,
+3253,"Extract",2009,"USA",92,"Color","English","R",10814185,8000000
+3254,"Fame",2009,"USA",123,"Color","English","PG",22452209,18000000
+3255,"Fantastic Mr. Fox",2009,"USA",87,"Color","English","PG",20999103,40000000
+3256,"Fish Tank",2009,"UK",123,"Color","English","Not Rated",373060,
+3257,"Flying By",2009,"USA",90,"Color","English","PG-13",,
+3258,"Forget Me Not",2009,"USA",103,"Color","English","R",,1300000
+3259,"Four Single Fathers",2009,"Italy",100,"Color","Italian",,,3000000
+3260,"Frat Party",2009,"USA",90,"Color","English","R",,1000000
+3261,"Funny People",2009,"USA",153,"Color","English","R",51814190,75000000
+3262,"Gamer",2009,"USA",95,"Color","English","R",20488579,50000000
+3263,"Gentlemen Broncos",2009,"USA",89,"Color","English","PG-13",113155,
+3264,"Get Low",2009,"USA",100,"Color","English","PG-13",9176553,7500000
+3265,"G-Force",2009,"USA",88,"Color","English","PG",119420252,150000000
+3266,"G.I. Joe: The Rise of Cobra",2009,"USA",118,"Color","English","PG-13",150167630,175000000
+3267,"Hachi: A Dog's Tale",2009,"USA",93,"Color","English","G",,16000000
+3268,"Halloween II",2009,"USA",119,"Color","English","R",33386128,15000000
 3269,"Halloween II",2009,"USA",119,"Color","English","R",33386128,15000000
-3270,"Halloween II",2009,"USA",119,"Color","English","R",33386128,15000000
-3271,"Hannah Montana: The Movie",2009,"USA",102,"Color","English","G",79566871,30000000
-3272,"Harry Brown",2009,"UK",97,"Color","English","R",1818681,7300000
-3273,"Harry Potter and the Half-Blood Prince",2009,"UK",153,"Color","English","PG",301956980,250000000
-3274,"He's Just Not That Into You",2009,"USA",129,"Color","English","PG-13",93952276,40000000
-3275,"Hotel for Dogs",2009,"USA",100,"Color","English","PG",73023275,35000000
-3276,"I Am Love",2009,"Italy",120,"Color","Italian","R",5004648,10000000
-3277,"I Can Do Bad All by Myself",2009,"USA",113,"Color","English","PG-13",51697449,13000000
+3270,"Hannah Montana: The Movie",2009,"USA",102,"Color","English","G",79566871,30000000
+3271,"Harry Brown",2009,"UK",97,"Color","English","R",1818681,7300000
+3272,"Harry Potter and the Half-Blood Prince",2009,"UK",153,"Color","English","PG",301956980,250000000
+3273,"He's Just Not That Into You",2009,"USA",129,"Color","English","PG-13",93952276,40000000
+3274,"Hotel for Dogs",2009,"USA",100,"Color","English","PG",73023275,35000000
+3275,"I Am Love",2009,"Italy",120,"Color","Italian","R",5004648,10000000
+3276,"I Can Do Bad All by Myself",2009,"USA",113,"Color","English","PG-13",51697449,13000000
+3277,"Ice Age: Dawn of the Dinosaurs",2009,"USA",94,"Color","English","PG",196573705,90000000
 3278,"I Come with the Rain",2009,"France",114,"Color","English","Not Rated",,18000000
 3279,"I Hope They Serve Beer in Hell",2009,"USA",105,"Color","English","R",1425993,
-3280,"I Love You Phillip Morris",2009,"France",102,"Color","English","R",2035566,13000000
-3281,"I Love You, Beth Cooper",2009,"Canada",102,"Color","English","PG-13",14793904,18000000
-3282,"I Love You, Man",2009,"USA",105,"Color","English","R",71347010,40000000
-3283,"Ice Age: Dawn of the Dinosaurs",2009,"USA",94,"Color","English","PG",196573705,90000000
-3284,"Imagine That",2009,"USA",107,"Color","English","PG",16088610,55000000
-3285,"Inglourious Basterds",2009,"USA",153,"Color","English","R",120523073,75000000
-3286,"Ink",2009,"USA",107,"Color","English",,,
-3287,"Invictus",2009,"USA",134,"Color","English","PG-13",37479778,60000000
-3288,"It's Complicated",2009,"USA",120,"Color","English","R",112703470,85000000
-3289,"Jennifer's Body",2009,"USA",107,"Color","English","R",16204793,16000000
-3290,"Julie & Julia",2009,"USA",123,"Color","English","PG-13",94125426,40000000
-3291,"Knowing",2009,"USA",121,"Color","English","PG-13",79948113,50000000
-3292,"Land of the Lost",2009,"USA",102,"Color","English","PG-13",49392095,100000000
-3293,"Law Abiding Citizen",2009,"USA",118,"Color","English","R",73343413,50000000
-3294,"Life During Wartime",2009,"USA",98,"Color","English","R",278821,
-3295,"Little Nicholas",2009,"France",91,"Color","French",,,
-3296,"Love Happens",2009,"USA",109,"Color","English","PG-13",22927390,18000000
-3297,"Madea Goes to Jail",2009,"USA",103,"Color","English","PG-13",90485233,
-3298,"Mao's Last Dancer",2009,"Australia",117,"Color","English","PG",4806750,
-3299,"Micmacs",2009,"France",105,"Color","French","R",1260917,27000000
-3300,"Miss March",2009,"USA",90,"Color","English","R",4542775,6000000
-3301,"Monsters vs. Aliens",2009,"USA",94,"Color","English","PG",198332128,175000000
-3302,"Moon",2009,"UK",97,"Color","English","R",5009677,5000000
-3303,"Mother and Child",2009,"USA",125,"Color","English","R",1110286,4825000
-3304,"Motherhood",2009,"USA",90,"Color","English","PG-13",92900,5000000
-3305,"My Bloody Valentine",2009,"USA",101,"Color","English","R",51527787,15000000
-3306,"My Dog Tulip",2009,"USA",83,"Color","English",,246574,
-3307,"My Life in Ruins",2009,"USA",98,"Color","English","PG-13",8662318,17000000
-3308,"My Sister's Keeper",2009,"USA",109,"Color","English","PG-13",49185998,30000000
-3309,"New in Town",2009,"USA",97,"Color","English","PG",16699684,8000000
-3310,"Next Day Air",2009,"USA",84,"Color","English","R",10017041,3000000
-3311,"Night at the Museum: Battle of the Smithsonian",2009,"USA",105,"Color","English","PG",177243721,150000000
-3312,"Nine",2009,"USA",118,"Black and White","English","PG-13",19673424,80000000
-3313,"Ninja Assassin",2009,"USA",99,"Color","English","R",38105077,40000000
-3314,"Not Easily Broken",2009,"USA",99,"Color","English","PG-13",10572742,8000000
-3315,"Nowhere Boy",2009,"UK",98,"Color","English","R",1445366,
-3316,"Obitaemyy ostrov",2009,"Russia",115,"Color","Russian",,,29500000
-3317,"Observe and Report",2009,"USA",86,"Color","English","R",23993605,18000000
-3318,"Oceans",2009,"France",104,"Color","French","G",19406406,40000000
-3319,"Old Dogs",2009,"USA",88,"Color","English","PG",49474048,35000000
-3320,"Ondine",2009,"Ireland",111,"Color","English","PG-13",548934,12000000
-3321,"Orphan",2009,"USA",123,"Color","English","R",41573740,
-3322,"Paa",2009,"India",133,"Color","Hindi",,199228,150000000
-3323,"Pandorum",2009,"Germany",108,"Color","English","R",10326062,33000000
-3324,"Paul Blart: Mall Cop",2009,"USA",91,"Color","English","PG",20819129,26000000
-3325,"Perrier's Bounty",2009,"Ireland",88,"Color","English","R",828,
-3326,"Pirate Radio",2009,"UK",135,"Color","English","R",7994115,
-3327,"Planet 51",2009,"Spain",91,"Color","English","PG",42194060,70000000
-3328,"Post Grad",2009,"USA",88,"Color","English","PG-13",6373693,15000000
+3280,"I Love You, Beth Cooper",2009,"Canada",102,"Color","English","PG-13",14793904,18000000
+3281,"I Love You, Man",2009,"USA",105,"Color","English","R",71347010,40000000
+3282,"I Love You Phillip Morris",2009,"France",102,"Color","English","R",2035566,13000000
+3283,"Imagine That",2009,"USA",107,"Color","English","PG",16088610,55000000
+3284,"Inglourious Basterds",2009,"USA",153,"Color","English","R",120523073,75000000
+3285,"Ink",2009,"USA",107,"Color","English",,,
+3286,"Invictus",2009,"USA",134,"Color","English","PG-13",37479778,60000000
+3287,"It's Complicated",2009,"USA",120,"Color","English","R",112703470,85000000
+3288,"Jennifer's Body",2009,"USA",107,"Color","English","R",16204793,16000000
+3289,"Julie & Julia",2009,"USA",123,"Color","English","PG-13",94125426,40000000
+3290,"Knowing",2009,"USA",121,"Color","English","PG-13",79948113,50000000
+3291,"Land of the Lost",2009,"USA",102,"Color","English","PG-13",49392095,100000000
+3292,"Law Abiding Citizen",2009,"USA",118,"Color","English","R",73343413,50000000
+3293,"Life During Wartime",2009,"USA",98,"Color","English","R",278821,
+3294,"Little Nicholas",2009,"France",91,"Color","French",,,
+3295,"Love Happens",2009,"USA",109,"Color","English","PG-13",22927390,18000000
+3296,"Madea Goes to Jail",2009,"USA",103,"Color","English","PG-13",90485233,
+3297,"Mao's Last Dancer",2009,"Australia",117,"Color","English","PG",4806750,
+3298,"Micmacs",2009,"France",105,"Color","French","R",1260917,27000000
+3299,"Miss March",2009,"USA",90,"Color","English","R",4542775,6000000
+3300,"Monsters vs. Aliens",2009,"USA",94,"Color","English","PG",198332128,175000000
+3301,"Moon",2009,"UK",97,"Color","English","R",5009677,5000000
+3302,"Mother and Child",2009,"USA",125,"Color","English","R",1110286,4825000
+3303,"Motherhood",2009,"USA",90,"Color","English","PG-13",92900,5000000
+3304,"My Bloody Valentine",2009,"USA",101,"Color","English","R",51527787,15000000
+3305,"My Dog Tulip",2009,"USA",83,"Color","English",,246574,
+3306,"My Life in Ruins",2009,"USA",98,"Color","English","PG-13",8662318,17000000
+3307,"My Sister's Keeper",2009,"USA",109,"Color","English","PG-13",49185998,30000000
+3308,"New in Town",2009,"USA",97,"Color","English","PG",16699684,8000000
+3309,"Next Day Air",2009,"USA",84,"Color","English","R",10017041,3000000
+3310,"Night at the Museum: Battle of the Smithsonian",2009,"USA",105,"Color","English","PG",177243721,150000000
+3311,"Nine",2009,"USA",118,"Black and White","English","PG-13",19673424,80000000
+3312,"Ninja Assassin",2009,"USA",99,"Color","English","R",38105077,40000000
+3313,"Not Easily Broken",2009,"USA",99,"Color","English","PG-13",10572742,8000000
+3314,"Nowhere Boy",2009,"UK",98,"Color","English","R",1445366,
+3315,"Obitaemyy ostrov",2009,"Russia",115,"Color","Russian",,,29500000
+3316,"Observe and Report",2009,"USA",86,"Color","English","R",23993605,18000000
+3317,"Oceans",2009,"France",104,"Color","French","G",19406406,40000000
+3318,"Old Dogs",2009,"USA",88,"Color","English","PG",49474048,35000000
+3319,"Ondine",2009,"Ireland",111,"Color","English","PG-13",548934,12000000
+3320,"Orphan",2009,"USA",123,"Color","English","R",41573740,
+3321,"Paa",2009,"India",133,"Color","Hindi",,199228,150000000
+3322,"Pandorum",2009,"Germany",108,"Color","English","R",10326062,33000000
+3323,"Paul Blart: Mall Cop",2009,"USA",91,"Color","English","PG",20819129,26000000
+3324,"Perrier's Bounty",2009,"Ireland",88,"Color","English","R",828,
+3325,"Pirate Radio",2009,"UK",135,"Color","English","R",7994115,
+3326,"Planet 51",2009,"Spain",91,"Color","English","PG",42194060,70000000
+3327,"Post Grad",2009,"USA",88,"Color","English","PG-13",6373693,15000000
+3328,"Precious",2009,"USA",109,"Color","English","R",47536959,10000000
 3329,"Precious",2009,"USA",109,"Color","English","R",47536959,10000000
-3330,"Precious",2009,"USA",109,"Color","English","R",47536959,10000000
-3331,"Princess Kaiulani",2009,"USA",97,"Color","English","PG",883887,9000000
-3332,"Public Enemies",2009,"USA",140,"Color","English","R",97030725,100000000
-3333,"Race to Witch Mountain",2009,"USA",98,"Color","English","PG",67128202,65000000
-3334,"Rampage",2009,"Canada",80,"Color","English","R",,
+3330,"Princess Kaiulani",2009,"USA",97,"Color","English","PG",883887,9000000
+3331,"Public Enemies",2009,"USA",140,"Color","English","R",97030725,100000000
+3332,"Race to Witch Mountain",2009,"USA",98,"Color","English","PG",67128202,65000000
+3333,"Rampage",2009,"Canada",80,"Color","English","R",,
+3334,"[Rec] 2",2009,"Spain",85,"Color","Spanish","R",27024,5600000
 3335,"Red Riding: In the Year of Our Lord 1974",2009,"UK",102,"Color","English","Not Rated",,
 3336,"Rocket Singh: Salesman of the Year",2009,"India",150,"Color","Hindi",,,
 3337,"Royal Kill",2009,"USA",90,"Color","English","PG-13",,350000
@@ -3347,8 +3347,8 @@
 3346,"Soul Kitchen",2009,"Germany",99,"Color","German",,274385,4000000
 3347,"Splice",2009,"Canada",104,"Color","English","R",16999046,26000000
 3348,"Stan Helsing",2009,"Canada",90,"Color","English","R",,
-3349,"Star Trek",2009,"USA",127,"Color","English","PG-13",257704099,150000000
-3350,"Starsuckers",2009,"UK",103,"Color","English",,,400000
+3349,"Starsuckers",2009,"UK",103,"Color","English",,,400000
+3350,"Star Trek",2009,"USA",127,"Color","English","PG-13",257704099,150000000
 3351,"State of Play",2009,"USA",127,"Color","English","PG-13",36965395,
 3352,"Steppin: The Movie",2009,"USA",138,"Color","English","PG-13",,1000000
 3353,"Street Fighter: The Legend of Chun-Li",2009,"Canada",96,"Color","English","PG-13",8742261,18000000
@@ -3438,15 +3438,15 @@
 3437,"3",2010,"Germany",119,"Color","German","Unrated",59774,
 3438,"3 Backyards",2010,"USA",88,"Color","English","R",,300000
 3439,"8: The Mormon Proposition",2010,"USA",80,"Color","English","R",99851,2500000
-3440,"A Turtle's Tale: Sammy's Adventures",2010,"France",88,"Color","English","PG",,
+3440,"Alice in Wonderland",2010,"USA",108,"Color","English","PG",334185206,200000000
 3441,"Alice in Wonderland",2010,"USA",108,"Color","English","PG",334185206,200000000
-3442,"Alice in Wonderland",2010,"USA",108,"Color","English","PG",334185206,200000000
-3443,"All Good Things",2010,"USA",101,"Color","English","R",578382,
-3444,"Alpha and Omega",2010,"USA",90,"Color","English","PG",25077977,20000000
-3445,"Amigo",2010,"USA",124,"Color","English","R",183490,1700000
-3446,"Anderson's Cross",2010,"USA",98,"Color","English","R",,300000
-3447,"Animals United",2010,"Germany",93,"Color","German","PG",,
-3448,"Another Year",2010,"UK",129,"Color","English","PG-13",3205244,10000000
+3442,"All Good Things",2010,"USA",101,"Color","English","R",578382,
+3443,"Alpha and Omega",2010,"USA",90,"Color","English","PG",25077977,20000000
+3444,"Amigo",2010,"USA",124,"Color","English","R",183490,1700000
+3445,"Anderson's Cross",2010,"USA",98,"Color","English","R",,300000
+3446,"Animals United",2010,"Germany",93,"Color","German","PG",,
+3447,"Another Year",2010,"UK",129,"Color","English","PG-13",3205244,10000000
+3448,"A Turtle's Tale: Sammy's Adventures",2010,"France",88,"Color","English","PG",,
 3449,"Barney's Version",2010,"Canada",134,"Color","English","R",7501404,
 3450,"Barry Munday",2010,"USA",95,"Color","English","R",,
 3451,"Beginners",2010,"USA",105,"Color","English","R",5776314,3200000
@@ -3509,15 +3509,15 @@
 3508,"Housefull",2010,"India",144,"Color","Hindi",,1165104,
 3509,"How Do You Know",2010,"USA",121,"Color","English","PG-13",30212620,120000000
 3510,"How to Train Your Dragon",2010,"USA",98,"Color","English","PG",217387997,165000000
-3511,"I Spit on Your Grave",2010,"USA",105,"Color","English","R",92401,2000000
-3512,"I Want Your Money",2010,"USA",92,"Color","English","PG",425899,400000
-3513,"Incendies",2010,"Canada",139,"Color","French","R",6857096,6800000
-3514,"Inception",2010,"USA",148,"Color","English","PG-13",292568851,160000000
-3515,"Inside Job",2010,"USA",105,"Color","English","PG-13",4311834,
-3516,"Insidious",2010,"USA",103,"Color","English","PG-13",53991137,1500000
-3517,"Iron Man 2",2010,"USA",124,"Color","English","PG-13",312057433,200000000
-3518,"It's a Wonderful Afterlife",2010,"UK",100,"Color","English","PG-13",,10000000
-3519,"It's Kind of a Funny Story",2010,"USA",101,"Color","English","PG-13",6350058,8000000
+3511,"Incendies",2010,"Canada",139,"Color","French","R",6857096,6800000
+3512,"Inception",2010,"USA",148,"Color","English","PG-13",292568851,160000000
+3513,"Inside Job",2010,"USA",105,"Color","English","PG-13",4311834,
+3514,"Insidious",2010,"USA",103,"Color","English","PG-13",53991137,1500000
+3515,"Iron Man 2",2010,"USA",124,"Color","English","PG-13",312057433,200000000
+3516,"I Spit on Your Grave",2010,"USA",105,"Color","English","R",92401,2000000
+3517,"It's a Wonderful Afterlife",2010,"UK",100,"Color","English","PG-13",,10000000
+3518,"It's Kind of a Funny Story",2010,"USA",101,"Color","English","PG-13",6350058,8000000
+3519,"I Want Your Money",2010,"USA",92,"Color","English","PG",425899,400000
 3520,"Jackass 3D",2010,"USA",101,"Color","English","R",117224271,20000000
 3521,"Jonah Hex",2010,"USA",81,"Color","English","PG-13",10539414,47000000
 3522,"Just Wright",2010,"USA",100,"Color","English","PG",21520719,
@@ -3550,10 +3550,10 @@
 3549,"My Name Is Khan",2010,"India",128,"Color","Hindi","PG-13",4018695,12000000
 3550,"My Soul to Take",2010,"USA",107,"Color","English","R",14637490,25000000
 3551,"My Soul to Take",2010,"USA",107,"Color","English","R",14637490,25000000
-3552,"N-Secure",2010,"USA",,"Color","English","R",2592808,
-3553,"Nanny McPhee Returns",2010,"UK",109,"Color","English","PG",28995450,35000000
-3554,"Never Let Me Go",2010,"UK",103,"Color","English","R",2412045,15000000
-3555,"Nine Dead",2010,"USA",83,"Color","English","R",,2000000
+3552,"Nanny McPhee Returns",2010,"UK",109,"Color","English","PG",28995450,35000000
+3553,"Never Let Me Go",2010,"UK",103,"Color","English","R",2412045,15000000
+3554,"Nine Dead",2010,"USA",83,"Color","English","R",,2000000
+3555,"N-Secure",2010,"USA",,"Color","English","R",2592808,
 3556,"Of Gods and Men",2010,"France",122,"Color","French","PG-13",3950029,4000000
 3557,"Our Family Wedding",2010,"USA",103,"Color","English","PG-13",20246959,14000000
 3558,"Paranormal Activity 2",2010,"USA",98,"Color","English","R",84749884,3000000
@@ -3564,8 +3564,8 @@
 3563,"Prince of Persia: The Sands of Time",2010,"USA",116,"Color","English","PG-13",90755643,200000000
 3564,"Rabbit Hole",2010,"USA",91,"Color","English","PG-13",2221809,5000000
 3565,"Ramona and Beezus",2010,"USA",103,"Color","English","G",26161406,15000000
-3566,"RED",2010,"USA",111,"Color","English","PG-13",90356857,58000000
-3567,"Redemption Road",2010,"USA",95,"Color","English","PG-13",27012,
+3566,"Redemption Road",2010,"USA",95,"Color","English","PG-13",27012,
+3567,"RED",2010,"USA",111,"Color","English","PG-13",90356857,58000000
 3568,"Reign of Assassins",2010,"China",117,"Color","Mandarin","R",,12000000
 3569,"Remember Me",2010,"USA",113,"Color","English","PG-13",19057024,16000000
 3570,"Repo Men",2010,"USA",119,"Color","English","R",13763130,32000000
@@ -3663,26 +3663,26 @@
 3662,"You Will Meet a Tall Dark Stranger",2010,"USA",98,"Color","English","R",3247816,22000000
 3663,"1911",2011,"China",121,"Color","Mandarin","R",127437,18000000
 3664,"30 Minutes or Less",2011,"Germany",83,"Color","English","R",37053924,28000000
-3665,"5 Days of War",2011,"Georgia",113,"Color","English","R",17149,20000000
-3666,"50/50",2011,"USA",100,"Color","English","R",34963967,8000000
-3667,"A Better Life",2011,"USA",98,"Color","English","PG-13",1754319,10000000
-3668,"A Dangerous Method",2011,"UK",99,"Color","English","R",5702083,15000000
-3669,"A Lonely Place to Die",2011,"UK",99,"Color","English","R",,4000000
-3670,"A Monster in Paris",2011,"France",90,"Color","French","PG",,25000000
-3671,"A Separation",2011,"Iran",123,"Color","Persian","PG-13",7098492,500000
-3672,"A Very Harold & Kumar 3D Christmas",2011,"USA",90,"Color","English","R",35033759,19000000
-3673,"Abduction",2011,"USA",106,"Color","English","PG-13",28064226,35000000
-3674,"Absentia",2011,"USA",87,"Color","English","R",,70000
-3675,"Albert Nobbs",2011,"UK",113,"Color","English","R",3014541,8000000
-3676,"All Superheroes Must Die",2011,"USA",78,"Color","English","Unrated",,20000
-3677,"Alvin and the Chipmunks: Chipwrecked",2011,"USA",87,"Color","English","G",133103929,75000000
-3678,"Anonymous",2011,"UK",130,"Color","English","PG-13",4463292,30000000
-3679,"Another Earth",2011,"USA",92,"Color","English","PG-13",1316074,100000
-3680,"Another Happy Day",2011,"USA",119,"Color","English","R",,4000000
-3681,"Apollo 18",2011,"USA",86,"Color","English","PG-13",17683670,5000000
-3682,"Arthur Christmas",2011,"UK",97,"Color","English","PG",46440491,100000000
-3683,"Attack the Block",2011,"UK",88,"Color","English","R",1024175,13000000
-3684,"August",2011,"USA",99,"Color","English","Not Rated",,
+3665,"50/50",2011,"USA",100,"Color","English","R",34963967,8000000
+3666,"5 Days of War",2011,"Georgia",113,"Color","English","R",17149,20000000
+3667,"Abduction",2011,"USA",106,"Color","English","PG-13",28064226,35000000
+3668,"A Better Life",2011,"USA",98,"Color","English","PG-13",1754319,10000000
+3669,"Absentia",2011,"USA",87,"Color","English","R",,70000
+3670,"A Dangerous Method",2011,"UK",99,"Color","English","R",5702083,15000000
+3671,"Albert Nobbs",2011,"UK",113,"Color","English","R",3014541,8000000
+3672,"All Superheroes Must Die",2011,"USA",78,"Color","English","Unrated",,20000
+3673,"A Lonely Place to Die",2011,"UK",99,"Color","English","R",,4000000
+3674,"Alvin and the Chipmunks: Chipwrecked",2011,"USA",87,"Color","English","G",133103929,75000000
+3675,"A Monster in Paris",2011,"France",90,"Color","French","PG",,25000000
+3676,"Anonymous",2011,"UK",130,"Color","English","PG-13",4463292,30000000
+3677,"Another Earth",2011,"USA",92,"Color","English","PG-13",1316074,100000
+3678,"Another Happy Day",2011,"USA",119,"Color","English","R",,4000000
+3679,"Apollo 18",2011,"USA",86,"Color","English","PG-13",17683670,5000000
+3680,"Arthur Christmas",2011,"UK",97,"Color","English","PG",46440491,100000000
+3681,"A Separation",2011,"Iran",123,"Color","Persian","PG-13",7098492,500000
+3682,"Attack the Block",2011,"UK",88,"Color","English","R",1024175,13000000
+3683,"August",2011,"USA",99,"Color","English","Not Rated",,
+3684,"A Very Harold & Kumar 3D Christmas",2011,"USA",90,"Color","English","R",35033759,19000000
 3685,"Bad Teacher",2011,"USA",97,"Color","English","R",100292856,20000000
 3686,"Battle Los Angeles",2011,"USA",116,"Color","English","PG-13",83552429,70000000
 3687,"Beastly",2011,"USA",86,"Color","English","PG-13",27854896,17000000
@@ -3729,8 +3729,8 @@
 3728,"Harry Potter and the Deathly Hallows: Part II",2011,"UK",,"Color","English",,,
 3729,"Haywire",2011,"Ireland",93,"Color","English","R",18934858,23000000
 3730,"Headhunters",2011,"Norway",100,"Color","Norwegian","R",1196752,30300000
-3731,"High Road",2011,"USA",87,"Color","English","R",,
-3732,"Higher Ground",2011,"USA",109,"Color","English","R",841206,
+3731,"Higher Ground",2011,"USA",109,"Color","English","R",841206,
+3732,"High Road",2011,"USA",87,"Color","English","R",,
 3733,"Hobo with a Shotgun",2011,"Canada",86,"Color","English","Not Rated",703002,3000000
 3734,"Hoodwinked Too! Hood vs. Evil",2011,"USA",86,"Color","English","PG",10134754,30000000
 3735,"Hop",2011,"USA",95,"Color","English","PG",108012170,63000000
@@ -3742,22 +3742,22 @@
 3741,"In the Land of Blood and Honey",2011,"USA",127,"Color","Bosnian","R",301305,13000000
 3742,"In Time",2011,"USA",109,"Color","English","PG-13",37553932,40000000
 3743,"Ironclad",2011,"UK",121,"Color","English","R",,25000000
-3744,"J. Edgar",2011,"USA",137,"Color","English","R",37304950,35000000
-3745,"Jack and Jill",2011,"USA",91,"Color","English","PG",74158157,79000000
+3744,"Jack and Jill",2011,"USA",91,"Color","English","PG",74158157,79000000
+3745,"J. Edgar",2011,"USA",137,"Color","English","R",37304950,35000000
 3746,"Jeff, Who Lives at Home",2011,"USA",83,"Color","English","R",4244155,10000000
 3747,"Johnny English Reborn",2011,"USA",101,"Color","English","PG",8129455,45000000
 3748,"Jumping the Broom",2011,"USA",112,"Color","English","PG-13",37295394,6600000
 3749,"Just Go with It",2011,"USA",117,"Color","English","PG-13",103028109,80000000
 3750,"Justin Bieber: Never Say Never",2011,"USA",115,"Color","English","G",73000942,13000000
 3751,"Kevin Hart: Laugh at My Pain",2011,"USA",89,"Color","English","R",7705974,
-3752,"Kill List",2011,"UK",95,"Color","English","Not Rated",26297,500000
-3753,"Killer Elite",2011,"UK",116,"Color","English","R",25093607,35000000
-3754,"Killer Joe",2011,"USA",98,"Color","English","R",1987762,11000000
+3752,"Killer Elite",2011,"UK",116,"Color","English","R",25093607,35000000
+3753,"Killer Joe",2011,"USA",98,"Color","English","R",1987762,11000000
+3754,"Kill List",2011,"UK",95,"Color","English","Not Rated",26297,500000
 3755,"Kung Fu Panda 2",2011,"USA",90,"Color","English","PG",165230261,150000000
-3756,"L!fe Happens",2011,"USA",100,"Color","English","R",20186,930000
-3757,"Larry Crowne",2011,"USA",98,"Color","English","PG-13",35565975,30000000
+3756,"Larry Crowne",2011,"USA",98,"Color","English","PG-13",35565975,30000000
+3757,"Legend of Kung Fu Rabbit",2011,"China",89,"Color","Mandarin","PG",,
 3758,"Le Havre",2011,"Finland",93,"Color","French","Not Rated",611709,3850000
-3759,"Legend of Kung Fu Rabbit",2011,"China",89,"Color","Mandarin","PG",,
+3759,"L!fe Happens",2011,"USA",100,"Color","English","R",20186,930000
 3760,"Like Crazy",2011,"USA",90,"Color","English","PG-13",3388210,250000
 3761,"Machine Gun Preacher",2011,"USA",129,"Color","English","R",537580,30000000
 3762,"Margaret",2011,"USA",186,"Color","English","R",46495,14000000
@@ -3773,8 +3773,8 @@
 3772,"My Last Day Without You",2011,"USA",90,"Color","English",,,1000000
 3773,"My Week with Marilyn",2011,"UK",99,"Color","English","R",14597405,6400000
 3774,"Never Back Down 2: The Beatdown",2011,"USA",90,"Color","English","R",,3000000
-3775,"New Year's Eve",2011,"USA",113,"Color","English","PG-13",54540525,56000000
-3776,"Newlyweds",2011,"USA",95,"Color","English","Not Rated",4584,9000
+3775,"Newlyweds",2011,"USA",95,"Color","English","Not Rated",4584,9000
+3776,"New Year's Eve",2011,"USA",113,"Color","English","PG-13",54540525,56000000
 3777,"No Strings Attached",2011,"USA",108,"Color","English","R",70625986,25000000
 3778,"October Baby",2011,"USA",107,"Color","English","PG-13",5355847,
 3779,"One Day",2011,"USA",107,"Color","English","PG-13",13766014,15000000
@@ -3821,8 +3821,8 @@
 3820,"Take Shelter",2011,"USA",121,"Color","English","R",1729969,5000000
 3821,"The Adjustment Bureau",2011,"USA",106,"Color","English","PG-13",62453315,50200000
 3822,"The Adventures of Tintin",2011,"USA",107,"Color","English","PG",77564037,135000000
-3823,"The Art of Getting By",2011,"USA",83,"Color","English","PG-13",1429260,
-3824,"The Artist",2011,"France",100,"Black and White","English","PG-13",44667095,15000000
+3823,"The Artist",2011,"France",100,"Black and White","English","PG-13",44667095,15000000
+3824,"The Art of Getting By",2011,"USA",83,"Color","English","PG-13",1429260,
 3825,"The Awakening",2011,"UK",107,"Color","English","R",,3000000
 3826,"The Beaver",2011,"USA",91,"Color","English","PG-13",958319,21000000
 3827,"The Best Exotic Marigold Hotel",2011,"UK",124,"Color","English","PG-13",46377022,10000000
@@ -3853,15 +3853,15 @@
 3852,"The Mechanic",2011,"USA",93,"Color","English","R",29113588,40000000
 3853,"The Muppets",2011,"USA",103,"Color","English","PG",88625922,45000000
 3854,"The Raid: Redemption",2011,"Indonesia",102,"Color","Indonesian","R",4105123,1100000
-3855,"The Ridges",2011,"USA",143,,"English",,,17350
-3856,"The Rite",2011,"USA",114,"Color","English","PG-13",33037754,37000000
-3857,"The Roommate",2011,"USA",91,"Color","English","PG-13",37300107,16000000
-3858,"The Sitter",2011,"USA",87,"Color","English","R",30538669,
-3859,"The Smurfs",2011,"USA",103,"Color","English","PG",142614158,110000000
-3860,"The Son of No One",2011,"USA",90,"Color","English","R",28870,15000000
-3861,"The Three Musketeers",2011,"Germany",110,"Color","English","PG-13",20315324,75000000
-3862,"The Tree of Life",2011,"USA",139,"Color","English","PG-13",13303319,32000000
-3863,"There Be Dragons",2011,"Spain",102,"Color","English","PG-13",1068392,36000000
+3855,"There Be Dragons",2011,"Spain",102,"Color","English","PG-13",1068392,36000000
+3856,"The Ridges",2011,"USA",143,,"English",,,17350
+3857,"The Rite",2011,"USA",114,"Color","English","PG-13",33037754,37000000
+3858,"The Roommate",2011,"USA",91,"Color","English","PG-13",37300107,16000000
+3859,"The Sitter",2011,"USA",87,"Color","English","R",30538669,
+3860,"The Smurfs",2011,"USA",103,"Color","English","PG",142614158,110000000
+3861,"The Son of No One",2011,"USA",90,"Color","English","R",28870,15000000
+3862,"The Three Musketeers",2011,"Germany",110,"Color","English","PG-13",20315324,75000000
+3863,"The Tree of Life",2011,"USA",139,"Color","English","PG-13",13303319,32000000
 3864,"Thor",2011,"USA",115,"Color","English","PG-13",181015141,150000000
 3865,"Tinker Tailor Soldier Spy",2011,"France",127,"Color","English","R",24104113,20000000
 3866,"Tower Heist",2011,"USA",104,"Color","English","PG-13",78009155,75000000
@@ -3873,8 +3873,8 @@
 3872,"Warrior",2011,"USA",140,"Color","English","PG-13",13651662,25000000
 3873,"Water for Elephants",2011,"USA",120,"Color","English","PG-13",58700247,38000000
 3874,"We Bought a Zoo",2011,"USA",124,"Color","English","PG",75621915,
-3875,"We Need to Talk About Kevin",2011,"UK",112,"Color","English","R",1738692,7000000
-3876,"Weekend",2011,"UK",97,"Color","English","Not Rated",469947,120000
+3875,"Weekend",2011,"UK",97,"Color","English","Not Rated",469947,120000
+3876,"We Need to Talk About Kevin",2011,"UK",112,"Color","English","R",1738692,7000000
 3877,"What's Your Number?",2011,"USA",117,"Color","English","R",13987482,20000000
 3878,"Winnie Mandela",2011,"South Africa",104,"Color","English","R",,15000000
 3879,"Winnie the Pooh",2011,"USA",63,"Color","English","G",26687172,30000000
@@ -3887,20 +3887,20 @@
 3886,"Zookeeper",2011,"USA",102,"Color","English","PG",80360866,80000000
 3887,"2016: Obama's America",2012,"USA",87,"Color","English","PG",33349949,2500000
 3888,"21 Jump Street",2012,"USA",109,"Color","English","R",138447667,42000000
-3889,"A Perfect Plan",2012,"France",104,"Color","French",,,17000000
-3890,"A Thousand Words",2012,"USA",91,"Color","English","PG-13",18438149,40000000
-3891,"Abraham Lincoln: Vampire Hunter",2012,"USA",105,"Color","English","R",37516013,69000000
-3892,"Act of Valor",2012,"USA",110,"Color","English","R",70011073,12000000
-3893,"After",2012,"USA",90,"Color","English","PG-13",,650000
-3894,"Alex Cross",2012,"USA",101,"Color","English","PG-13",25863915,35000000
-3895,"Alien Uprising",2012,"UK",101,"Color","English","R",,2500000
-3896,"American Reunion",2012,"USA",113,"Color","English","R",56724080,50000000
-3897,"Amour",2012,"France",127,"Color","French","PG-13",225377,8900000
-3898,"Anna Karenina",2012,"UK",129,"Color","English","R",12802907,
-3899,"Antiviral",2012,"Canada",108,"Color","English","Not Rated",,3200000
-3900,"Arbitrage",2012,"USA",107,"Color","English","R",7918283,12000000
-3901,"Archaeology of a Woman",2012,"USA",94,"Color","English",,,200000
-3902,"Argo",2012,"USA",130,"Color","English","R",136019448,44500000
+3889,"Abraham Lincoln: Vampire Hunter",2012,"USA",105,"Color","English","R",37516013,69000000
+3890,"Act of Valor",2012,"USA",110,"Color","English","R",70011073,12000000
+3891,"After",2012,"USA",90,"Color","English","PG-13",,650000
+3892,"Alex Cross",2012,"USA",101,"Color","English","PG-13",25863915,35000000
+3893,"Alien Uprising",2012,"UK",101,"Color","English","R",,2500000
+3894,"American Reunion",2012,"USA",113,"Color","English","R",56724080,50000000
+3895,"Amour",2012,"France",127,"Color","French","PG-13",225377,8900000
+3896,"Anna Karenina",2012,"UK",129,"Color","English","R",12802907,
+3897,"Antiviral",2012,"Canada",108,"Color","English","Not Rated",,3200000
+3898,"A Perfect Plan",2012,"France",104,"Color","French",,,17000000
+3899,"Arbitrage",2012,"USA",107,"Color","English","R",7918283,12000000
+3900,"Archaeology of a Woman",2012,"USA",94,"Color","English",,,200000
+3901,"Argo",2012,"USA",130,"Color","English","R",136019448,44500000
+3902,"A Thousand Words",2012,"USA",91,"Color","English","PG-13",18438149,40000000
 3903,"Atlas Shrugged II: The Strike",2012,"USA",111,"Color","English","PG-13",3333823,10000000
 3904,"Bachelorette",2012,"USA",87,"Color","English","R",418268,3000000
 3905,"Bait",2012,"Australia",93,"Color","English","R",,30000000
@@ -3969,7 +3969,7 @@
 3968,"Katy Perry: Part of Me",2012,"USA",93,"Color","English","PG",25240988,12000000
 3969,"Khiladi 786",2012,"India",141,"Color","Hindi","Not Rated",352684,
 3970,"Killing Them Softly",2012,"USA",97,"Color","English","R",14938570,15000000
-3971,"Les Misérables",2012,"USA",158,"Color","English","PG-13",148775460,61000000
+3971,"Les MisÃ©rables",2012,"USA",158,"Color","English","PG-13",148775460,61000000
 3972,"Life of Pi",2012,"USA",127,"Color","English","PG",124976634,120000000
 3973,"Lincoln",2012,"USA",150,"Color","English","PG-13",182204440,65000000
 3974,"Lockout",2012,"France",95,"Color","English","PG-13",14291570,20000000
@@ -3978,8 +3978,8 @@
 3977,"Madagascar 3: Europe's Most Wanted",2012,"USA",93,"Color","English","PG",216366733,145000000
 3978,"Madea's Witness Protection",2012,"USA",114,"Color","English","PG-13",65623128,20000000
 3979,"Magic Mike",2012,"USA",110,"Color","English","R",113709992,7000000
-3980,"Man on a Ledge",2012,"USA",102,"Color","English","PG-13",18600911,42000000
-3981,"Maniac",2012,"France",89,"Color","English","Not Rated",12843,6000000
+3980,"Maniac",2012,"France",89,"Color","English","Not Rated",12843,6000000
+3981,"Man on a Ledge",2012,"USA",102,"Color","English","PG-13",18600911,42000000
 3982,"Men in Black 3",2012,"USA",106,"Color","English","PG-13",179020854,225000000
 3983,"Middle of Nowhere",2012,"USA",97,"Color","English","R",78030,200000
 3984,"Mirror Mirror",2012,"USA",106,"Color","English","PG",64933670,85000000
@@ -3987,8 +3987,8 @@
 3986,"Mud",2012,"USA",130,"Color","English","PG-13",21589307,10000000
 3987,"No Vacancy",2012,"USA",81,"Color","English","R",,4000000
 3988,"Now Is Good",2012,"UK",103,"Color","English","PG-13",,
-3989,"On the Road",2012,"France",137,"Color","English","R",717753,25000000
-3990,"One for the Money",2012,"USA",91,"Color","English","PG-13",26404753,40000000
+3989,"One for the Money",2012,"USA",91,"Color","English","PG-13",26404753,40000000
+3990,"On the Road",2012,"France",137,"Color","English","R",717753,25000000
 3991,"Outside Bet",2012,"UK",101,"Color","English",,,7500000
 3992,"Paranormal Activity 4",2012,"USA",96,"Color","English","R",53884821,5000000
 3993,"ParaNorman",2012,"USA",92,"Color","English","PG",55994557,60000000
@@ -4009,8 +4009,8 @@
 4008,"Rock of Ages",2012,"USA",136,"Color","English","PG-13",38509342,75000000
 4009,"Run, Hide, Die",2012,"USA",75,"Color","English",,,50000
 4010,"Safe House",2012,"USA",115,"Color","English","R",126149655,85000000
-4011,"Safe",2012,"USA",94,"Color","English","R",17120019,30000000
-4012,"Safety Not Guaranteed",2012,"USA",86,"Color","English","R",4007792,750000
+4011,"Safety Not Guaranteed",2012,"USA",86,"Color","English","R",4007792,750000
+4012,"Safe",2012,"USA",94,"Color","English","R",17120019,30000000
 4013,"Sanctuary;  Quite a Conundrum",2012,"USA",82,"Color","English",,,200000
 4014,"Savages",2012,"USA",141,"Black and White","English","R",47307550,45000000
 4015,"Seeking a Friend for the End of the World",2012,"USA",101,"Black and White","English","R",6619173,10000000
@@ -4024,8 +4024,8 @@
 4023,"Skyfall",2012,"UK",143,"Color","English","PG-13",304360277,200000000
 4024,"Small Apartments",2012,"USA",96,,"English","R",,2000000
 4025,"Snow Queen",2012,"Russia",80,"Color","Russian","PG",,7000000
-4026,"Snow White and the Huntsman",2012,"USA",132,"Color","English","PG-13",155111815,170000000
-4027,"Snow White: A Deadly Summer",2012,"USA",83,"Color","English","PG-13",,1000000
+4026,"Snow White: A Deadly Summer",2012,"USA",83,"Color","English","PG-13",,1000000
+4027,"Snow White and the Huntsman",2012,"USA",132,"Color","English","PG-13",155111815,170000000
 4028,"Sparkle",2012,"USA",116,"Color","English","PG-13",24397469,17000000
 4029,"Spring Breakers",2012,"USA",94,"Color","English","R",14123773,5000000
 4030,"Step Up Revolution",2012,"USA",99,"Color","English","PG-13",35057332,33000000
@@ -4075,17 +4075,17 @@
 4074,"The Possession",2012,"USA",92,"Color","English","PG-13",49122319,14000000
 4075,"The Possession",2012,"USA",92,"Color","English","PG-13",49122319,14000000
 4076,"The Raven",2012,"USA",110,"Color","English","R",16005978,26000000
-4077,"The Sessions",2012,"USA",95,"Color","English","R",5997134,1000000
-4078,"The Sweeney",2012,"UK",112,"Color","English","R",26345,3000000
-4079,"The Three Stooges",2012,"USA",92,"Color","English","PG",44328238,
-4080,"The Twilight Saga: Breaking Dawn - Part 2",2012,"USA",115,"Color","English","PG-13",292298923,120000000
+4077,"Theresa Is a Mother",2012,"USA",105,"Color","English",,,200000
+4078,"The Sessions",2012,"USA",95,"Color","English","R",5997134,1000000
+4079,"The Sweeney",2012,"UK",112,"Color","English","R",26345,3000000
+4080,"The Three Stooges",2012,"USA",92,"Color","English","PG",44328238,
 4081,"The Twilight Saga: Breaking Dawn - Part 2",2012,"USA",115,"Color","English","PG-13",292298923,120000000
-4082,"The Vow",2012,"USA",104,"Color","English","PG-13",125014030,30000000
-4083,"The Watch",2012,"USA",102,"Color","English","R",34350553,68000000
+4082,"The Twilight Saga: Breaking Dawn - Part 2",2012,"USA",115,"Color","English","PG-13",292298923,120000000
+4083,"The Vow",2012,"USA",104,"Color","English","PG-13",125014030,30000000
 4084,"The Watch",2012,"USA",102,"Color","English","R",34350553,68000000
-4085,"The Woman in Black",2012,"UK",95,"Color","English","PG-13",54322273,17000000
-4086,"The Words",2012,"USA",102,"Color","English","PG-13",11434867,6000000
-4087,"Theresa Is a Mother",2012,"USA",105,"Color","English",,,200000
+4085,"The Watch",2012,"USA",102,"Color","English","R",34350553,68000000
+4086,"The Woman in Black",2012,"UK",95,"Color","English","PG-13",54322273,17000000
+4087,"The Words",2012,"USA",102,"Color","English","PG-13",11434867,6000000
 4088,"Think Like a Man",2012,"USA",122,"Color","English","PG-13",91547205,12000000
 4089,"This Is 40",2012,"USA",134,"Color","English","R",67523385,35000000
 4090,"This Means War",2012,"USA",103,"Color","English","PG-13",54758461,65000000
@@ -4107,30 +4107,30 @@
 4106,"Zero Dark Thirty",2012,"USA",157,"Color","English","R",95720716,40000000
 4107,"12 Years a Slave",2013,"USA",134,"Color","English","R",56667870,20000000
 4108,"1982",2013,"USA",90,"Color","English","R",,1000000
-4109,"2 Guns",2013,"USA",109,"Color","English","R",75573300,61000000
-4110,"20 Feet from Stardom",2013,"USA",91,"Color","English","PG-13",4946250,1000000
-4111,"21 & Over",2013,"USA",93,"Color","English","R",25675765,13000000
+4109,"20 Feet from Stardom",2013,"USA",91,"Color","English","PG-13",4946250,1000000
+4110,"21 & Over",2013,"USA",93,"Color","English","R",25675765,13000000
+4111,"2 Guns",2013,"USA",109,"Color","English","R",75573300,61000000
 4112,"30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo",2013,"USA",80,"Color","English","R",,3000000
 4113,"42",2013,"USA",128,"Color","English","PG-13",95001343,40000000
 4114,"47 Ronin",2013,"USA",128,"Color","English","PG-13",38297305,175000000
-4115,"A Good Day to Die Hard",2013,"USA",101,"Color","English","R",67344392,92000000
-4116,"A Haunted House",2013,"USA",86,"Color","English","R",40041683,2500000
-4117,"A Madea Christmas",2013,"USA",100,"Color","English","PG-13",52528330,25000000
-4118,"A Plague So Pleasant",2013,"USA",76,"Color","English",,,1400
-4119,"A True Story",2013,"USA",96,"Color","English",,,45000
-4120,"ABCD (Any Body Can Dance)",2013,"India",160,"Color","Hindi","Not Rated",95236,
-4121,"About Time",2013,"UK",123,"Color","English","R",15294553,12000000
-4122,"Admission",2013,"USA",107,"Color","English","PG-13",18004225,13000000
-4123,"Adore",2013,"Australia",112,"Color","English","R",317125,16000000
-4124,"After Earth",2013,"USA",100,"Color","English","PG-13",60522097,130000000
-4125,"Against the Wild",2013,"Canada",90,"Color","English","PG",,2000000
-4126,"All Is Bright",2013,"USA",107,"Color","English","R",4556,
-4127,"All Is Lost",2013,"USA",106,"Color","English","PG-13",6262942,9000000
-4128,"Along the Roadside",2013,"USA",108,"Color","English",,,250000
-4129,"American Hustle",2013,"USA",138,"Color","English","R",150117807,40000000
-4130,"Anchorman 2: The Legend Continues",2013,"USA",143,"Color","English","PG-13",2175312,50000000
-4131,"Antarctica: A Year on Ice",2013,"New Zealand",91,"Color","English","PG",287761,1000000
-4132,"Aroused",2013,"USA",66,"Black and White","English",,,150000
+4115,"ABCD (Any Body Can Dance)",2013,"India",160,"Color","Hindi","Not Rated",95236,
+4116,"About Time",2013,"UK",123,"Color","English","R",15294553,12000000
+4117,"Admission",2013,"USA",107,"Color","English","PG-13",18004225,13000000
+4118,"Adore",2013,"Australia",112,"Color","English","R",317125,16000000
+4119,"After Earth",2013,"USA",100,"Color","English","PG-13",60522097,130000000
+4120,"Against the Wild",2013,"Canada",90,"Color","English","PG",,2000000
+4121,"A Good Day to Die Hard",2013,"USA",101,"Color","English","R",67344392,92000000
+4122,"A Haunted House",2013,"USA",86,"Color","English","R",40041683,2500000
+4123,"All Is Bright",2013,"USA",107,"Color","English","R",4556,
+4124,"All Is Lost",2013,"USA",106,"Color","English","PG-13",6262942,9000000
+4125,"Along the Roadside",2013,"USA",108,"Color","English",,,250000
+4126,"A Madea Christmas",2013,"USA",100,"Color","English","PG-13",52528330,25000000
+4127,"American Hustle",2013,"USA",138,"Color","English","R",150117807,40000000
+4128,"Anchorman 2: The Legend Continues",2013,"USA",143,"Color","English","PG-13",2175312,50000000
+4129,"Antarctica: A Year on Ice",2013,"New Zealand",91,"Color","English","PG",287761,1000000
+4130,"A Plague So Pleasant",2013,"USA",76,"Color","English",,,1400
+4131,"Aroused",2013,"USA",66,"Black and White","English",,,150000
+4132,"A True Story",2013,"USA",96,"Color","English",,,45000
 4133,"August: Osage County",2013,"USA",121,"Color","English","R",37738400,25000000
 4134,"Bad Grandpa",2013,"USA",102,"Color","English","R",101978840,15000000
 4135,"Bad Words",2013,"USA",89,"Color","English","R",7764027,10000000
@@ -4148,7 +4148,7 @@
 4147,"Blue Jasmine",2013,"USA",98,"Color","English","PG-13",33404871,18000000
 4148,"Blue Ruin",2013,"USA",90,"Color","English","R",258113,1066167
 4149,"Broken City",2013,"USA",109,"Color","English","R",19692608,35000000
-4150,"Buen Día, Ramón",2013,"Mexico",120,"Color","German","PG-13",100412,4000000
+4150,"Buen DÃ­a, RamÃ³n",2013,"Mexico",120,"Color","German","PG-13",100412,4000000
 4151,"Captain Phillips",2013,"USA",134,"Color","English","PG-13",107100855,55000000
 4152,"Carrie",2013,"USA",100,"Color","English","R",35266619,30000000
 4153,"Carrie",2013,"USA",100,"Color","English","R",35266619,30000000
@@ -4179,9 +4179,9 @@
 4178,"Free Birds",2013,"USA",91,"Color","English","PG",55747724,55000000
 4179,"Frozen",2013,"USA",102,"Color","English","PG",400736600,150000000
 4180,"Fruitvale Station",2013,"USA",85,"Color","English","R",16097842,900000
-4181,"G.I. Joe: Retaliation",2013,"USA",122,"Color","English","PG-13",122512052,130000000
-4182,"Gangster Squad",2013,"USA",113,"Color","English","R",45996718,60000000
-4183,"Getaway",2013,"USA",90,"Color","English","PG-13",10494494,18000000
+4181,"Gangster Squad",2013,"USA",113,"Color","English","R",45996718,60000000
+4182,"Getaway",2013,"USA",90,"Color","English","PG-13",10494494,18000000
+4183,"G.I. Joe: Retaliation",2013,"USA",122,"Color","English","PG-13",122512052,130000000
 4184,"Grace Unplugged",2013,"USA",102,"Color","English","PG",2507106,
 4185,"Gravity",2013,"UK",91,"Color","English","PG-13",274084951,100000000
 4186,"Green Street 3: Never Back Down",2013,"UK",93,"Color","English","R",,
@@ -4194,8 +4194,8 @@
 4193,"Heli",2013,"Mexico",105,"Color","Spanish","Not Rated",,1000000
 4194,"Her Cry: La Llorona Investigation",2013,"USA",89,"Color","English","Not Rated",,60000
 4195,"Her",2013,"USA",126,"Color","English","R",25556065,23000000
-4196,"Home Run",2013,"USA",113,"Color","English","PG-13",2859955,1200000
-4197,"Homefront",2013,"USA",100,"Color","English","R",19783777,22000000
+4196,"Homefront",2013,"USA",100,"Color","English","R",19783777,22000000
+4197,"Home Run",2013,"USA",113,"Color","English","PG-13",2859955,1200000
 4198,"Ida",2013,"Poland",82,"Black and White","Polish","PG-13",3826455,
 4199,"Identity Thief",2013,"USA",120,"Color","English","R",134455175,35000000
 4200,"Independence Daysaster",2013,"Canada",90,"Color","English","PG-13",,1800000
@@ -4216,8 +4216,8 @@
 4215,"Lone Survivor",2013,"USA",121,"Color","English","R",125069696,40000000
 4216,"Machete Kills",2013,"Russia",107,"Color","English","R",7268659,20000000
 4217,"Mama",2013,"Canada",100,"Color","English","PG-13",71588220,20000000
-4218,"Man of Steel",2013,"USA",143,"Color","English","PG-13",291021565,225000000
-4219,"Mandela: Long Walk to Freedom",2013,"UK",141,"Color","English","PG-13",8324748,35000000
+4218,"Mandela: Long Walk to Freedom",2013,"UK",141,"Color","English","PG-13",8324748,35000000
+4219,"Man of Steel",2013,"USA",143,"Color","English","PG-13",291021565,225000000
 4220,"Metallica Through the Never",2013,"USA",93,"Color","English","R",3419967,
 4221,"Monsters University",2013,"USA",104,"Color","English","G",268488329,200000000
 4222,"Movie 43",2013,"USA",94,"Color","English","R",8828771,6000000
@@ -4247,10 +4247,10 @@
 4246,"Philomena",2013,"UK",98,"Color","English","PG-13",37707719,12000000
 4247,"Plush",2013,"USA",99,"Color","English","R",2843,
 4248,"Prisoners",2013,"USA",153,"Color","English","R",60962878,46000000
-4249,"R.I.P.D.",2013,"USA",96,"Color","English","PG-13",33592415,130000000
-4250,"R100",2013,"Japan",99,"Color","Japanese","Unrated",22770,5500000
-4251,"RED 2",2013,"USA",116,"Color","English","PG-13",53215979,84000000
-4252,"Riddick",2013,"USA",127,"Color","English","R",41997790,38000000
+4249,"R100",2013,"Japan",99,"Color","Japanese","Unrated",22770,5500000
+4250,"RED 2",2013,"USA",116,"Color","English","PG-13",53215979,84000000
+4251,"Riddick",2013,"USA",127,"Color","English","R",41997790,38000000
+4252,"R.I.P.D.",2013,"USA",96,"Color","English","PG-13",33592415,130000000
 4253,"Roadside",2013,"USA",81,"Color","English",,,
 4254,"Runner Runner",2013,"USA",88,"Color","English","R",19316646,30000000
 4255,"Rush",2013,"UK",123,"Color","English","R",26903709,38000000
@@ -4329,8 +4329,8 @@
 4328,"Treachery",2013,"USA",67,"Color","English",,,625000
 4329,"Treading Water",2013,"Mexico",92,"Color","English",,,4700000
 4330,"Turbo",2013,"USA",96,"Color","English","PG",83024900,135000000
-4331,"Under the Skin",2013,"UK",108,"Color","English","R",2605039,
-4332,"Underdogs",2013,"Spain",106,"Color","Spanish","PG",,22000000
+4331,"Underdogs",2013,"Spain",106,"Color","Spanish","PG",,22000000
+4332,"Under the Skin",2013,"UK",108,"Color","English","R",2605039,
 4333,"UnDivided",2013,"USA",66,"Color","English","PG",,250000
 4334,"Walking with Dinosaurs 3D",2013,"USA",87,"Color","English","PG",36073232,80000000
 4335,"Warm Bodies",2013,"USA",98,"Color","English","PG-13",66359959,35000000
@@ -4342,35 +4342,35 @@
 4341,"Zombie Hunter",2013,"USA",93,"Color","English","Not Rated",,1000000
 4342,"Zulu",2013,"France",110,"Color","English","R",,16000000
 4343,"22 Jump Street",2014,"USA",112,"Color","English","R",191616238,50000000
-4344,"3 Days to Kill",2014,"USA",123,"Color","English","PG-13",30688364,28000000
-4345,"300: Rise of an Empire",2014,"USA",102,"Color","English","R",106369117,110000000
+4344,"300: Rise of an Empire",2014,"USA",102,"Color","English","R",106369117,110000000
+4345,"3 Days to Kill",2014,"USA",123,"Color","English","PG-13",30688364,28000000
 4346,"8 Days",2014,"USA",90,"Color","English","PG-13",,2500000
-4347,"A Fine Step",2014,"USA",111,,,"PG",,1000000
-4348,"A Haunted House 2",2014,"USA",86,"Color","English","R",17314483,4000000
-4349,"A Lego Brickumentary",2014,"Denmark",93,"Color","English","G",100240,1000000
-4350,"A Million Ways to Die in the West",2014,"USA",136,"Color","English","R",42615685,40000000
-4351,"A Most Violent Year",2014,"USA",125,"Color","English","R",5749134,20000000
-4352,"A Most Wanted Man",2014,"UK",122,"Color","English","R",17237244,15000000
-4353,"A Walk Among the Tombstones",2014,"USA",114,"Color","English","R",25977365,28000000
-4354,"About Last Night",2014,"USA",100,"Color","English","R",48637684,12500000
-4355,"Addicted",2014,"USA",106,"Color","Spanish","R",17382982,5000000
-4356,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014,"USA",81,"Color","English","PG",66950483,28000000
-4357,"Aloft",2014,"Spain",97,"Color","English","R",52961,8000000
-4358,"Alpha and Omega 4: The Legend of the Saw Toothed Cave",2014,"USA",45,,,,,7000000
-4359,"Always Woodstock",2014,"USA",97,"Color","English",,,2400000
-4360,"American Heist",2014,"Canada",94,"Color","English","R",,10000000
-4361,"American Sniper",2014,"USA",133,"Color","English","R",350123553,58800000
-4362,"Amidst the Devil's Wings",2014,"USA",90,"Color","English",,,300000
-4363,"Amnesiac",2014,"USA",90,"Color","English",,,3000000
-4364,"An American in Hollywood",2014,"USA",89,"Color","English","R",,125000
-4365,"And So It Goes",2014,"USA",94,"Color","English","PG-13",15155772,18000000
-4366,"Animals",2014,"USA",90,"Color","English",,,
-4367,"Annabelle",2014,"USA",99,"Color","English","R",84263837,6500000
-4368,"Annie",2014,"USA",118,"Color","English","PG",85911262,65000000
-4369,"As Above, So Below",2014,"USA",93,"Color","English","R",21197315,5000000
-4370,"Ask Me Anything",2014,"USA",100,"Color","English","Not Rated",,950000
-4371,"Atlas Shrugged: Who Is John Galt?",2014,"USA",99,"Color","English","PG-13",830210,5000000
-4372,"Automata",2014,"Bulgaria",109,"Color","English","R",,7000000
+4347,"About Last Night",2014,"USA",100,"Color","English","R",48637684,12500000
+4348,"Addicted",2014,"USA",106,"Color","Spanish","R",17382982,5000000
+4349,"A Fine Step",2014,"USA",111,,,"PG",,1000000
+4350,"A Haunted House 2",2014,"USA",86,"Color","English","R",17314483,4000000
+4351,"A Lego Brickumentary",2014,"Denmark",93,"Color","English","G",100240,1000000
+4352,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014,"USA",81,"Color","English","PG",66950483,28000000
+4353,"Aloft",2014,"Spain",97,"Color","English","R",52961,8000000
+4354,"Alpha and Omega 4: The Legend of the Saw Toothed Cave",2014,"USA",45,,,,,7000000
+4355,"Always Woodstock",2014,"USA",97,"Color","English",,,2400000
+4356,"American Heist",2014,"Canada",94,"Color","English","R",,10000000
+4357,"American Sniper",2014,"USA",133,"Color","English","R",350123553,58800000
+4358,"Amidst the Devil's Wings",2014,"USA",90,"Color","English",,,300000
+4359,"A Million Ways to Die in the West",2014,"USA",136,"Color","English","R",42615685,40000000
+4360,"Amnesiac",2014,"USA",90,"Color","English",,,3000000
+4361,"A Most Violent Year",2014,"USA",125,"Color","English","R",5749134,20000000
+4362,"A Most Wanted Man",2014,"UK",122,"Color","English","R",17237244,15000000
+4363,"An American in Hollywood",2014,"USA",89,"Color","English","R",,125000
+4364,"And So It Goes",2014,"USA",94,"Color","English","PG-13",15155772,18000000
+4365,"Animals",2014,"USA",90,"Color","English",,,
+4366,"Annabelle",2014,"USA",99,"Color","English","R",84263837,6500000
+4367,"Annie",2014,"USA",118,"Color","English","PG",85911262,65000000
+4368,"As Above, So Below",2014,"USA",93,"Color","English","R",21197315,5000000
+4369,"Ask Me Anything",2014,"USA",100,"Color","English","Not Rated",,950000
+4370,"Atlas Shrugged: Who Is John Galt?",2014,"USA",99,"Color","English","PG-13",830210,5000000
+4371,"Automata",2014,"Bulgaria",109,"Color","English","R",,7000000
+4372,"A Walk Among the Tombstones",2014,"USA",114,"Color","English","R",25977365,28000000
 4373,"Bang Bang Baby",2014,"Canada",90,"Color","English",,,1000000
 4374,"Barbecue",2014,"France",98,"Color","French",,,
 4375,"Before I Go to Sleep",2014,"UK",92,"Color","English","R",2963012,22000000
@@ -4428,34 +4428,34 @@
 4427,"Good Kill",2014,"USA",102,"Color","English","R",316842,
 4428,"Grace of Monaco",2014,"Switzerland",103,"Color","English",,,30000000
 4429,"Guardians of the Galaxy",2014,"USA",121,"Color","English","PG-13",333130696,170000000
-4430,"H.",2014,"USA",93,"Color","English",,,
-4431,"Happy Christmas",2014,"USA",82,"Color","English","R",30084,70000
-4432,"Heaven Is for Real",2014,"USA",99,"Color","English","PG",91443253,12000000
-4433,"Henry & Me",2014,"USA",67,"Color","English","PG",,10000000
+4430,"Happy Christmas",2014,"USA",82,"Color","English","R",30084,70000
+4431,"Heaven Is for Real",2014,"USA",99,"Color","English","PG",91443253,12000000
+4432,"Henry & Me",2014,"USA",67,"Color","English","PG",,10000000
+4433,"Hercules",2014,"USA",101,"Color","English","PG-13",72660029,100000000
 4434,"Hercules",2014,"USA",101,"Color","English","PG-13",72660029,100000000
-4435,"Hercules",2014,"USA",101,"Color","English","PG-13",72660029,100000000
-4436,"Hidden Away",2014,"Spain",96,"Color","Spanish","Unrated",,
-4437,"Hits",2014,"USA",96,"Color","English",,,1000000
-4438,"Horrible Bosses 2",2014,"USA",116,"Color","English","R",54414716,42000000
-4439,"Horse Camp",2014,"USA",108,"Color","English","PG",,250000
-4440,"House at the End of the Drive",2014,"USA",91,"Color","English","R",,1400000
-4441,"Housebound",2014,"New Zealand",107,"Color","English","Not Rated",,350000
-4442,"How to Train Your Dragon 2",2014,"USA",102,"Color","English","PG",176997107,145000000
-4443,"I Origins",2014,"USA",106,"Color","English","R",334658,
+4435,"Hidden Away",2014,"Spain",96,"Color","Spanish","Unrated",,
+4436,"Hits",2014,"USA",96,"Color","English",,,1000000
+4437,"Horrible Bosses 2",2014,"USA",116,"Color","English","R",54414716,42000000
+4438,"Horse Camp",2014,"USA",108,"Color","English","PG",,250000
+4439,"House at the End of the Drive",2014,"USA",91,"Color","English","R",,1400000
+4440,"Housebound",2014,"New Zealand",107,"Color","English","Not Rated",,350000
+4441,"How to Train Your Dragon 2",2014,"USA",102,"Color","English","PG",176997107,145000000
+4442,"H.",2014,"USA",93,"Color","English",,,
+4443,"If I Stay",2014,"USA",107,"Color","English","PG-13",50461335,11000000
 4444,"I, Frankenstein",2014,"Australia",92,"Color","English","PG-13",19059018,65000000
-4445,"If I Stay",2014,"USA",107,"Color","English","PG-13",50461335,11000000
-4446,"In the Name of the King: The Last Job",2014,"Canada",86,"Color","English","R",,3500000
-4447,"Inherent Vice",2014,"USA",148,"Color","English","R",8093318,20000000
-4448,"Interstellar",2014,"USA",169,"Color","English","PG-13",187991439,165000000
-4449,"Into the Storm",2014,"USA",89,"Color","English","PG-13",47553512,50000000
-4450,"Into the Woods",2014,"USA",125,"Color","English","PG",127997349,50000000
+4445,"Inherent Vice",2014,"USA",148,"Color","English","R",8093318,20000000
+4446,"Interstellar",2014,"USA",169,"Color","English","PG-13",187991439,165000000
+4447,"In the Name of the King: The Last Job",2014,"Canada",86,"Color","English","R",,3500000
+4448,"Into the Storm",2014,"USA",89,"Color","English","PG-13",47553512,50000000
+4449,"Into the Woods",2014,"USA",125,"Color","English","PG",127997349,50000000
+4450,"I Origins",2014,"USA",106,"Color","English","R",334658,
 4451,"It Follows",2014,"USA",100,"Color","English","R",14673301,2000000
 4452,"Jack Ryan: Shadow Recruit",2014,"USA",105,"Color","English","PG-13",50549107,60000000
 4453,"Jersey Boys",2014,"USA",134,"Color","English","R",47034272,40000000
 4454,"Jungle Shuffle",2014,"South Korea",85,"Color","English",,,10000000
 4455,"Kill the Messenger",2014,"USA",112,"Color","English","R",2445646,5000000
 4456,"Kung Fu Killer",2014,"China",100,"Color","Cantonese",,129115,25000000
-4457,"La Famille Bélier",2014,"France",106,"Color","French",,,11000000
+4457,"La Famille BÃ©lier",2014,"France",106,"Color","French",,,11000000
 4458,"Left Behind",2014,"USA",110,"Color","English","PG-13",13998282,16000000
 4459,"Left Behind",2014,"USA",110,"Color","English","PG-13",13998282,16000000
 4460,"Let's Be Cops",2014,"USA",104,"Color","English","R",82389560,17000000
@@ -4478,8 +4478,8 @@
 4477,"Neighbors",2014,"USA",97,"Color","English","R",150056505,18000000
 4478,"Night at the Museum: Secret of the Tomb",2014,"USA",98,"Color","English","PG",113733726,127000000
 4479,"Nightcrawler",2014,"USA",117,"Color","English","R",32279955,8500000
-4480,"No Good Deed",2014,"USA",84,"Color","English","PG-13",52543632,13200000
-4481,"Noah",2014,"USA",138,"Color","English","PG-13",101160529,125000000
+4480,"Noah",2014,"USA",138,"Color","English","PG-13",101160529,125000000
+4481,"No Good Deed",2014,"USA",84,"Color","English","PG-13",52543632,13200000
 4482,"Non-Stop",2014,"UK",106,"Color","English","PG-13",91439400,50000000
 4483,"Not Cool",2014,"USA",93,"Color","English","Not Rated",35688,600000
 4484,"Obvious Child",2014,"USA",84,"Color","English","R",3122616,
@@ -4510,11 +4510,11 @@
 4509,"Skin Trade",2014,"Thailand",96,"Color","English","R",162,9000000
 4510,"Solitude",2014,"USA",89,"Color","English",,,
 4511,"Something Wicked",2014,"USA",95,,"English","R",,3000000
-4512,"Son of God",2014,"USA",170,"Color","English","PG-13",59696176,22000000
-4513,"Song One",2014,"USA",86,"Color","English","PG-13",20200,6000000
-4514,"St. Vincent",2014,"USA",102,"Color","English","PG-13",44134898,13000000
-4515,"Still Alice",2014,"USA",101,"Color","English","PG-13",18656400,5000000
-4516,"Stories of Our Lives",2014,"Kenya",60,"Black and White","Swahili",,,15000
+4512,"Song One",2014,"USA",86,"Color","English","PG-13",20200,6000000
+4513,"Son of God",2014,"USA",170,"Color","English","PG-13",59696176,22000000
+4514,"Still Alice",2014,"USA",101,"Color","English","PG-13",18656400,5000000
+4515,"Stories of Our Lives",2014,"Kenya",60,"Black and White","Swahili",,,15000
+4516,"St. Vincent",2014,"USA",102,"Color","English","PG-13",44134898,13000000
 4517,"Swelter",2014,"USA",96,"Color","English","R",,8000000
 4518,"Taken 3",2014,"France",115,"Color","English","PG-13",89253340,48000000
 4519,"Tammy",2014,"USA",100,"Color","English","R",84518155,20000000
@@ -4593,99 +4593,99 @@
 4592,"Wolves",2014,"France",91,"Color","English","R",,18000000
 4593,"X-Men: Days of Future Past",2014,"USA",149,"Color","English","PG-13",233914986,200000000
 4594,"Z Storm",2014,"Hong Kong",92,"Color","Cantonese",,,7000000
-4595,"#Horror",2015,"USA",101,"Color","English","Not Rated",,1500000
-4596,"10 Days in a Madhouse",2015,"USA",111,"Color","English","R",14616,12000000
-4597,"90 Minutes in Heaven",2015,"USA",121,"Color","English","PG-13",4700361,5000000
-4598,"A Tale of Three Cities",2015,"China",130,"Color","Chinese",,,12000000
-4599,"A Warrior's Tail",2015,"Russia",85,"Color","Russian",,,30000000
-4600,"Abandoned",2015,"New Zealand",86,"Color","English",,,
-4601,"Accidental Love",2015,"USA",100,"Color","English","PG-13",,26000000
-4602,"Adulterers",2015,"USA",91,"Color","English",,,750000
-4603,"Aloha",2015,"USA",105,"Color","English","PG-13",20991497,37000000
-4604,"Aloha",2015,"USA",105,"Color","English","PG-13",20991497,37000000
-4605,"Alvin and the Chipmunks: The Road Chip",2015,"USA",92,"Color","English","PG",85884815,90000000
-4606,"America Is Still the Place",2015,"USA",90,"Color","English",,,
-4607,"American Hero",2015,"USA",86,"Color","English",,,990000
-4608,"Animal Kingdom: Let's go Ape",2015,"France",101,"Color","French",,,
-4609,"Anomalisa",2015,"USA",90,"Color","English","R",3442820,8000000
-4610,"Ant-Man",2015,"USA",117,"Color","English","PG-13",180191634,130000000
-4611,"Antarctic Edge: 70° South",2015,"USA",72,"Color","English",,4914,150000
-4612,"Area 51",2015,"USA",91,"Color","English","R",,5000000
-4613,"Avengers: Age of Ultron",2015,"USA",141,"Color","English","PG-13",458991599,250000000
-4614,"AWOL-72",2015,"USA",82,"Color","English","R",,3000000
-4615,"Baahubali: The Beginning",2015,"India",159,"Color","Telugu",,6498000,18026148
-4616,"Bizarre",2015,"France",98,"Color","English","Unrated",,500000
+4595,"10 Days in a Madhouse",2015,"USA",111,"Color","English","R",14616,12000000
+4596,"90 Minutes in Heaven",2015,"USA",121,"Color","English","PG-13",4700361,5000000
+4597,"Abandoned",2015,"New Zealand",86,"Color","English",,,
+4598,"Accidental Love",2015,"USA",100,"Color","English","PG-13",,26000000
+4599,"Adulterers",2015,"USA",91,"Color","English",,,750000
+4600,"Aloha",2015,"USA",105,"Color","English","PG-13",20991497,37000000
+4601,"Aloha",2015,"USA",105,"Color","English","PG-13",20991497,37000000
+4602,"Alvin and the Chipmunks: The Road Chip",2015,"USA",92,"Color","English","PG",85884815,90000000
+4603,"America Is Still the Place",2015,"USA",90,"Color","English",,,
+4604,"American Hero",2015,"USA",86,"Color","English",,,990000
+4605,"Animal Kingdom: Let's go Ape",2015,"France",101,"Color","French",,,
+4606,"Anomalisa",2015,"USA",90,"Color","English","R",3442820,8000000
+4607,"Antarctic Edge: 70Â° South",2015,"USA",72,"Color","English",,4914,150000
+4608,"Ant-Man",2015,"USA",117,"Color","English","PG-13",180191634,130000000
+4609,"Area 51",2015,"USA",91,"Color","English","R",,5000000
+4610,"A Tale of Three Cities",2015,"China",130,"Color","Chinese",,,12000000
+4611,"Avengers: Age of Ultron",2015,"USA",141,"Color","English","PG-13",458991599,250000000
+4612,"A Warrior's Tail",2015,"Russia",85,"Color","Russian",,,30000000
+4613,"AWOL-72",2015,"USA",82,"Color","English","R",,3000000
+4614,"Baahubali: The Beginning",2015,"India",159,"Color","Telugu",,6498000,18026148
+4615,"Bizarre",2015,"France",98,"Color","English","Unrated",,500000
+4616,"Blackhat",2015,"USA",133,"Color","English","R",7097125,70000000
 4617,"Black Mass",2015,"USA",123,"Color","English","R",62563543,53000000
-4618,"Blackhat",2015,"USA",133,"Color","English","R",7097125,70000000
-4619,"Bleeding Hearts",2015,"USA",100,"Color","English",,,1200000
-4620,"Bridge of Spies",2015,"USA",142,"Color","English","PG-13",72306065,40000000
-4621,"Broken Horses",2015,"USA",101,"Color","English","R",,15000000
-4622,"Brooklyn",2015,"UK",111,"Color","English","PG-13",38317535,11000000
-4623,"Brotherly Love",2015,"USA",89,"Color","English","R",444044,1900000
-4624,"Burnt",2015,"USA",101,"Color","English","R",13650738,20000000
-4625,"By the Sea",2015,"USA",122,"Color","English","R",531009,10000000
-4626,"Captive",2015,"USA",97,"Color","English","PG-13",2557668,2000000
-4627,"Censored Voices",2015,"Israel",84,"Color","Hebrew",,34151,450000
-4628,"Chain of Command",2015,"USA",88,"Color","English","R",,5000000
-4629,"Chappie",2015,"USA",120,"Color","English","R",31569268,49000000
-4630,"Checkmate",2015,"USA",97,"Color","English",,,1500000
-4631,"Chiamatemi Francesco - Il Papa della gente",2015,"Italy",98,"Color","Spanish",,,15000000
-4632,"Child 44",2015,"Czech Republic",137,"Color","English","R",1206135,50000000
-4633,"Christmas Eve",2015,"USA",95,"Color","English","PG",,
+4618,"Bleeding Hearts",2015,"USA",100,"Color","English",,,1200000
+4619,"Bridge of Spies",2015,"USA",142,"Color","English","PG-13",72306065,40000000
+4620,"Broken Horses",2015,"USA",101,"Color","English","R",,15000000
+4621,"Brooklyn",2015,"UK",111,"Color","English","PG-13",38317535,11000000
+4622,"Brotherly Love",2015,"USA",89,"Color","English","R",444044,1900000
+4623,"Burnt",2015,"USA",101,"Color","English","R",13650738,20000000
+4624,"By the Sea",2015,"USA",122,"Color","English","R",531009,10000000
+4625,"Captive",2015,"USA",97,"Color","English","PG-13",2557668,2000000
+4626,"Censored Voices",2015,"Israel",84,"Color","Hebrew",,34151,450000
+4627,"Chain of Command",2015,"USA",88,"Color","English","R",,5000000
+4628,"Chappie",2015,"USA",120,"Color","English","R",31569268,49000000
+4629,"Checkmate",2015,"USA",97,"Color","English",,,1500000
+4630,"Chiamatemi Francesco - Il Papa della gente",2015,"Italy",98,"Color","Spanish",,,15000000
+4631,"Child 44",2015,"Czech Republic",137,"Color","English","R",1206135,50000000
+4632,"Christmas Eve",2015,"USA",95,"Color","English","PG",,
+4633,"Cinderella",2015,"USA",105,"Color","English","PG",201148159,95000000
 4634,"Cinderella",2015,"USA",105,"Color","English","PG",201148159,95000000
-4635,"Cinderella",2015,"USA",105,"Color","English","PG",201148159,95000000
-4636,"Circle",2015,"USA",87,"Color","English","Not Rated",,
-4637,"Close Range",2015,"USA",80,"Color","English",,,3000000
-4638,"Concussion",2015,"UK",123,"Color","English","PG-13",34531832,35000000
-4639,"Containment",2015,"UK",77,"Color","English",,,
-4640,"Counting",2015,"USA",111,"Color","English",,,50000
-4641,"Courage",2015,"USA",118,"Color","English","PG",2246000,20000000
-4642,"Creative Control",2015,"USA",97,"Color","English","R",62480,1000000
-4643,"Creed",2015,"USA",133,"Color","English","PG-13",109712885,35000000
-4644,"Criminal Activities",2015,"USA",94,"Color","English",,,7000000
-4645,"Daddy's Home",2015,"USA",96,"Color","English","PG-13",150315155,50000000
-4646,"Dancin' It's On",2015,"USA",89,"Color","English","PG",,12000000
-4647,"Danny Collins",2015,"USA",106,"Color","English","R",5348317,10000000
-4648,"Demonic",2015,"USA",83,"Color","English","R",,3000000
-4649,"Departure",2015,"UK",109,"Color","English",,,1100000
-4650,"Diamond Ruff",2015,"USA",82,"Color","English","R",,500000
+4635,"Circle",2015,"USA",87,"Color","English","Not Rated",,
+4636,"Close Range",2015,"USA",80,"Color","English",,,3000000
+4637,"Concussion",2015,"UK",123,"Color","English","PG-13",34531832,35000000
+4638,"Containment",2015,"UK",77,"Color","English",,,
+4639,"Counting",2015,"USA",111,"Color","English",,,50000
+4640,"Courage",2015,"USA",118,"Color","English","PG",2246000,20000000
+4641,"Creative Control",2015,"USA",97,"Color","English","R",62480,1000000
+4642,"Creed",2015,"USA",133,"Color","English","PG-13",109712885,35000000
+4643,"Criminal Activities",2015,"USA",94,"Color","English",,,7000000
+4644,"Daddy's Home",2015,"USA",96,"Color","English","PG-13",150315155,50000000
+4645,"Dancin' It's On",2015,"USA",89,"Color","English","PG",,12000000
+4646,"Danny Collins",2015,"USA",106,"Color","English","R",5348317,10000000
+4647,"Demonic",2015,"USA",83,"Color","English","R",,3000000
+4648,"Departure",2015,"UK",109,"Color","English",,,1100000
+4649,"Diamond Ruff",2015,"USA",82,"Color","English","R",,500000
+4650,"Dope",2015,"USA",103,"Color","English","R",17474107,7000000
 4651,"Do You Believe?",2015,"USA",120,"Color","English","PG-13",12985267,2300000
-4652,"Dope",2015,"USA",103,"Color","English","R",17474107,7000000
-4653,"Dragon Blade",2015,"China",103,"Color","Mandarin","R",72413,65000000
-4654,"Dutch Kills",2015,"USA",90,"Color","English",,,25000
-4655,"Eden",2015,"Spain",90,"Color","English","R",,
-4656,"Everest",2015,"UK",121,"Color","English","PG-13",43247140,55000000
-4657,"Evolution",2015,"France",81,"Color","French",,,
+4652,"Dragon Blade",2015,"China",103,"Color","Mandarin","R",72413,65000000
+4653,"Dutch Kills",2015,"USA",90,"Color","English",,,25000
+4654,"Eden",2015,"Spain",90,"Color","English","R",,
+4655,"Everest",2015,"UK",121,"Color","English","PG-13",43247140,55000000
+4656,"Evolution",2015,"France",81,"Color","French",,,
+4657,"Exeter",2015,"USA",91,"Color","English","R",,
 4658,"Ex Machina",2015,"UK",108,"Black and White","English","R",25440971,15000000
-4659,"Exeter",2015,"USA",91,"Color","English","R",,
+4659,"Fantastic Four",2015,"USA",100,"Color","English","PG-13",56114221,120000000
 4660,"Fantastic Four",2015,"USA",100,"Color","English","PG-13",56114221,120000000
-4661,"Fantastic Four",2015,"USA",100,"Color","English","PG-13",56114221,120000000
-4662,"Fear Clinic",2015,"USA",95,"Color","English","R",,1000000
-4663,"Fifty Shades of Grey",2015,"USA",129,"Color","English","R",166147885,40000000
-4664,"Focus",2015,"USA",105,"Color","English","R",53846915,50100000
+4661,"Fear Clinic",2015,"USA",95,"Color","English","R",,1000000
+4662,"Fifty Shades of Grey",2015,"USA",129,"Color","English","R",166147885,40000000
+4663,"Focus",2015,"USA",105,"Color","English","R",53846915,50100000
+4664,"Forsaken",2015,"Canada",90,"Color","English","R",,11000000
 4665,"Forsaken",2015,"Canada",90,"Color","English","R",,11000000
-4666,"Forsaken",2015,"Canada",90,"Color","English","R",,11000000
-4667,"Freeheld",2015,"USA",103,"Color","English","PG-13",532988,7000000
-4668,"Furious 7",2015,"USA",140,"Color","English","PG-13",350034110,190000000
-4669,"Get Hard",2015,"USA",107,"Color","English","R",90353764,40000000
-4670,"Goddess of Love",2015,"USA",93,"Color","English",,,
+4666,"Freeheld",2015,"USA",103,"Color","English","PG-13",532988,7000000
+4667,"Furious 7",2015,"USA",140,"Color","English","PG-13",350034110,190000000
+4668,"Get Hard",2015,"USA",107,"Color","English","R",90353764,40000000
+4669,"Goddess of Love",2015,"USA",93,"Color","English",,,
+4670,"Goosebumps",2015,"USA",103,"Color","English","PG",80021740,58000000
 4671,"Goosebumps",2015,"USA",103,"Color","English","PG",80021740,58000000
-4672,"Goosebumps",2015,"USA",103,"Color","English","PG",80021740,58000000
-4673,"Green Room",2015,"USA",95,"Color","English","R",3219029,5000000
-4674,"Growing Up Smith",2015,"USA",102,"Color","English","PG-13",,2000000
+4672,"Green Room",2015,"USA",95,"Color","English","R",3219029,5000000
+4673,"Growing Up Smith",2015,"USA",102,"Color","English","PG-13",,2000000
+4674,"Heist",2015,"USA",93,"Color","English","R",,19000000
 4675,"Heist",2015,"USA",93,"Color","English","R",,19000000
-4676,"Heist",2015,"USA",93,"Color","English","R",,19000000
-4677,"Heroes of Dirt",2015,"USA",98,"Color","English","PG-13",,
+4676,"Heroes of Dirt",2015,"USA",98,"Color","English","PG-13",,
+4677,"Home",2015,"USA",94,"Color","English","PG",177343675,135000000
 4678,"Home",2015,"USA",94,"Color","English","PG",177343675,135000000
 4679,"Home",2015,"USA",94,"Color","English","PG",177343675,135000000
-4680,"Home",2015,"USA",94,"Color","English","PG",177343675,135000000
-4681,"Hot Pursuit",2015,"USA",87,"Color","English","PG-13",34507079,35000000
-4682,"Hot Tub Time Machine 2",2015,"USA",99,"Color","English","R",12282677,14000000
-4683,"Hotel Transylvania 2",2015,"USA",89,"Color","English","PG",169692572,80000000
-4684,"In the Heart of the Sea",2015,"USA",122,"Color","English","PG-13",24985612,100000000
-4685,"Inside Out",2015,"USA",95,"Color","English","PG",356454367,175000000
-4686,"Insidious: Chapter 3",2015,"Canada",97,"Color","English","PG-13",52200504,10000000
-4687,"Insurgent",2015,"USA",119,"Color","English","PG-13",129995817,110000000
+4680,"#Horror",2015,"USA",101,"Color","English","Not Rated",,1500000
+4681,"Hotel Transylvania 2",2015,"USA",89,"Color","English","PG",169692572,80000000
+4682,"Hot Pursuit",2015,"USA",87,"Color","English","PG-13",34507079,35000000
+4683,"Hot Tub Time Machine 2",2015,"USA",99,"Color","English","R",12282677,14000000
+4684,"Inside Out",2015,"USA",95,"Color","English","PG",356454367,175000000
+4685,"Insidious: Chapter 3",2015,"Canada",97,"Color","English","PG-13",52200504,10000000
+4686,"Insurgent",2015,"USA",119,"Color","English","PG-13",129995817,110000000
+4687,"In the Heart of the Sea",2015,"USA",122,"Color","English","PG-13",24985612,100000000
 4688,"Into the Grizzly Maze",2015,"USA",94,,"English","R",,10000000
 4689,"Ip Man 3",2015,"Hong Kong",105,"Color","Cantonese","PG-13",2126511,36000000
 4690,"Joy",2015,"USA",124,"Color","English","PG-13",56443482,60000000
@@ -4722,9 +4722,9 @@
 4721,"Pound of Flesh",2015,"Canada",104,"Color","English","R",,7500000
 4722,"Project Almanac",2015,"USA",106,"Color","English","PG-13",22331028,12000000
 4723,"Queen Crab",2015,"USA",80,"Color","English",,,75000
-4724,"R.L. Stine's Monsterville: The Cabinet of Souls",2015,"USA",85,"Color","English","PG",,4400000
+4724,"Regression",2015,"Spain",106,"Color","English","R",54734,
 4725,"Re-Kill",2015,"USA",88,"Color","English","R",,9500000
-4726,"Regression",2015,"Spain",106,"Color","English","R",54734,
+4726,"R.L. Stine's Monsterville: The Cabinet of Souls",2015,"USA",85,"Color","English","PG",,4400000
 4727,"Road Hard",2015,"USA",98,"Color","English",,105943,1500000
 4728,"Romantic Schemer",2015,"USA",,"Color","English","PG-13",,125000
 4729,"Room",2015,"Ireland",118,"Color","English","R",14677654,13000000
@@ -4793,8 +4793,8 @@
 4792,"The Transporter Refueled",2015,"France",96,"Color","English","PG-13",16027866,25000000
 4793,"The Vatican Tapes",2015,"USA",91,"Color","English","PG-13",1712111,8495000
 4794,"The Visit",2015,"USA",94,"Color","English","PG-13",65069140,5000000
-4795,"The Walk",2015,"USA",123,"Color","English","PG",10137502,35000000
-4796,"The Walking Deceased",2015,"USA",88,"Color","English","R",,1250000
+4795,"The Walking Deceased",2015,"USA",88,"Color","English","R",,1250000
+4796,"The Walk",2015,"USA",123,"Color","English","PG",10137502,35000000
 4797,"The Wicked Within",2015,"USA",84,"Color","English","R",,1200000
 4798,"The Witch",2015,"USA",92,"Color","English","R",25138292,3500000
 4799,"The World Is Mine",2015,"Romania",104,"Color","Romanian",,,168000
@@ -4815,8 +4815,8 @@
 4814,"We Are Your Friends",2015,"UK",96,"Color","English","R",3590010,2000000
 4815,"Western Religion",2015,"USA",105,"Color","English",,,250000
 4816,"Wild Card",2015,"USA",92,"Color","English","R",,30000000
-4817,"Wind Walkers",2015,"USA",93,"Color","English","R",,2000000
-4818,"Windsor Drive",2015,"USA",90,"Color","English",,,100000
+4817,"Windsor Drive",2015,"USA",90,"Color","English",,,100000
+4818,"Wind Walkers",2015,"USA",93,"Color","English","R",,2000000
 4819,"Woman in Gold",2015,"UK",109,"Color","English","PG-13",33305037,11000000
 4820,"Zipper",2015,"USA",103,"Color","English","R",,4500000
 4821,"10 Cloverfield Lane",2016,"USA",104,"Color","English","PG-13",71897215,15000000
@@ -4921,19 +4921,19 @@
 4920,"Triple 9",2016,"USA",115,"Color","English","R",12626905,20000000
 4921,"Two Lovers and a Bear",2016,"Canada",96,"Color","English",,,8700000
 4922,"Warcraft",2016,"USA",123,"Color","English","PG-13",46978995,160000000
-4923,"X-Men: Apocalypse",2016,"USA",144,"Color","English","PG-13",154985087,178000000
-4924,"Xi you ji zhi: Sun Wukong san da Baigu Jing",2016,"China",119,"Color","English",,,68005000
+4923,"Xi you ji zhi: Sun Wukong san da Baigu Jing",2016,"China",119,"Color","English",,,68005000
+4924,"X-Men: Apocalypse",2016,"USA",144,"Color","English","PG-13",154985087,178000000
 4925,"Yoga Hosers",2016,"USA",88,"Color","English","PG-13",,5000000
 4926,"Zoolander 2",2016,"USA",102,"Color","English","PG-13",28837115,50000000
 4927,"10,000 B.C.",,,22,,,,,
-4928,"A Touch of Frost",,"UK",105,"Color","English",,,
-4929,"Anger Management",,"USA",22,"Color","English",,,
-4930,"Animal Kingdom",,"USA",60,"Color","English",,,
+4928,"Anger Management",,"USA",22,"Color","English",,,
+4929,"Animal Kingdom",,"USA",60,"Color","English",,,
+4930,"A Touch of Frost",,"UK",105,"Color","English",,,
 4931,"BrainDead",,"USA",44,"Color","English",,,
 4932,"Carlos",,"France",334,"Color","English","Not Rated",145118,
 4933,"Creature",,"USA",173,"Color","English",,,
 4934,"Deadline Gallipoli",,"Australia",197,"Color","English",,,15000000
-4935,"Del 1 - Män som hatar kvinnor",,"Sweden",88,"Color","Swedish",,,
+4935,"Del 1 - MÃ¤n som hatar kvinnor",,"Sweden",88,"Color","Swedish",,,
 4936,"Emma",,"UK",240,"Color","English",,,
 4937,"Fired Up",,"USA",30,"Color","English",,,
 4938,"Get Real",,"USA",60,"Color","English",,,

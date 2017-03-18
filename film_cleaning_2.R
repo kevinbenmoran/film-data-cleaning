@@ -3,11 +3,12 @@ library(dplyr)
 library(purrr)
 library(readr)
 library(stringr)
+library(ggplot2)
 options(scipen = 500)
 
 
 # Set Working Directory.
-
+setwd("~/Desktop/R Projects/film-data-cleaning")
 # Read in initial data, set type as double to avoid error due to huge budgets in yen.
 raw <- read_csv("raw.csv", col_types = cols(budget = col_double()))
 
@@ -16,6 +17,8 @@ raw <- arrange(raw, title_year, movie_title)
 raw$film_id <- c(1:nrow(raw))
 raw <- select(raw, film_id, 1:28)
 raw$movie_title <- str_trim(raw$movie_title)
+
+# -------------Functions-------------------
 
 # Create function to get list of unique values over multiple specified columns.
 get_unique <- function (x, col_nums) {
@@ -52,7 +55,7 @@ names(people)[1] <- "person_id"
 
 
 
-##Roles
+# ---------------Roles---------------
 
 # Form individual lists with necessary information for each column, then combine them, specifying role.
 # Come back and do this using map function.
@@ -76,7 +79,7 @@ roles <- select(roles, id, film_id, person_id, role)
 
 
 
-## Reviews 
+# ----------------Reviews---------------------
 
 # Create reviews table.
 reviews <- select(raw, 
@@ -96,7 +99,7 @@ reviews <- select(reviews, review_id, 1:7) %>%
 # Leave review_id and film_id as is for merging with films table.
 
 
-## Films
+# ----------------Films------------------------ 
 
 # Rename columns appropriately
 films <- select(raw, 
@@ -139,3 +142,40 @@ write_csv(reviews, "reviews.csv", na = "")
 
 # Use write.csv to avoid scientific notation in output.
 write.csv(films, "films.csv", na = "", row.names = F)
+
+
+#-------------Exploratory----------
+
+glimpse(films)
+
+profit <- select(films, id, title, gross, budget)
+profit <- profit[complete.cases(profit),]
+
+profit <- mutate(profit, difference = gross - budget, multiplier = gross/budget)
+arrange(profit, desc(difference))
+arrange(profit, desc(multiplier))
+
+top_10_multiplier <- arrange(profit, desc(multiplier))[1:10,]
+top_10_difference <- arrange(profit, desc(difference))[1:10,]
+
+ggplot(top_10_multiplier, aes(x = factor(title), y = multiplier, fill = title)) +
+  geom_col() +
+  coord_flip() +
+  guides(fill = FALSE) +
+  xlab("Movie") +
+  ylab("Markup: Gross/Budget") +
+  ggtitle("Top 10 movie markups") +
+  theme(axis.text=element_text(size=12),
+        title = element_text(size=14,face="bold")) +
+  theme(plot.margin=unit(c(0.5,1,0.5,0.5),"cm"))
+
+ggplot(top_10_difference, aes(x = factor(title), y = difference, fill = title)) +
+  geom_col() +
+  coord_flip() +
+  guides(fill = FALSE) +
+  xlab("Movie") +
+  ylab("Margin: Gross - Budget") +
+  ggtitle("Top 10 movie margins") +
+  theme(axis.text=element_text(size=12),
+        title = element_text(size=14,face="bold")) +
+  theme(plot.margin=unit(c(0.5,1,0.5,0.5),"cm"))
