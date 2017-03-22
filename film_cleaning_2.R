@@ -20,9 +20,17 @@ raw$movie_title <- str_trim(raw$movie_title)
 
 # -------------Functions-------------------
 
-# Create function to get list of unique values over multiple specified columns.
+
 get_unique <- function (x, col_nums) {
-  
+  # Create function to get list of unique values over multiple specified columns, and assign unique ids.
+  #
+  # Args:
+  #   x: The dataset containing the columns the operation is to be performed on
+  #   col_nums: A vector of the column numbers to find unique values in: i.e c(1,4,8)
+  #
+  # Returns:
+  #   A dataframe containing two columns, one containing the unique values, and one with unique ids    
+  #
   
   full_list <- unlist(map(x[col_nums], unlist))
   unique_values <-na.omit(unique(full_list))
